@@ -34,77 +34,38 @@ export const Book = () => {
     willChange: "transform",
   });
 
-  // Handle mouse movement over the element
   const handleMouseMove = (event) => {
     const { clientX, clientY, currentTarget } = event;
     const { width, height, left, top } = currentTarget.getBoundingClientRect();
 
-    // Calculate relative position within the element
-    const xPos = clientX - left;
-    const yPos = clientY - top;
+    // Calculate the relative position as a normalized value between -1 and 1
+    const xRel = ((clientX - left) / width - 0.5) * 2; // -1 on left, +1 on right
+    const yRel = ((clientY - top) / height - 0.5) * 2; // -1 at top, +1 at bottom
 
-    // Determine transformation based on mouse position (top-left, top-right, bottom-left, bottom-right)
-    if (xPos < width / 2 && yPos < height / 2) {
-      // Top-left
-      setStyle({
-        transform:
-          "translate3d(0px, -4px, 0px) scale3d(1, 1, 1) rotateX(4deg) rotateY(-4deg)",
-        transformStyle: "preserve-3d",
-        willChange: "transform",
-      });
-      setHighlightStyle({
-        transform:
-          "translate3d(100%, 100%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg)",
-        transformStyle: "preserve-3d",
-        willChange: "transform",
-      });
-    } else if (xPos >= width / 2 && yPos < height / 2) {
-      // Top-right
-      setStyle({
-        transform:
-          "translate3d(0px, -4px, 0px) scale3d(1, 1, 1) rotateX(4deg) rotateY(4deg)",
-        transformStyle: "preserve-3d",
-        willChange: "transform",
-      });
-      setHighlightStyle({
-        transform:
-          "translate3d(-50%, 100%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg)",
-        transformStyle: "preserve-3d",
-        willChange: "transform",
-      });
-    } else if (xPos >= width / 2 && yPos >= height / 2) {
-      // Bottom-right
-      setStyle({
-        transform:
-          "translate3d(0px, -4px, 0px) scale3d(1, 1, 1) rotateX(-4deg) rotateY(4deg)",
-        transformStyle: "preserve-3d",
-        willChange: "transform",
-      });
-      setHighlightStyle({
-        transform:
-          "translate3d(-50%, -50%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg)",
-        transformStyle: "preserve-3d",
-        willChange: "transform",
-      });
-    } else if (xPos < width / 2 && yPos >= height / 2) {
-      // Bottom-left
-      setStyle({
-        transform:
-          "translate3d(0px, -4px, 0px) scale3d(1, 1, 1) rotateX(-4deg) rotateY(-4deg)",
-        transformStyle: "preserve-3d",
-        willChange: "transform",
-      });
-      setHighlightStyle({
-        transform:
-          "translate3d(100%, -50%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg)",
-        transformStyle: "preserve-3d",
-        willChange: "transform",
-      });
-    }
+    // Map the normalized x/y values to a range between the specified boundaries
+    const rotateX = -yRel * 4; // Max ±4 deg for top/bottom
+    const rotateY = xRel * 4; // Max ±4 deg for left/right
+    const translateY = -4; // Slight lift on hover (adjustable as needed)
+
+    const highlightTranslateX = 25 + xRel * 25; // Adjust highlight x-translation
+    const highlightTranslateY = 25 - yRel * 75; // Adjust highlight y-translation
+
+    // Update styles dynamically based on mouse position
+    setStyle({
+      transform: `translate3d(0px, ${translateY}px, 0px) scale3d(1, 1, 1) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`,
+      transformStyle: "preserve-3d",
+      willChange: "transform",
+    });
+
+    setHighlightStyle({
+      transform: `translate3d(${highlightTranslateX}%, ${highlightTranslateY}%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg)`,
+      transformStyle: "preserve-3d",
+      willChange: "transform",
+    });
   };
 
-  // Reset styles when the mouse leaves the element
   const handleMouseLeave = () => {
+    // Reset to default styles
     setStyle({
       transform:
         "translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(-0.00064deg) rotateY(-0.00072deg) rotateZ(0deg) skew(0deg, 0deg)",
