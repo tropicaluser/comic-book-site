@@ -1,9 +1,18 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 "use client";
+
+// Extending the Window interface
+declare global {
+  interface Window {
+    "pdfjs-dist/build/pdf": any;
+    $: any; // For jQuery if needed for Turn.js
+  }
+}
 
 import { useEffect, useRef } from "react";
 
 const Flipbook = ({ pdfUrl }: any) => {
-  const flipbookContainer = useRef(null);
+  const flipbookContainer = useRef(null) as any;
 
   useEffect(() => {
     if (typeof window !== "undefined") {
@@ -15,7 +24,9 @@ const Flipbook = ({ pdfUrl }: any) => {
         const numPages = pdf.numPages;
 
         // Empty the container before appending new pages
-        flipbookContainer.current.innerHTML = '';
+        if (flipbookContainer.current) {
+          flipbookContainer.current.innerHTML = ""; // Clear existing content
+        }
 
         for (let pageNum = 1; pageNum <= numPages; pageNum++) {
           const page = await pdf.getPage(pageNum);
@@ -26,7 +37,8 @@ const Flipbook = ({ pdfUrl }: any) => {
           canvas.height = viewport.height;
 
           const context = canvas.getContext("2d");
-          await page.render({ canvasContext: context, viewport: viewport }).promise;
+          await page.render({ canvasContext: context, viewport: viewport })
+            .promise;
 
           // Create a div to hold the page and append the canvas
           const pageElement = document.createElement("div");

@@ -1,6 +1,8 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable @next/next/no-img-element */
 
-import { useState } from "react";
+import Link from "next/link";
+import { useState, CSSProperties } from "react";
 
 export const BookList = ({ data }: any) => {
   return (
@@ -14,21 +16,21 @@ export const BookList = ({ data }: any) => {
 
 export const Book = ({ bookItem }: any) => {
   // State for the main element and highlight styles
-  const [style, setStyle] = useState({
+  const [style, setStyle] = useState<CSSProperties>({
     transform:
       "translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)",
     transformStyle: "preserve-3d",
     willChange: "transform",
   });
 
-  const [highlightStyle, setHighlightStyle] = useState({
+  const [highlightStyle, setHighlightStyle] = useState<CSSProperties>({
     transform:
       "translate3d(25.0135%, 24.988%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)",
     transformStyle: "preserve-3d",
     willChange: "transform",
   });
 
-  const handleMouseMove = (event) => {
+  const handleMouseMove = (event: any) => {
     const { clientX, clientY, currentTarget } = event;
     const { width, height, left, top } = currentTarget.getBoundingClientRect();
 
@@ -77,7 +79,7 @@ export const Book = ({ bookItem }: any) => {
   return (
     <div className="children-perspective count-items w-dyn-item">
       <div className="book-wrap">
-        <a
+        <Link
           href="/books/the-bully-pulpit"
           className="book w-inline-block"
           style={style}
@@ -103,15 +105,11 @@ export const Book = ({ bookItem }: any) => {
 
             <div className="w-embed"></div>
           </div>
-        </a>
-
-        <a
-          href="/books/the-bully-pulpit"
-          className="link-no-underline w-inline-block"
-        >
-          <h5 className="grid-item-title text-xl">{bookItem.title}</h5>
-          <h6 className="grid-item-subtitle text-lg">{bookItem.author}</h6>
-        </a>
+          <div className="link-no-underline w-inline-block">
+            <h5 className="grid-item-title text-xl">{bookItem.title}</h5>
+            <h6 className="grid-item-subtitle text-lg">{bookItem.author}</h6>
+          </div>
+        </Link>
       </div>
     </div>
   );

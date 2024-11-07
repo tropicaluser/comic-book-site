@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 // make a global state store for zustand
 import { create } from "zustand";
 
@@ -12,7 +13,7 @@ export const useAppStore = create<AppState>((set: any) => ({
   isSidebarCollapsed: false,
   isDarkMode: false,
   setIsSidebarCollapsed: (isCollapsed: boolean) => set({ isSidebarCollapsed: isCollapsed }),
-  setIsDarkMode: () => set((state) => {
+  setIsDarkMode: () => set((state: any) => {
     const newMode = !state.isDarkMode;
 
     // Toggle between "dark" and "light" classes
