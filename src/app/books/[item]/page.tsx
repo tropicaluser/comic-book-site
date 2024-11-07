@@ -10,7 +10,9 @@ export default function BookPage() {
           <h1>I am here! YESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS</h1>
         </div>
         <div className="col-span-2 md:col-span-1">
-          <Flipbook pdfUrl="http://localhost:3000/books/something.pdf" />
+          <Flipbook
+            pdfUrl={`${process.env.NEXT_PUBLIC_BASE_URL}/books/something.pdf`}
+          />
         </div>
       </div>
 
