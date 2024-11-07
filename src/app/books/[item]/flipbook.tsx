@@ -6,15 +6,16 @@ const Flipbook = ({ pdfUrl }: any) => {
   const flipbookContainer = useRef(null);
 
   useEffect(() => {
-    // Check if we're in the client-side (window is available)
     if (typeof window !== "undefined") {
       // Initialize PDF.js
       const pdfjsLib = window["pdfjs-dist/build/pdf"] as any;
 
       const renderPDF = async () => {
         const pdf = await pdfjsLib.getDocument(pdfUrl).promise;
-        console.log("pdf", pdf);
         const numPages = pdf.numPages;
+
+        // Empty the container before appending new pages
+        flipbookContainer.current.innerHTML = '';
 
         for (let pageNum = 1; pageNum <= numPages; pageNum++) {
           const page = await pdf.getPage(pageNum);
@@ -25,8 +26,7 @@ const Flipbook = ({ pdfUrl }: any) => {
           canvas.height = viewport.height;
 
           const context = canvas.getContext("2d");
-          await page.render({ canvasContext: context, viewport: viewport })
-            .promise;
+          await page.render({ canvasContext: context, viewport: viewport }).promise;
 
           // Create a div to hold the page and append the canvas
           const pageElement = document.createElement("div");
@@ -34,10 +34,10 @@ const Flipbook = ({ pdfUrl }: any) => {
           pageElement.appendChild(canvas);
 
           // Append the page to the flipbook container
-          flipbookContainer.current.appendChild(pageElement) as any;
+          flipbookContainer.current.appendChild(pageElement);
         }
 
-        // Initialize Turn.js to create the flipbook effect
+        // Now initialize Turn.js to create the flipbook effect
         if (window.$) {
           $(flipbookContainer.current).turn({
             width: 800,

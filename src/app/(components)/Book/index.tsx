@@ -2,27 +2,21 @@
 
 import { useState } from "react";
 
-export const BookList = () => {
+export const BookList = ({ data }: any) => {
   return (
     <div className="grid-books grid-books-combine w-dyn-items">
-      <Book />
-      <Book />
-      <Book />
-      <Book />
-      <Book />
-      <Book />
-      <Book />
-      <Book />
-      <Book />
+      {data.map((item: any) => (
+        <Book key={item.number} bookItem={item} />
+      ))}
     </div>
   );
 };
 
-export const Book = () => {
+export const Book = ({ bookItem }: any) => {
   // State for the main element and highlight styles
   const [style, setStyle] = useState({
     transform:
-      "translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(-0.00064deg) rotateY(-0.00072deg) rotateZ(0deg) skew(0deg, 0deg)",
+      "translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)",
     transformStyle: "preserve-3d",
     willChange: "transform",
   });
@@ -44,10 +38,10 @@ export const Book = () => {
 
     // Map the normalized x/y values to a range between the specified boundaries
     const rotateX = -yRel * 4; // Max ±4 deg for top/bottom
-    const rotateY = xRel * 4; // Max ±4 deg for left/right
-    const translateY = -4; // Slight lift on hover (adjustable as needed)
+    const rotateY = -xRel * 4; // Inverted for left/right
+    const translateY = -4; // Slight lift on hover
 
-    const highlightTranslateX = 25 + xRel * 25; // Adjust highlight x-translation
+    const highlightTranslateX = 25 - xRel * 25; // Adjust highlight x-translation
     const highlightTranslateY = 25 - yRel * 75; // Adjust highlight y-translation
 
     // Update styles dynamically based on mouse position
@@ -103,7 +97,7 @@ export const Book = () => {
             <img
               loading="lazy"
               alt="The Bully Pulpit"
-              src="https://cdn.prod.website-files.com/61cb87c118979013b4f7938b/61cb87c11897902c7ff7b18f_the-bully-pulpit.jpeg"
+              src={`${process.env.NEXT_PUBLIC_BASE_URL}/books/images/${bookItem?.image}`}
               className="book-cover"
             />
 
@@ -115,8 +109,8 @@ export const Book = () => {
           href="/books/the-bully-pulpit"
           className="link-no-underline w-inline-block"
         >
-          <h5 className="grid-item-title">The Bully Pulpit</h5>
-          <h6 className="grid-item-subtitle">Doris Kearns Goodwin</h6>
+          <h5 className="grid-item-title text-xl">{bookItem.title}</h5>
+          <h6 className="grid-item-subtitle text-lg">{bookItem.author}</h6>
         </a>
       </div>
     </div>
