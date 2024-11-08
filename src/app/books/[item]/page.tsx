@@ -31,12 +31,7 @@ const CustomButtonInverse = ({ children, ...props }: any) => {
 
 export default function BookPageLayout() {
   return (
-    /*************  ✨ Codeium Command ⭐  *************/
-    /**
-     * Go back to the previous page in the Next.js router history.
-     * @function
-     */
-    /******  69b913bd-315b-4a9b-b811-499fe950b67e  *******/ <div className="bg-[#F5F6F8]">
+    <div className="bg-[#F5F6F8]">
       <div className="bg-orange-500 h-[250px]">
         <div className="pt-12 ml-28">
           <Link href="/">
@@ -45,7 +40,7 @@ export default function BookPageLayout() {
         </div>
       </div>
 
-      <div className="ml-28 -mt-40 bg-white max-w-2xl rounded">
+      <div className="md:ml-28 -mt-40 md:bg-white md:max-w-2xl rounded">
         <BookPage />
       </div>
     </div>
@@ -55,7 +50,7 @@ export default function BookPageLayout() {
 function BookPage() {
   return (
     <>
-      <div className="grid grid-cols-2">
+      <div className="grid md:grid-cols-2">
         <div>
           <Image
             alt="something"
@@ -67,7 +62,7 @@ function BookPage() {
             }}
           />
         </div>
-        <div className="flex flex-col justify-end gap-4 -ml-8">
+        <div className="flex flex-col justify-end gap-4 md:-ml-8 pt-8 md:pt-0">
           <h1 className="text-4xl font-rubik font-medium">Garis Waktu</h1>
           <div className="flex gap-4 font-rambla text-gray-500">
             <p>by Fiersa Besari</p>
@@ -85,7 +80,7 @@ function BookPage() {
 
         {/* <TurnjsComponent /> */}
       </div>
-      <div className="pt-10 grid px-8">
+      <div className="pt-10 grid md:px-8">
         <h1 className="font-rubik text-2xl font-thin">Sinoposis</h1>
         <p className="max-w-xl font-rambla text-gray-500 text-md">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Varius nisl
