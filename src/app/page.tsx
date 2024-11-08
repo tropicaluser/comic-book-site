@@ -1,8 +1,7 @@
 "use client";
 
 import { BookList } from "@/app/(components)/Book";
-import { dataPre1930 } from '@/data/slice-data';
-
+import { dataPre1930 } from "@/data/slice-data";
 
 export default function Home() {
   return (

@@ -1,3 +1,4 @@
+"use client";
 /* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable @next/next/no-img-element */
 
@@ -80,7 +81,7 @@ export const Book = ({ bookItem }: any) => {
     <div className="children-perspective count-items w-dyn-item">
       <div className="book-wrap">
         <Link
-          href="/books/the-bully-pulpit"
+          href={`/books/${bookItem.link}`}
           className="book w-inline-block"
           style={style}
           onMouseMove={handleMouseMove}
@@ -105,9 +106,9 @@ export const Book = ({ bookItem }: any) => {
 
             <div className="w-embed"></div>
           </div>
-          <div className="link-no-underline w-inline-block">
-            <h5 className="grid-item-title text-xl">{bookItem.title}</h5>
-            <h6 className="grid-item-subtitle text-lg">{bookItem.author}</h6>
+          <div className="link-no-underline w-inline-block my-2">
+            <h5 className="grid-item-title text-lg font-thin">{bookItem.title}</h5>
+            <h6 className="grid-item-subtitle font-thin">{bookItem.author}</h6>
           </div>
         </Link>
       </div>

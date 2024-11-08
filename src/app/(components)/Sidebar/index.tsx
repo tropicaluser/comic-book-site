@@ -1,6 +1,15 @@
 "use client";
 
-import { Archive, CircleDollarSign, Clipboard, Layout, LucideIcon, Menu, SlidersHorizontal, User } from "lucide-react";
+import {
+  Archive,
+  CircleDollarSign,
+  Clipboard,
+  Layout,
+  LucideIcon,
+  Menu,
+  SlidersHorizontal,
+  User,
+} from "lucide-react";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 
@@ -91,21 +100,39 @@ const Sidebar = () => {
       <div className="flex-grow mt-8">
         {" "}
         <SidebarLink
-          href="/a"
+          href="/timeline/pre"
           icon={Layout}
           label="Pre 1930"
           isCollapsed={isSidebarCollapsed}
         />
         <SidebarLink
-          href="/b"
+          href="/timeline/1930-50"
           icon={Archive}
           label="1930-50"
           isCollapsed={isSidebarCollapsed}
         />
         <SidebarLink
-          href="/c"
+          href="/timeline/1950-70"
           icon={Clipboard}
           label="1950-70"
+          isCollapsed={isSidebarCollapsed}
+        />
+        <SidebarLink
+          href="/timeline/1970-90"
+          icon={Clipboard}
+          label="1970-90"
+          isCollapsed={isSidebarCollapsed}
+        />
+        <SidebarLink
+          href="/timeline/1990-00"
+          icon={Clipboard}
+          label="1990-00"
+          isCollapsed={isSidebarCollapsed}
+        />
+        <SidebarLink
+          href="/timeline/2000-2012"
+          icon={Clipboard}
+          label="2000-2012"
           isCollapsed={isSidebarCollapsed}
         />
         <SidebarLink

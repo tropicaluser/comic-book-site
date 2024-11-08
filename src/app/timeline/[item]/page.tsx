@@ -1,13 +1,58 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable @typescript-eslint/no-unused-vars */
-"use client";
 
 import { BookList } from "@/app/(components)/Book";
-import { dataPre1930 } from "@/data/slice-data";
+import {
+  dataPre1930,
+  data19301950,
+  data19501970,
+  data19701990,
+  data19902000,
+  data20002011,
+} from "@/data/slice-data";
 
-export default function PageComics() {
+// Function to group the data by year
+const groupByYear = (data: any[]) => {
+  return data.reduce((acc, item) => {
+    const year = item.year;
+    // Initialize array for the year if not already in the accumulator
+    if (!acc[year]) {
+      acc[year] = [];
+    }
+    acc[year].push(item); // Add the current item to the corresponding year
+    return acc;
+  }, {});
+};
+
+export default function PageComics({ params }: { slug: string }) {
+  // params
+  const { item } = params;
+
+  let groupedData: any;
+  if (item === "pre") {
+    groupedData = groupByYear(dataPre1930);
+  } else if (item === "1930-50") {
+    groupedData = groupByYear(data19301950);
+  } else if (item === "1950-70") {
+    groupedData = groupByYear(data19501970);
+  } else if (item === "1970-90") {
+    groupedData = groupByYear(data19701990);
+  } else if (item === "1990-00") {
+    groupedData = groupByYear(data19902000);
+  } else if (item === "2000-2012") {
+    groupedData = groupByYear(data20002011);
+  }
+
   return (
     <div className="grid bg-white h-full">
-      <BookList data={dataPre1930} />
+      {Object.keys(groupedData).map((year) => (
+        <div key={year} className="year-group">
+          {/* Display the year in a div */}
+          <h3 className="year my-4 text-xl font-thin font-rambla">{year}</h3>
+          {/* Display the list of books for this year */}
+          <BookList data={groupedData[year]} />
+        </div>
+      ))}
     </div>
   );
 }

@@ -1,6 +1,6 @@
 .grid-books {
   grid-column-gap: 3vw;
-  grid-row-gap: 40px;
+  /* grid-row-gap: 40px; */
   grid-template-rows: auto;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-auto-columns: 1fr;
@@ -30,10 +30,11 @@
   text-decoration: none;
   display: block;
   position: relative;
+  
 }
 
 .book {
-  margin-bottom: 32px;
+  margin-bottom: 12px;
   position: relative;
 }
 .w-inline-block {
@@ -117,7 +118,7 @@ img {
 }
 .grid-item-title {
   margin-top: 0;
-  margin-bottom: 0.5em;
+  margin-bottom: 0;
 }
 
 .grid-item-subtitle {

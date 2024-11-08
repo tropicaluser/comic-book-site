@@ -17,6 +17,9 @@ const getDataForYearRange = (startYear: number, endYear: number) => {
     : [];
 };
 
+// full data
+const data = dataJSON;
+
 // Create sliced data for each range
 const dataPre1930 = dataJSON.slice(0, getIndexForYear(1930));
 const data19301950 = getDataForYearRange(1930, 1950);
@@ -26,6 +29,7 @@ const data19902000 = getDataForYearRange(1990, 2000);
 const data20002011 = getDataForYearRange(2000, 2012);
 
 export {
+  data,
   dataPre1930,
   data19301950,
   data19501970,

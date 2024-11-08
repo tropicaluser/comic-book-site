@@ -4,5111 +4,5882 @@
     "title": "The Adventures of Mr. Obadiah Oldbuck",
     "author": "1837",
     "image": "image-The_Adventures_of_Mr_Obadiah_Oldbuck.jpg",
-    "year": 1837
+    "year": 1837,
+    "link": "the-adventures-of-mr-obadiah-oldbuck"
   },
   {
     "number": "02",
     "title": "The History of Holy Russia",
     "author": "1854",
-    "image": "image-The_History_of_Holy_Russia.jpg"
+    "image": "image-The_History_of_Holy_Russia.jpg",
+    "link": "the-history-of-holy-russia"
   },
   {
     "number": "03",
     "title": "Max and Moritz",
     "author": "Heinrich Christian Wilhelm Busch",
-    "image": "image-Max_and_Moritz.jpg"
+    "image": "image-Max_and_Moritz.jpg",
+    "link": "max-and-moritz"
   },
   {
     "number": "04",
     "title": "Balthazar's Feast",
     "author": "Caran D'Ache",
-    "image": "image-Balthazars_Feast.jpg"
+    "image": "image-Balthazars_Feast.jpg",
+    "link": "balthazars-feast"
   },
   {
     "number": "05",
     "title": "Stuff & Nonsense",
     "author": "Arthur Burdett Frost",
     "image": "image-Stuff__Nonsense.jpg",
-    "year": 1884
+    "year": 1884,
+    "link": "stuff--nonsense"
   },
   {
     "number": "06",
     "title": "Fenouillard Family",
     "author": "Christophe",
     "image": "image-Fenouillard_Family.jpg",
-    "year": 1889
+    "year": 1889,
+    "link": "fenouillard-family"
   },
   {
     "number": "07",
     "title": "The Yellow Kid",
     "author": "R.F. Outcault",
     "image": "image-The_Yellow_Kid.jpg",
-    "year": 1894
+    "year": 1894,
+    "link": "the-yellow-kid"
   },
   {
     "number": "08",
     "title": "The Katzenjammer Kids",
     "author": "Rudolph Dirks",
     "image": "image-The_Katzenjammer_Kids.jpg",
-    "year": 1897
+    "year": 1897,
+    "link": "the-katzenjammer-kids"
   },
   {
     "number": "09",
     "title": "Happy Hooligan",
     "author": "Frederick Burr Opper",
     "image": "image-Happy_Hooligan.jpg",
-    "year": 1900
+    "year": 1900,
+    "link": "happy-hooligan"
   },
   {
     "number": "10",
     "title": "Buster Brown",
     "author": "Richard Felton Outcault",
     "image": "image-Buster_Brown.jpg",
-    "year": 1902
+    "year": 1902,
+    "link": "buster-brown"
   },
   {
     "number": "11",
     "title": "The Upside-Downs",
     "author": "Gustave Verbeek",
-    "image": "image-The_UpsideDowns.jpg"
+    "image": "image-The_UpsideDowns.jpg",
+    "link": "the-upside-downs"
   },
   {
     "number": "12",
     "title": "Dream of the Rarebit Fiend",
     "author": "Winsor McCay",
-    "image": "image-Dream_of_the_Rarebit_Fiend.jpg"
+    "image": "image-Dream_of_the_Rarebit_Fiend.jpg",
+    "link": "dream-of-the-rarebit-fiend"
   },
   {
     "number": "13",
     "title": "Little Jimmy",
     "author": "James Swinnerton",
     "image": "image-Little_Jimmy.jpg",
-    "year": 1904
+    "year": 1904,
+    "link": "little-jimmy"
   },
   {
     "number": "14",
     "title": "The Kin-Der-Kids",
     "author": "Lyonel Feininger",
-    "image": "image-The_KinDerKids.jpg"
+    "image": "image-The_KinDerKids.jpg",
+    "link": "the-kin-der-kids"
   },
   {
     "number": "15",
     "title": "Mutt & Jeff",
     "author": "Bud Fisher",
     "image": "image-Mutt__Jeff.jpg",
-    "year": 1907
+    "year": 1907,
+    "link": "mutt--jeff"
   },
   {
     "number": "16",
     "title": "Quadratino",
     "author": "Antonio Rubino",
     "image": "image-Quadratino.jpg",
-    "year": 1910
+    "year": 1910,
+    "link": "quadratino"
   },
   {
     "number": "17",
     "title": "Krazy Kat",
     "author": "George Herriman",
     "image": "image-Krazy_Kat.jpg",
-    "year": 1913
+    "year": 1913,
+    "link": "krazy-kat"
   },
   {
     "number": "18",
     "title": "When a Feller Needs a Friend",
     "author": "Clare Briggs",
-    "image": "image-When_a_Feller_Needs_a_Friend.jpg"
+    "image": "image-When_a_Feller_Needs_a_Friend.jpg",
+    "link": "when-a-feller-needs-a-friend"
   },
   {
     "number": "19",
     "title": "Rube Goldberg Inventions",
     "author": "Rube Goldberg",
     "image": "image-Rube_Goldberg_Inventions.jpg",
-    "year": 1914
+    "year": 1914,
+    "link": "rube-goldberg-inventions"
   },
   {
     "number": "20",
     "title": "Punch Comic Strips",
     "author": "H.M. Bateman",
     "image": "image-Punch_Comic_Strips.jpg",
-    "year": 1916
+    "year": 1916,
+    "link": "punch-comic-strips"
   },
   {
     "number": "21",
     "title": "The Gumps",
     "author": "Sidney Smith",
     "image": "image-The_Gumps.jpg",
-    "year": 1917
+    "year": 1917,
+    "link": "the-gumps"
   },
   {
     "number": "22",
     "title": "Signor Bonaventura",
     "author": "Sergio \"Sto\" Tofano",
-    "image": "image-Signor_Bonaventura.jpg"
+    "image": "image-Signor_Bonaventura.jpg",
+    "link": "signor-bonaventura"
   },
   {
     "number": "23",
     "title": "Brinkley Girls",
     "author": "Neil Brinkley",
     "image": "image-Brinkley_Girls.jpg",
-    "year": 1918
+    "year": 1918,
+    "link": "brinkley-girls"
   },
   {
     "number": "24",
     "title": "The Bungle Family",
     "author": "Harry J. Tuthill",
     "image": "image-The_Bungle_Family.jpg",
-    "year": 1918
+    "year": 1918,
+    "link": "the-bungle-family"
   },
   {
     "number": "25",
     "title": "Passionate Journey",
     "author": "Frans Masereel",
     "image": "image-Passionate_Journey.jpg",
-    "year": 1919
+    "year": 1919,
+    "link": "passionate-journey"
   },
   {
     "number": "26",
     "title": "Barney Google & Snuffy Smith",
     "author": "Billy Debeck",
     "image": "image-Barney_Google__Snuffy_Smith.jpg",
-    "year": 1919
+    "year": 1919,
+    "link": "barney-google--snuffy-smith"
   },
   {
     "number": "27",
     "title": "Pip, Squeak & Wilfred",
     "author": "Bertram Lamb & Austin Payne",
     "image": "image-Pip_Squeak__Wilfred.jpg",
-    "year": 1919
+    "year": 1919,
+    "link": "pip-squeak--wilfred"
   },
   {
     "number": "28",
     "title": "Adamson's Adventures",
     "author": "Oscar Jacobsson",
-    "image": "image-Adamsons_Adventures.jpg"
+    "image": "image-Adamsons_Adventures.jpg",
+    "link": "adamsons-adventures"
   },
   {
     "number": "29",
     "title": "Rupert the Bear",
     "author": "Mary Tourtel",
-    "image": "image-Rupert_the_Bear.jpg"
+    "image": "image-Rupert_the_Bear.jpg",
+    "link": "rupert-the-bear"
   },
   {
     "number": "30",
     "title": "Winnie Winkle",
     "author": "Martin Branner",
     "image": "image-Winnie_Winkle.jpg",
-    "year": 1920
+    "year": 1920,
+    "link": "winnie-winkle"
   },
   {
     "number": "31",
     "title": "Pop",
     "author": "John Millar Watt",
     "image": "image-Pop.jpg",
-    "year": 1921
+    "year": 1921,
+    "link": "pop"
   },
   {
     "number": "32",
     "title": "Ginger Meggs",
     "author": "Jimmy Bancks",
     "image": "image-Ginger_Meggs.jpg",
-    "year": 1921
+    "year": 1921,
+    "link": "ginger-meggs"
   },
   {
     "number": "33",
     "title": "Minute Movies",
     "author": "Ed Wheelan",
     "image": "image-Minute_Movies.jpg",
-    "year": 1921
+    "year": 1921,
+    "link": "minute-movies"
   },
   {
     "number": "34",
     "title": "Peter & Ping",
     "author": "P. Storm",
     "image": "image-Peter__Ping.jpg",
-    "year": 1922
+    "year": 1922,
+    "link": "peter--ping"
   },
   {
     "number": "35",
     "title": "Felix the Cat",
     "author": "Otto Messmer",
-    "image": "image-Felix_the_Cat.jpg"
+    "image": "image-Felix_the_Cat.jpg",
+    "link": "felix-the-cat"
   },
   {
     "number": "36",
     "title": "Gédéon",
     "author": "Benjamin Rabier",
     "image": "image-Gdon.jpg",
-    "year": 1923
+    "year": 1923,
+    "link": "gdon"
   },
   {
     "number": "37",
     "title": "Moon Mullins",
     "author": "Frank Willard",
     "image": "image-Moon_Mullins.jpg",
-    "year": 1923
+    "year": 1923,
+    "link": "moon-mullins"
   },
   {
     "number": "38",
     "title": "Skippy",
     "author": "Percy Crosby",
     "image": "image-Skippy.jpg",
-    "year": 1923
+    "year": 1923,
+    "link": "skippy"
   },
   {
     "number": "39",
     "title": "Wash Tubbs",
     "author": "Roy Crane",
     "image": "image-Wash_Tubbs.jpg",
-    "year": 1924
+    "year": 1924,
+    "link": "wash-tubbs"
   },
   {
     "number": "40",
     "title": "Little Orphan Annie",
     "author": "Harold Gray",
     "image": "image-Little_Orphan_Annie.jpg",
-    "year": 1924
+    "year": 1924,
+    "link": "little-orphan-annie"
   },
   {
     "number": "41",
     "title": "Destiny: A Novel in Picture",
     "author": "Otto Nückel",
-    "image": "image-Destiny_A_Novel_in_Picture.jpg"
+    "image": "image-Destiny_A_Novel_in_Picture.jpg",
+    "link": "destiny-a-novel-in-picture"
   },
   {
     "number": "42",
     "title": "Connie",
     "author": "Frank Godwin",
     "image": "image-Connie.jpg",
-    "year": 1927
+    "year": 1927,
+    "link": "connie"
   },
   {
     "number": "43",
     "title": "Buck Rogers",
     "author": "Philip Nowlan & Dick Calkins",
     "image": "image-Buck_Rogers.jpg",
-    "year": 1929
+    "year": 1929,
+    "link": "buck-rogers"
   },
   {
     "number": "44",
     "title": "Gods' Man",
     "author": "Lynd Ward",
-    "image": "image-Gods_Man.jpg"
+    "image": "image-Gods_Man.jpg",
+    "link": "gods-man"
   },
   {
     "number": "45",
     "title": "Blondie",
     "author": "Chic Young",
     "image": "image-Blondie.jpg",
-    "year": 1930
+    "year": 1930,
+    "link": "blondie"
   },
   {
     "number": "46",
     "title": "Quick & Flupke - Haute Tension",
     "author": "Hergé",
-    "image": "image-Quick__Flupke__Haute_Tension.jpg"
+    "image": "image-Quick__Flupke__Haute_Tension.jpg",
+    "link": "quick--flupke---haute-tension"
   },
   {
     "number": "47",
     "title": "He Done Her Wrong",
     "author": "Milt Gross",
     "image": "image-He_Done_Her_Wrong.jpg",
-    "year": 1930
+    "year": 1930,
+    "link": "he-done-her-wrong"
   },
   {
     "number": "48",
     "title": "Norakuro",
     "author": "Suiho Tagawa",
     "image": "image-Norakuro.jpg",
-    "year": 1931
+    "year": 1931,
+    "link": "norakuro"
   },
   {
     "number": "49",
     "title": "Joe Palooka",
     "author": "Ham Fisher",
     "image": "image-Joe_Palooka.jpg",
-    "year": 1931
+    "year": 1931,
+    "link": "joe-palooka"
   },
   {
     "number": "50",
     "title": "The Little King",
     "author": "Otto Soglow",
     "image": "image-The_Little_King.jpg",
-    "year": 1931
+    "year": 1931,
+    "link": "the-little-king"
   },
   {
     "number": "51",
     "title": "Tarzan",
     "author": "Hal Foster & Burne Hogarth",
     "image": "image-Tarzan.jpg",
-    "year": 1947
+    "year": 1947,
+    "link": "tarzan"
   },
   {
     "number": "52",
     "title": "Dick Tracy",
     "author": "Chester Gould",
     "image": "image-Dick_Tracy.jpg",
-    "year": 1931
+    "year": 1931,
+    "link": "dick-tracy"
   },
   {
     "number": "53",
     "title": "The Four Immigrants Manga: The Japanese Experience in San Francisco, 1904-1924",
     "author": "Yoshitaka (Henry) Kiyama",
-    "image": "image-The_Four_Immigrants_Manga_The_Japanese_Experience_in_San_Francisco_19041924.jpg"
+    "image": "image-The_Four_Immigrants_Manga_The_Japanese_Experience_in_San_Francisco_19041924.jpg",
+    "link": "the-four-immigrants-manga-the-japanese-experience-in-san-francisco-1904-1924"
   },
   {
     "number": "54",
     "title": "Alley Oop",
     "author": "V.T. Hamlin",
     "image": "image-Alley_Oop.jpg",
-    "year": 1932
+    "year": 1932,
+    "link": "alley-oop"
   },
   {
     "number": "55",
     "title": "Jane",
     "author": "Norman Pett & Don Freeman",
     "image": "image-Jane.jpg",
-    "year": 1932
+    "year": 1932,
+    "link": "jane"
   },
   {
     "number": "56",
     "title": "Mickey Mouse",
     "author": "Floyd Gottfredson",
     "image": "image-Mickey_Mouse.jpg",
-    "year": 1933
+    "year": 1933,
+    "link": "mickey-mouse"
   },
   {
     "number": "57",
     "title": "White Boy",
     "author": "Garrett Price",
     "image": "image-White_Boy.jpg",
-    "year": 1933
+    "year": 1933,
+    "link": "white-boy"
   },
   {
     "number": "58",
     "title": "Brick Bradford",
     "author": "William Ritt & Clarence Gray",
     "image": "image-Brick_Bradford.jpg",
-    "year": 1933
+    "year": 1933,
+    "link": "brick-bradford"
   },
   {
     "number": "59",
     "title": "A Week of Kindness",
     "author": "Max Ernst",
-    "image": "image-A_Week_of_Kindness.jpg"
+    "image": "image-A_Week_of_Kindness.jpg",
+    "link": "a-week-of-kindness"
   },
   {
     "number": "60",
     "title": "Betty Boop",
     "author": "Bud Counihan",
     "image": "image-Betty_Boop.jpg",
-    "year": 1934
+    "year": 1934,
+    "link": "betty-boop"
   },
   {
     "number": "61",
     "title": "Father & Son",
     "author": "E.O. Plauen",
     "image": "image-Father__Son.jpg",
-    "year": 1934
+    "year": 1934,
+    "link": "father--son"
   },
   {
     "number": "62",
     "title": "Mandrake the Magician",
     "author": "Lee Falk & Phil Davis",
-    "image": "image-Mandrake_the_Magician.jpg"
+    "image": "image-Mandrake_the_Magician.jpg",
+    "link": "mandrake-the-magician"
   },
   {
     "number": "63",
     "title": "Secret Agent X-9",
     "author": "Dashiell Hammet & Alex Raymond",
     "image": "image-Secret_Agent_X9.jpg",
-    "year": 1934
+    "year": 1934,
+    "link": "secret-agent-x-9"
   },
   {
     "number": "64",
     "title": "Tank Tankoru",
     "author": "Gajo Sakamoto",
     "image": "image-Tank_Tankoru.jpg",
-    "year": 1934
+    "year": 1934,
+    "link": "tank-tankoru"
   },
   {
     "number": "65",
     "title": "Flash Gordon",
     "author": "Alex Raymond & Dan Moore",
     "image": "image-Flash_Gordon.jpg",
-    "year": 1934
+    "year": 1934,
+    "link": "flash-gordon"
   },
   {
     "number": "66",
     "title": "Patoruzú",
     "author": "Dante Quinterno",
     "image": "image-Patoruz.jpg",
-    "year": 1935
+    "year": 1935,
+    "link": "patoruz"
   },
   {
     "number": "67",
     "title": "Cuto",
     "author": "Jesus Blasco",
     "image": "image-Cuto.jpg",
-    "year": 1935
+    "year": 1935,
+    "link": "cuto"
   },
   {
     "number": "68",
     "title": "Smokey Stover",
     "author": "Bill Holman",
     "image": "image-Smokey_Stover.jpg",
-    "year": 1935
+    "year": 1935,
+    "link": "smokey-stover"
   },
   {
     "number": "69",
     "title": "Super Whiz Kids",
     "author": "Germán Butze",
     "image": "image-Super_Whiz_Kids.jpg",
-    "year": 1936
+    "year": 1936,
+    "link": "super-whiz-kids"
   },
   {
     "number": "70",
     "title": "The Broons",
     "author": "R.D. Low & Dudley D. Watkins",
     "image": "image-The_Broons.jpg",
-    "year": 1936
+    "year": 1936,
+    "link": "the-broons"
   },
   {
     "number": "71",
     "title": "The Phantom",
     "author": "Lee Falk & Ray Moore",
     "image": "image-The_Phantom.jpg",
-    "year": 1936
+    "year": 1936,
+    "link": "the-phantom"
   },
   {
     "number": "72",
     "title": "The Old Tomcat",
     "author": "Andrija Maurović",
     "image": "image-The_Old_Tomcat.jpg",
-    "year": 1937
+    "year": 1937,
+    "link": "the-old-tomcat"
   },
   {
     "number": "73",
     "title": "The Burrón Family",
     "author": "Gabriel Vargas",
     "image": "image-The_Burrn_Family.jpg",
-    "year": 1937
+    "year": 1937,
+    "link": "the-burrn-family"
   },
   {
     "number": "74",
     "title": "Nancy",
     "author": "Ernie Bushmiller",
     "image": "image-Nancy.jpg",
-    "year": 1938
+    "year": 1938,
+    "link": "nancy"
   },
   {
     "number": "75",
     "title": "Red Ryder",
     "author": "Fred Harman",
     "image": "image-Red_Ryder.jpg",
-    "year": 1938
+    "year": 1938,
+    "link": "red-ryder"
   },
   {
     "number": "76",
     "title": "Mopsy",
     "author": "Gladys Parker",
     "image": "image-Mopsy.jpg",
-    "year": 1939
+    "year": 1939,
+    "link": "mopsy"
   },
   {
     "number": "77",
     "title": "Frankenstein",
     "author": "Dick Briefer",
     "image": "image-Frankenstein.jpg",
-    "year": 1940
+    "year": 1940,
+    "link": "frankenstein"
   },
   {
     "number": "78",
     "title": "Brenda Starr, Reporter",
     "author": "Dale Messick",
     "image": "image-Brenda_Starr_Reporter.jpg",
-    "year": 1940
+    "year": 1940,
+    "link": "brenda-starr-reporter"
   },
   {
     "number": "79",
     "title": "Miss Fury",
     "author": "June Tarpé Mills",
     "image": "image-Miss_Fury.jpg",
-    "year": 1941
+    "year": 1941,
+    "link": "miss-fury"
   },
   {
     "number": "80",
     "title": "Tom Puss",
     "author": "Marten Toonder & Piet Wijn",
     "image": "image-Tom_Puss.jpg",
-    "year": 1941
+    "year": 1941,
+    "link": "tom-puss"
   },
   {
     "number": "81",
     "title": "Gordo",
     "author": "Gustavo Arriola",
     "image": "image-Gordo.jpg",
-    "year": 1941
+    "year": 1941,
+    "link": "gordo"
   },
   {
     "number": "82",
     "title": "Archie",
     "author": "Joe Montana & John L. Goldwater",
     "image": "image-Archie.jpg",
-    "year": 1941
+    "year": 1941,
+    "link": "archie"
   },
   {
     "number": "83",
     "title": "Barnaby",
     "author": "Crockett Johnson",
     "image": "image-Barnaby.jpg",
-    "year": 1942
+    "year": 1942,
+    "link": "barnaby"
   },
   {
     "number": "84",
     "title": "Jingle Jangle Comics",
     "author": "George Carlson",
     "image": "image-Jingle_Jangle_Comics.jpg",
-    "year": 1942
+    "year": 1942,
+    "link": "jingle-jangle-comics"
   },
   {
     "number": "85",
     "title": "Powerhouse Pepper",
     "author": "Basil Wolverton",
     "image": "image-Powerhouse_Pepper.jpg",
-    "year": 1942
+    "year": 1942,
+    "link": "powerhouse-pepper"
   },
   {
     "number": "86",
     "title": "The Secret of the Unicorn",
     "author": "Hergé",
-    "image": "image-The_Secret_of_the_Unicorn.jpg"
+    "image": "image-The_Secret_of_the_Unicorn.jpg",
+    "link": "the-secret-of-the-unicorn"
   },
   {
     "number": "87",
     "title": "The Seven Crystal Balls",
     "author": "Hergé",
-    "image": "image-The_Seven_Crystal_Balls.jpg"
+    "image": "image-The_Seven_Crystal_Balls.jpg",
+    "link": "the-seven-crystal-balls"
   },
   {
     "number": "88",
     "title": "Captain Marvel vs. the Monster Society of Evil",
     "author": "Captain Marvel Adventures #22-46) (C.C. Beck",
-    "image": "image-Captain_Marvel_vs_the_Monster_Society_of_Evil.jpg"
+    "image": "image-Captain_Marvel_vs_the_Monster_Society_of_Evil.jpg",
+    "link": "captain-marvel-vs-the-monster-society-of-evil"
   },
   {
     "number": "89",
     "title": "The Beast Is Dead!",
     "author": "Victor Dancette & Edmond-François Calvo",
     "image": "image-The_Beast_Is_Dead.jpg",
-    "year": 1944
+    "year": 1944,
+    "link": "the-beast-is-dead"
   },
   {
     "number": "90",
     "title": "The Ulises Family",
     "author": "Joaquim Buigas & Marino Benejam",
     "image": "image-The_Ulises_Family.jpg",
-    "year": 1945
+    "year": 1945,
+    "link": "the-ulises-family"
   },
   {
     "number": "91",
     "title": "The Pioneers of Hope",
     "author": "Roger Lécureux & Raymond Poïvet",
-    "image": "image-The_Pioneers_of_Hope.jpg"
+    "image": "image-The_Pioneers_of_Hope.jpg",
+    "link": "the-pioneers-of-hope"
   },
   {
     "number": "92",
     "title": "The Fox & the Crow",
     "author": "Cecil Beard & Jim Davis",
-    "image": "image-The_Fox__the_Crow.jpg"
+    "image": "image-The_Fox__the_Crow.jpg",
+    "link": "the-fox--the-crow"
   },
   {
     "number": "93",
     "title": "Suske En Wiske",
     "author": "Spike and Suzy) (Willy Vandersteen",
-    "image": "image-Suske_En_Wiske.jpg"
+    "image": "image-Suske_En_Wiske.jpg",
+    "link": "suske-en-wiske"
   },
   {
     "number": "94",
     "title": "Sazae-San",
     "author": "Hasegawa Machiko) (Hasegawa Machiko",
-    "image": "image-SazaeSan.jpg"
+    "image": "image-SazaeSan.jpg",
+    "link": "sazae-san"
   },
   {
     "number": "95",
     "title": "Rip Kirby",
     "author": "Alex Raymond",
     "image": "image-Rip_Kirby.jpg",
-    "year": 1946
+    "year": 1946,
+    "link": "rip-kirby"
   },
   {
     "number": "96",
     "title": "The Adventures of Sweet Gwendoline",
     "author": "John Willie",
     "image": "image-The_Adventures_of_Sweet_Gwendoline.jpg",
-    "year": 1946
+    "year": 1946,
+    "link": "the-adventures-of-sweet-gwendoline"
   },
   {
     "number": "97",
     "title": "Citizen 13660",
     "author": "Miné Okubo",
     "image": "image-Citizen_13660.jpg",
-    "year": 1946
+    "year": 1946,
+    "link": "citizen-13660"
   },
   {
     "number": "98",
     "title": "Eric the Norseman",
     "author": "Hans G. Kresse",
     "image": "image-Eric_the_Norseman.jpg",
-    "year": 1946
+    "year": 1946,
+    "link": "eric-the-norseman"
   },
   {
     "number": "99",
     "title": "Steve Canyon",
     "author": "Milton Caniff",
     "image": "image-Steve_Canyon.jpg",
-    "year": 1947
+    "year": 1947,
+    "link": "steve-canyon"
   },
   {
     "number": "100",
     "title": "Murder, Morphine & Me!",
     "author": "Jack Cole",
-    "image": "image-Murder_Morphine__Me.jpg"
+    "image": "image-Murder_Morphine__Me.jpg",
+    "link": "murder-morphine--me"
   },
   {
     "number": "101",
     "title": "The Adventures of Nero & Co",
     "author": "Marc Sleen",
-    "image": "image-The_Adventures_of_Nero__Co.jpg"
+    "image": "image-The_Adventures_of_Nero__Co.jpg",
+    "link": "the-adventures-of-nero--co"
   },
   {
     "number": "102",
     "title": "Tarzan",
     "author": "Gaylord Dubois & Jesse Mace Marsh",
     "image": "image-Tarzan.jpg",
-    "year": 1947
+    "year": 1947,
+    "link": "tarzan"
   },
   {
     "number": "103",
     "title": "Buck Danny",
     "author": "Jean-Michel Charlier & Victor Hubinon",
     "image": "image-Buck_Danny.jpg",
-    "year": 1947
+    "year": 1947,
+    "link": "buck-danny"
   },
   {
     "number": "104",
     "title": "Babe, Darling of the Hills",
     "author": "Gordon Rogers",
-    "image": "image-Babe_Darling_of_the_Hills.jpg"
+    "image": "image-Babe_Darling_of_the_Hills.jpg",
+    "link": "babe-darling-of-the-hills"
   },
   {
     "number": "105",
     "title": "Pogo",
     "author": "Walt Kelly",
     "image": "image-Pogo.jpg",
-    "year": 1948
+    "year": 1948,
+    "link": "pogo"
   },
   {
     "number": "106",
     "title": "Mickey's Inferno",
     "author": "Guido Martina & Angelo Bioletto",
-    "image": "image-Mickeys_Inferno.jpg"
+    "image": "image-Mickeys_Inferno.jpg",
+    "link": "mickeys-inferno"
   },
   {
     "number": "107",
     "title": "Condorito",
     "author": "Rene Rios",
     "image": "image-Condorito.jpg",
-    "year": 1949
+    "year": 1949,
+    "link": "condorito"
   },
   {
     "number": "108",
     "title": "Young Hawk",
     "author": "Gaylord Dubois, Rex Maxon & Ray Bailey",
     "image": "image-Young_Hawk.jpg",
-    "year": 1949
+    "year": 1949,
+    "link": "young-hawk"
   },
   {
     "number": "109",
     "title": "Flook",
     "author": "Trog",
     "image": "image-Flook.jpg",
-    "year": 1949
+    "year": 1949,
+    "link": "flook"
   },
   {
     "number": "110",
     "title": "White Indian",
     "author": "Frank Frazetta",
     "image": "image-White_Indian.jpg",
-    "year": 1949
+    "year": 1949,
+    "link": "white-indian"
   },
   {
     "number": "111",
     "title": "Doug Wright's Family",
     "author": "Doug Wright",
-    "image": "image-Doug_Wrights_Family.jpg"
+    "image": "image-Doug_Wrights_Family.jpg",
+    "link": "doug-wrights-family"
   },
   {
     "number": "112",
     "title": "Lobey Dosser",
     "author": "Bud Neill",
     "image": "image-Lobey_Dosser.jpg",
-    "year": 1949
+    "year": 1949,
+    "link": "lobey-dosser"
   },
   {
     "number": "113",
     "title": "Torchy in Heartbeat",
     "author": "Jackie Ormes",
-    "image": "image-Torchy_in_Heartbeat.jpg"
+    "image": "image-Torchy_in_Heartbeat.jpg",
+    "link": "torchy-in-heartbeat"
   },
   {
     "number": "114",
     "title": "Mother Delilah",
     "author": "Joe Simon & Jack Kirby",
     "image": "image-Mother_Delilah.jpg",
-    "year": 1950
+    "year": 1950,
+    "link": "mother-delilah"
   },
   {
     "number": "115",
     "title": "Tales From the Crypt",
     "author": "Al Feldstein & Others",
-    "image": "image-Tales_From_the_Crypt.jpg"
+    "image": "image-Tales_From_the_Crypt.jpg",
+    "link": "tales-from-the-crypt"
   },
   {
     "number": "116",
     "title": "The Girl Who Tempted Me",
     "author": "Joe Simon & Jack Kirby",
     "image": "image-The_Girl_Who_Tempted_Me.jpg",
-    "year": 1950
+    "year": 1950,
+    "link": "the-girl-who-tempted-me"
   },
   {
     "number": "117",
     "title": "King Aroo",
     "author": "Jack Kent",
     "image": "image-King_Aroo.jpg",
-    "year": 1950
+    "year": 1950,
+    "link": "king-aroo"
   },
   {
     "number": "118",
     "title": "Nick Knatterton",
     "author": "Manfred Schmidt",
     "image": "image-Nick_Knatterton.jpg",
-    "year": 1950
+    "year": 1950,
+    "link": "nick-knatterton"
   },
   {
     "number": "119",
     "title": "Peanuts",
     "author": "Charles M Schulz",
     "image": "image-Peanuts.jpg",
-    "year": 1950
+    "year": 1950,
+    "link": "peanuts"
   },
   {
     "number": "120",
     "title": "Beetle Bailey",
     "author": "Mort Walker",
     "image": "image-Beetle_Bailey.jpg",
-    "year": 1950
+    "year": 1950,
+    "link": "beetle-bailey"
   },
   {
     "number": "121",
     "title": "Astro Boy",
     "author": "Mighty Atom) (Osamu Tezuka",
     "image": "image-Astro_Boy.jpg",
-    "year": 1951
+    "year": 1951,
+    "link": "astro-boy"
   },
   {
     "number": "122",
     "title": "The Cisco Kid",
     "author": "Rod Reed & José Luis Salinas",
     "image": "image-The_Cisco_Kid.jpg",
-    "year": 1951
+    "year": 1951,
+    "link": "the-cisco-kid"
   },
   {
     "number": "123",
     "title": "Donald Duck & the Gilded Man",
     "author": "Carl Barks",
-    "image": "image-Donald_Duck__the_Gilded_Man.jpg"
+    "image": "image-Donald_Duck__the_Gilded_Man.jpg",
+    "link": "donald-duck--the-gilded-man"
   },
   {
     "number": "124",
     "title": "The Crushed Gardenia",
     "author": "Alex Toth",
     "image": "image-The_Crushed_Gardenia.jpg",
-    "year": 1952
+    "year": 1952,
+    "link": "the-crushed-gardenia"
   },
   {
     "number": "125",
     "title": "The Indian",
     "author": "Francisco V Coching",
     "image": "image-The_Indian.jpg",
-    "year": 1952
+    "year": 1952,
+    "link": "the-indian"
   },
   {
     "number": "126",
     "title": "Donald Duck: A Christmas for Shacktown",
     "author": "Carl Barks",
-    "image": "image-Donald_Duck_A_Christmas_for_Shacktown.jpg"
+    "image": "image-Donald_Duck_A_Christmas_for_Shacktown.jpg",
+    "link": "donald-duck-a-christmas-for-shacktown"
   },
   {
     "number": "127",
     "title": "Uncle Scrooge: Only a Poor Old Man",
     "author": "Carl Barks",
-    "image": "image-Uncle_Scrooge_Only_a_Poor_Old_Man.jpg"
+    "image": "image-Uncle_Scrooge_Only_a_Poor_Old_Man.jpg",
+    "link": "uncle-scrooge-only-a-poor-old-man"
   },
   {
     "number": "128",
     "title": "The Saint: The Man in the Silver Mask",
     "author": "José G Cruz & José Trinidad Romero",
-    "image": "image-The_Saint_The_Man_in_the_Silver_Mask.jpg"
+    "image": "image-The_Saint_The_Man_in_the_Silver_Mask.jpg",
+    "link": "the-saint-the-man-in-the-silver-mask"
   },
   {
     "number": "129",
     "title": "Frontline Combat",
     "author": "Harvey Kurtzman & Others",
     "image": "image-Frontline_Combat.jpg",
-    "year": 1952
+    "year": 1952,
+    "link": "frontline-combat"
   },
   {
     "number": "130",
     "title": "The EC Archives: Shock Suspenstories Volume 1",
     "author": "Al Feldstein",
-    "image": "image-The_EC_Archives_Shock_Suspenstories_Volume_1.jpg"
+    "image": "image-The_EC_Archives_Shock_Suspenstories_Volume_1.jpg",
+    "link": "the-ec-archives-shock-suspenstories-volume-1"
   },
   {
     "number": "131",
     "title": "Fix & Foxi",
     "author": "Rolf Kauka",
     "image": "image-Fix__Foxi.jpg",
-    "year": 1953
+    "year": 1953,
+    "link": "fix--foxi"
   },
   {
     "number": "132",
     "title": "Sgt Kirk",
     "author": "H.G. Oesterheld & Hugo Pratt",
     "image": "image-Sgt_Kirk.jpg",
-    "year": 1953
+    "year": 1953,
+    "link": "sgt-kirk"
   },
   {
     "number": "133",
     "title": "Princess Knight",
     "author": "Osamu Tezuka",
     "image": "image-Princess_Knight.jpg",
-    "year": 1953
+    "year": 1953,
+    "link": "princess-knight"
   },
   {
     "number": "134",
     "title": "The Heart of Juliet Jones",
     "author": "Elliot Caplin & Stan Drake",
-    "image": "image-The_Heart_of_Juliet_Jones.jpg"
+    "image": "image-The_Heart_of_Juliet_Jones.jpg",
+    "link": "the-heart-of-juliet-jones"
   },
   {
     "number": "135",
     "title": "The Juggler of Our Lady",
     "author": "R.O. Blechman",
-    "image": "image-The_Juggler_of_Our_Lady.jpg"
+    "image": "image-The_Juggler_of_Our_Lady.jpg",
+    "link": "the-juggler-of-our-lady"
   },
   {
     "number": "136",
     "title": "Jerry Spring",
     "author": "Jijé",
     "image": "image-Jerry_Spring.jpg",
-    "year": 1954
+    "year": 1954,
+    "link": "jerry-spring"
   },
   {
     "number": "137",
     "title": "Moomin",
     "author": "Tove Jansson",
     "image": "image-Moomin.jpg",
-    "year": 1954
+    "year": 1954,
+    "link": "moomin"
   },
   {
     "number": "138",
     "title": "The Marsupilami Robbers",
     "author": "André Franquin",
     "image": "image-The_Marsupilami_Robbers.jpg",
-    "year": 1954
+    "year": 1954,
+    "link": "the-marsupilami-robbers"
   },
   {
     "number": "139",
     "title": "Rick Random",
     "author": "Harry Harrison",
     "image": "image-Rick_Random.jpg",
-    "year": 1954
+    "year": 1954,
+    "link": "rick-random"
   },
   {
     "number": "140",
     "title": "Jeff Hawke",
     "author": "Sydney Jordan",
     "image": "image-Jeff_Hawke.jpg",
-    "year": 1954
+    "year": 1954,
+    "link": "jeff-hawke"
   },
   {
     "number": "141",
     "title": "Lance",
     "author": "Warren Tufts",
     "image": "image-Lance.jpg",
-    "year": 1955
+    "year": 1955,
+    "link": "lance"
   },
   {
     "number": "142",
     "title": "Orpheus & Eurydice",
     "author": "Palle Nielsen",
     "image": "image-Orpheus__Eurydice.jpg",
-    "year": 1955
+    "year": 1955,
+    "link": "orpheus--eurydice"
   },
   {
     "number": "143",
     "title": "Matt Marriott",
     "author": "Reg Taylor & James Edgar & Tony Weare",
     "image": "image-Matt_Marriott.jpg",
-    "year": 1955
+    "year": 1955,
+    "link": "matt-marriott"
   },
   {
     "number": "144",
     "title": "Carol Day",
     "author": "Peter Meriton & David Wright",
     "image": "image-Carol_Day.jpg",
-    "year": 1956
+    "year": 1956,
+    "link": "carol-day"
   },
   {
     "number": "145",
     "title": "Black Blizzard",
     "author": "Yoshihiro Tatsumi",
     "image": "image-Black_Blizzard.jpg",
-    "year": 1956
+    "year": 1956,
+    "link": "black-blizzard"
   },
   {
     "number": "146",
     "title": "Tetsujin 28-Go",
     "author": "Mitsuteru Yokoyama",
-    "image": "image-Tetsujin_28Go.jpg"
+    "image": "image-Tetsujin_28Go.jpg",
+    "link": "tetsujin-28-go"
   },
   {
     "number": "147",
     "title": "Blake & Mortimer: The Yellow M",
     "author": "Edgar P. Jacobs",
     "image": "image-Blake__Mortimer_The_Yellow_M.jpg",
-    "year": 1956
+    "year": 1956,
+    "link": "blake--mortimer-the-yellow-m"
   },
   {
     "number": "148",
     "title": "Sennin Buraku",
     "author": "Ko Kojima",
     "image": "image-Sennin_Buraku.jpg",
-    "year": 1956
+    "year": 1956,
+    "link": "sennin-buraku"
   },
   {
     "number": "149",
     "title": "Dreams & Somersaults",
     "author": "Maurice Henry",
     "image": "image-Dreams__Somersaults.jpg",
-    "year": 1956
+    "year": 1956,
+    "link": "dreams--somersaults"
   },
   {
     "number": "150",
     "title": "Wulf the Briton",
     "author": "Mike Butterworth & Ron Embleton",
-    "image": "image-Wulf_the_Briton.jpg"
+    "image": "image-Wulf_the_Briton.jpg",
+    "link": "wulf-the-briton"
   },
   {
     "number": "151",
     "title": "Wayang Purwa",
     "author": "Saleh Ardisoma",
     "image": "image-Wayang_Purwa.jpg",
-    "year": 1956
+    "year": 1956,
+    "link": "wayang-purwa"
   },
   {
     "number": "152",
     "title": "Completely MAD Don Martin",
     "author": "Don Martin",
     "image": "image-Completely_MAD_Don_Martin.jpg",
-    "year": 1956
+    "year": 1956,
+    "link": "completely-mad-don-martin"
   },
   {
     "number": "153",
     "title": "Uncle Scrooge: The Second-Richest Duck",
     "author": "Carl Barks",
     "image": "image-Uncle_Scrooge_The_SecondRichest_Duck.jpg",
-    "year": 1956
+    "year": 1956,
+    "link": "uncle-scrooge-the-second-richest-duck"
   },
   {
     "number": "154",
     "title": "Jiraiya the Ninja Boy",
     "author": "Sugiura Shigeru",
-    "image": "image-Jiraiya_the_Ninja_Boy.jpg"
+    "image": "image-Jiraiya_the_Ninja_Boy.jpg",
+    "link": "jiraiya-the-ninja-boy"
   },
   {
     "number": "155",
     "title": "Little Archie",
     "author": "Bob Bolling",
     "image": "image-Little_Archie.jpg",
-    "year": 1956
+    "year": 1956,
+    "link": "little-archie"
   },
   {
     "number": "156",
     "title": "Eternaut",
     "author": "H.G. Oesterheld & Francisco Solano Lopez",
     "image": "image-Eternaut.jpg",
-    "year": 1957
+    "year": 1957,
+    "link": "eternaut"
   },
   {
     "number": "157",
     "title": "Andy Capp",
     "author": "Reg Smythe",
     "image": "image-Andy_Capp.jpg",
-    "year": 1957
+    "year": 1957,
+    "link": "andy-capp"
   },
   {
     "number": "158",
     "title": "On Stage",
     "author": "Leonard Starr",
     "image": "image-On_Stage.jpg",
-    "year": 1957
+    "year": 1957,
+    "link": "on-stage"
   },
   {
     "number": "159",
     "title": "Gomer Goof",
     "author": "André Franquin",
     "image": "image-Gomer_Goof.jpg",
-    "year": 1957
+    "year": 1957,
+    "link": "gomer-goof"
   },
   {
     "number": "160",
     "title": "Herlock Sholmes",
     "author": "Zvonimir Furtinger & Julio Radilovic",
     "image": "image-Herlock_Sholmes.jpg",
-    "year": 1957
+    "year": 1957,
+    "link": "herlock-sholmes"
   },
   {
     "number": "161",
     "title": "Adam Strange",
     "author": "Gardner Fox & Carmine Infantino",
     "image": "image-Adam_Strange.jpg",
-    "year": 1958
+    "year": 1958,
+    "link": "adam-strange"
   },
   {
     "number": "162",
     "title": "Gil Jordan: Murder at High Tide",
     "author": "Maurice Tillieux",
-    "image": "image-Gil_Jordan_Murder_at_High_Tide.jpg"
+    "image": "image-Gil_Jordan_Murder_at_High_Tide.jpg",
+    "link": "gil-jordan-murder-at-high-tide"
   },
   {
     "number": "163",
     "title": "Mort and Phil",
     "author": "Francisco Ibanez",
-    "image": "image-Mort_and_Phil.jpg"
+    "image": "image-Mort_and_Phil.jpg",
+    "link": "mort-and-phil"
   },
   {
     "number": "164",
     "title": "Ompa-Pa the Redskin",
     "author": "René Goscinny & Albert Uderzo",
-    "image": "image-OmpaPa_the_Redskin.jpg"
+    "image": "image-OmpaPa_the_Redskin.jpg",
+    "link": "ompa-pa-the-redskin"
   },
   {
     "number": "165",
     "title": "Sky Masters",
     "author": "Jack Kirby & Others",
     "image": "image-Sky_Masters.jpg",
-    "year": 1958
+    "year": 1958,
+    "link": "sky-masters"
   },
   {
     "number": "166",
     "title": "Jommeke",
     "author": "Jef Nys",
     "image": "image-Jommeke.jpg",
-    "year": 1958
+    "year": 1958,
+    "link": "jommeke"
   },
   {
     "number": "167",
     "title": "Jonah",
     "author": "Walter Fearne & Ken Reid",
     "image": "image-Jonah.jpg",
-    "year": 1958
+    "year": 1958,
+    "link": "jonah"
   },
   {
     "number": "168",
     "title": "The Perishers",
     "author": "Maurice Dodd",
     "image": "image-The_Perishers.jpg",
-    "year": 1958
+    "year": 1958,
+    "link": "the-perishers"
   },
   {
     "number": "169",
     "title": "B.C.",
     "author": "Johnny Hart",
     "image": "image-BC.jpg",
-    "year": 1958
+    "year": 1958,
+    "link": "bc"
   },
   {
     "number": "170",
     "title": "Ryephie",
     "author": "Sanho Kim",
-    "image": "image-Ryephie.jpg"
+    "image": "image-Ryephie.jpg",
+    "link": "ryephie"
   },
   {
     "number": "171",
     "title": "Kitaro",
     "author": "Shigeru Mizuki",
-    "image": "image-Kitaro.jpg"
+    "image": "image-Kitaro.jpg",
+    "link": "kitaro"
   },
   {
     "number": "172",
     "title": "Tintin in Tibet",
     "author": "Hergé",
-    "image": "image-Tintin_in_Tibet.jpg"
+    "image": "image-Tintin_in_Tibet.jpg",
+    "link": "tintin-in-tibet"
   },
   {
     "number": "173",
     "title": "Billy & Buddy",
     "author": "Jean Roba",
     "image": "image-Billy__Buddy.jpg",
-    "year": 1959
+    "year": 1959,
+    "link": "billy--buddy"
   },
   {
     "number": "174",
     "title": "Blake & Mortimer: S.O.S. Meteors",
     "author": "Edgar P. Jacobs",
     "image": "image-Blake__Mortimer_SOS_Meteors.jpg",
-    "year": 1959
+    "year": 1959,
+    "link": "blake--mortimer-sos-meteors"
   },
   {
     "number": "175",
     "title": "Fantomas the Elegant Menace",
     "author": "Guillermo Mendizabal & Ruben Lara Y Romero",
-    "image": "image-Fantomas_the_Elegant_Menace.jpg"
+    "image": "image-Fantomas_the_Elegant_Menace.jpg",
+    "link": "fantomas-the-elegant-menace"
   },
   {
     "number": "176",
     "title": "Fraser of Africa",
     "author": "George Beardmore & Frank Bellamy",
-    "image": "image-Fraser_of_Africa.jpg"
+    "image": "image-Fraser_of_Africa.jpg",
+    "link": "fraser-of-africa"
   },
   {
     "number": "177",
     "title": "The Death of Superman!",
     "author": "1961",
-    "image": "image-The_Death_of_Superman.jpg"
+    "image": "image-The_Death_of_Superman.jpg",
+    "link": "the-death-of-superman"
   },
   {
     "number": "178",
     "title": "Spy vs. Spy: The Complete Case Book",
     "author": "Antonio Prohias",
-    "image": "image-Spy_vs_Spy_The_Complete_Case_Book.jpg"
+    "image": "image-Spy_vs_Spy_The_Complete_Case_Book.jpg",
+    "link": "spy-vs-spy-the-complete-case-book"
   },
   {
     "number": "179",
     "title": "Bristow",
     "author": "Frank Dickens",
     "image": "image-Bristow.jpg",
-    "year": 1961
+    "year": 1961,
+    "link": "bristow"
   },
   {
     "number": "180",
     "title": "The Flash of Two Worlds",
     "author": "DC Comics Classics Library",
-    "image": "image-The_Flash_of_Two_Worlds.jpg"
+    "image": "image-The_Flash_of_Two_Worlds.jpg",
+    "link": "the-flash-of-two-worlds"
   },
   {
     "number": "181",
     "title": "Sa-Lo-Mon",
     "author": "Santiago Armada",
-    "image": "image-SaLoMon.jpg"
+    "image": "image-SaLoMon.jpg",
+    "link": "sa-lo-mon"
   },
   {
     "number": "182",
     "title": "Sam's Strip",
     "author": "Mort Walker & Jerry Dumas",
-    "image": "image-Sams_Strip.jpg"
+    "image": "image-Sams_Strip.jpg",
+    "link": "sams-strip"
   },
   {
     "number": "183",
     "title": "Mort Cinder",
     "author": "H.G. Oesterheld & Alberto Breccia",
     "image": "image-Mort_Cinder.jpg",
-    "year": 1962
+    "year": 1962,
+    "link": "mort-cinder"
   },
   {
     "number": "184",
     "title": "Heros the Spartan",
     "author": "Tom Tully & Frank Bellamy",
-    "image": "image-Heros_the_Spartan.jpg"
+    "image": "image-Heros_the_Spartan.jpg",
+    "link": "heros-the-spartan"
   },
   {
     "number": "185",
     "title": "The Steel Claw: The Vanishing Man",
     "author": "Ken Bulmer",
-    "image": "image-The_Steel_Claw_The_Vanishing_Man.jpg"
+    "image": "image-The_Steel_Claw_The_Vanishing_Man.jpg",
+    "link": "the-steel-claw-the-vanishing-man"
   },
   {
     "number": "186",
     "title": "Diabolik",
     "author": "Angela Giussani & Luciana Giussani",
     "image": "image-Diabolik.jpg",
-    "year": 1962
+    "year": 1962,
+    "link": "diabolik"
   },
   {
     "number": "187",
     "title": "Little Annie Fanny: Volume 1",
     "author": "Harvey Kurtzman",
-    "image": "image-Little_Annie_Fanny_Volume_1.jpg"
+    "image": "image-Little_Annie_Fanny_Volume_1.jpg",
+    "link": "little-annie-fanny-volume-1"
   },
   {
     "number": "188",
     "title": "Barbarella",
     "author": "Jean-Caude Forest",
     "image": "image-Barbarella.jpg",
-    "year": 1962
+    "year": 1962,
+    "link": "barbarella"
   },
   {
     "number": "189",
     "title": "Amazing Spider-Man",
     "author": "Stan Lee & Steve Ditko",
     "image": "image-Amazing_SpiderMan.jpg",
-    "year": 1963
+    "year": 1963,
+    "link": "amazing-spider-man"
   },
   {
     "number": "190",
     "title": "Life? or Theater?",
     "author": "Charlotte Salomon",
-    "image": "image-Life_or_Theater.jpg"
+    "image": "image-Life_or_Theater.jpg",
+    "link": "life-or-theater"
   },
   {
     "number": "191",
     "title": "C Comics",
     "author": "Joe Brainard",
     "image": "image-C_Comics.jpg",
-    "year": 1964
+    "year": 1964,
+    "link": "c-comics"
   },
   {
     "number": "192",
     "title": "Chaminou Et Khrompire",
     "author": "Raymond Macherot",
-    "image": "image-Chaminou_Et_Khrompire.jpg"
+    "image": "image-Chaminou_Et_Khrompire.jpg",
+    "link": "chaminou-et-khrompire"
   },
   {
     "number": "193",
     "title": "The Wonderful World of Barry McKenzie",
     "author": "Barry Humphries & Nicholas Garland",
-    "image": "image-The_Wonderful_World_of_Barry_McKenzie.jpg"
+    "image": "image-The_Wonderful_World_of_Barry_McKenzie.jpg",
+    "link": "the-wonderful-world-of-barry-mckenzie"
   },
   {
     "number": "194",
     "title": "Herbie",
     "author": "Shane O'Shea & Ogden Whitney",
     "image": "image-Herbie.jpg",
-    "year": 1964
+    "year": 1964,
+    "link": "herbie"
   },
   {
     "number": "195",
     "title": "Legend of Kamui",
     "author": "Sanpei Shirato",
-    "image": "image-Legend_of_Kamui.jpg"
+    "image": "image-Legend_of_Kamui.jpg",
+    "link": "legend-of-kamui"
   },
   {
     "number": "196",
     "title": "Mafalda",
     "author": "Quino",
-    "image": "image-Mafalda.jpg"
+    "image": "image-Mafalda.jpg",
+    "link": "mafalda"
   },
   {
     "number": "197",
     "title": "King Smurf",
     "author": "Peyo & Yvan Delporte",
     "image": "image-King_Smurf.jpg",
-    "year": 1964
+    "year": 1964,
+    "link": "king-smurf"
   },
   {
     "number": "198",
     "title": "Lost in Time",
     "author": "Jean-Claude Forest & Paul Gillon",
-    "image": "image-Lost_in_Time.jpg"
+    "image": "image-Lost_in_Time.jpg",
+    "link": "lost-in-time"
   },
   {
     "number": "199",
     "title": "Tiffany Jones",
     "author": "Pat Tourret & Jenny Butterworth",
     "image": "image-Tiffany_Jones.jpg",
-    "year": 1964
+    "year": 1964,
+    "link": "tiffany-jones"
   },
   {
     "number": "200",
     "title": "Cyborg 009",
     "author": "Shotaro Ishinomori",
     "image": "image-Cyborg_009.jpg",
-    "year": 1964
+    "year": 1964,
+    "link": "cyborg-009"
   },
   {
     "number": "201",
     "title": "Trigan Empire",
     "author": "Mike Butterworth & Don Lawrence",
     "image": "image-Trigan_Empire.jpg",
-    "year": 1965
+    "year": 1965,
+    "link": "trigan-empire"
   },
   {
     "number": "202",
     "title": "Monsieur Lambert",
     "author": "Jean-Jacques Sempé",
     "image": "image-Monsieur_Lambert.jpg",
-    "year": 1965
+    "year": 1965,
+    "link": "monsieur-lambert"
   },
   {
     "number": "203",
     "title": "The Adventures of Phoebe Zeit-Geist",
     "author": "Michael O'Donoghue & Frank Springer",
     "image": "image-The_Adventures_of_Phoebe_ZeitGeist.jpg",
-    "year": 1965
+    "year": 1965,
+    "link": "the-adventures-of-phoebe-zeit-geist"
   },
   {
     "number": "204",
     "title": "Gyatoruzu",
     "author": "Sonoyama Shunji",
     "image": "image-Gyatoruzu.jpg",
-    "year": 1965
+    "year": 1965,
+    "link": "gyatoruzu"
   },
   {
     "number": "205",
     "title": "Balthazar",
     "author": "Bob De Moor",
     "image": "image-Balthazar.jpg",
-    "year": 1965
+    "year": 1965,
+    "link": "balthazar"
   },
   {
     "number": "206",
     "title": "The Masked Cucumber",
     "author": "Nikita Mandryka",
     "image": "image-The_Masked_Cucumber.jpg",
-    "year": 1965
+    "year": 1965,
+    "link": "the-masked-cucumber"
   },
   {
     "number": "207",
     "title": "Fritz the Cat",
     "author": "Robert Crumb",
-    "image": "image-Fritz_the_Cat.jpg"
+    "image": "image-Fritz_the_Cat.jpg",
+    "link": "fritz-the-cat"
   },
   {
     "number": "208",
     "title": "Enemy Ace",
     "author": "Robert Kanigher & Joe Kubert",
     "image": "image-Enemy_Ace.jpg",
-    "year": 1965
+    "year": 1965,
+    "link": "enemy-ace"
   },
   {
     "number": "209",
     "title": "Kaliman: The Incredible Man",
     "author": "Rafael Cutberto Navarro & Roberto Vasquez",
-    "image": "image-Kaliman_The_Incredible_Man.jpg"
+    "image": "image-Kaliman_The_Incredible_Man.jpg",
+    "link": "kaliman-the-incredible-man"
   },
   {
     "number": "210",
     "title": "Blazing Combat",
     "author": "Archie Goodwin & Others",
     "image": "image-Blazing_Combat.jpg",
-    "year": 1965
+    "year": 1965,
+    "link": "blazing-combat"
   },
   {
     "number": "211",
     "title": "Leunig Strips",
     "author": "Michael Leunig",
     "image": "image-Leunig_Strips.jpg",
-    "year": 1965
+    "year": 1965,
+    "link": "leunig-strips"
   },
   {
     "number": "212",
     "title": "Star of the Giants",
     "author": "Ikki Kajiwara & Noboru Kawasaki",
-    "image": "image-Star_of_the_Giants.jpg"
+    "image": "image-Star_of_the_Giants.jpg",
+    "link": "star-of-the-giants"
   },
   {
     "number": "213",
     "title": "Bat-Manga!",
     "author": "Jiro Kuwata",
     "image": "image-BatManga.jpg",
-    "year": 1966
+    "year": 1966,
+    "link": "bat-manga"
   },
   {
     "number": "214",
     "title": "Eerie",
     "author": "Archie Goodwin & Others",
-    "image": "image-Eerie.jpg"
+    "image": "image-Eerie.jpg",
+    "link": "eerie"
   },
   {
     "number": "215",
     "title": "Cheech Wizard",
     "author": "Vaughn Bode",
     "image": "image-Cheech_Wizard.jpg",
-    "year": 1966
+    "year": 1966,
+    "link": "cheech-wizard"
   },
   {
     "number": "216",
     "title": "Jodelle",
     "author": "Guy Peellaert",
-    "image": "image-Jodelle.jpg"
+    "image": "image-Jodelle.jpg",
+    "link": "jodelle"
   },
   {
     "number": "217",
     "title": "The Genius Bakabon",
     "author": "Fujio Akatsuka",
     "image": "image-The_Genius_Bakabon.jpg",
-    "year": 1967
+    "year": 1967,
+    "link": "the-genius-bakabon"
   },
   {
     "number": "218",
     "title": "Deadman",
     "author": "Arnold Drake & Neal Adams",
     "image": "image-Deadman.jpg",
-    "year": 1967
+    "year": 1967,
+    "link": "deadman"
   },
   {
     "number": "219",
     "title": "The Book of Mr. Natural",
     "author": "Robert Crumb",
-    "image": "image-The_Book_of_Mr_Natural.jpg"
+    "image": "image-The_Book_of_Mr_Natural.jpg",
+    "link": "the-book-of-mr-natural"
   },
   {
     "number": "220",
     "title": "Lupin the Third Volume 1",
     "author": "World'S Most Wanted) (Monkey Punch (Kazuhiko Kato)",
-    "image": "image-Lupin_the_Third_Volume_1.jpg"
+    "image": "image-Lupin_the_Third_Volume_1.jpg",
+    "link": "lupin-the-third-volume-1"
   },
   {
     "number": "221",
     "title": "Wanderer",
     "author": "Shinji Nagashima",
     "image": "image-Wanderer.jpg",
-    "year": 1967
+    "year": 1967,
+    "link": "wanderer"
   },
   {
     "number": "222",
     "title": "Terajima-Cho",
     "author": "Yu Takita",
-    "image": "image-TerajimaCho.jpg"
+    "image": "image-TerajimaCho.jpg",
+    "link": "terajima-cho"
   },
   {
     "number": "223",
     "title": "The Complete Fabulous Furry Freak Brothers Volume 1",
     "author": "Gilbert Shelton",
-    "image": "image-The_Complete_Fabulous_Furry_Freak_Brothers_Volume_1.jpg"
+    "image": "image-The_Complete_Fabulous_Furry_Freak_Brothers_Volume_1.jpg",
+    "link": "the-complete-fabulous-furry-freak-brothers-volume-1"
   },
   {
     "number": "224",
     "title": "Bat Lash",
     "author": "Sergio Aragones",
     "image": "image-Bat_Lash.jpg",
-    "year": 1968
+    "year": 1968,
+    "link": "bat-lash"
   },
   {
     "number": "225",
     "title": "Shameless School",
     "author": "Go Nagai",
     "image": "image-Shameless_School.jpg",
-    "year": 1968
+    "year": 1968,
+    "link": "shameless-school"
   },
   {
     "number": "226",
     "title": "Iznogoud: The Caliph's Vacation",
     "author": "Goscinny",
-    "image": "image-Iznogoud_The_Caliphs_Vacation.jpg"
+    "image": "image-Iznogoud_The_Caliphs_Vacation.jpg",
+    "link": "iznogoud-the-caliphs-vacation"
   },
   {
     "number": "227",
     "title": "Rubrique-À-Brac",
     "author": "Marcel Gotlib",
-    "image": "image-RubriqueBrac.jpg"
+    "image": "image-RubriqueBrac.jpg",
+    "link": "rubrique--brac"
   },
   {
     "number": "228",
     "title": "The Complete Kake Comics",
     "author": "Tom of Finland",
-    "image": "image-The_Complete_Kake_Comics.jpg"
+    "image": "image-The_Complete_Kake_Comics.jpg",
+    "link": "the-complete-kake-comics"
   },
   {
     "number": "229",
     "title": "Screw Style",
     "author": "Yoshiharu Tsuge",
     "image": "image-Screw_Style.jpg",
-    "year": 1968
+    "year": 1968,
+    "link": "screw-style"
   },
   {
     "number": "230",
     "title": "Trashman",
     "author": "Spain",
     "image": "image-Trashman.jpg",
-    "year": 1968
+    "year": 1968,
+    "link": "trashman"
   },
   {
     "number": "231",
     "title": "The Stooped Ones",
     "author": "Rius",
     "image": "image-The_Stooped_Ones.jpg",
-    "year": 1968
+    "year": 1968,
+    "link": "the-stooped-ones"
   },
   {
     "number": "232",
     "title": "Philémon & the Shipwreck of the a",
     "author": "Fred",
-    "image": "image-Philmon__the_Shipwreck_of_the_a.jpg"
+    "image": "image-Philmon__the_Shipwreck_of_the_a.jpg",
+    "link": "philmon--the-shipwreck-of-the-a"
   },
   {
     "number": "233",
     "title": "Rahan",
     "author": "Roger Lécureux & André Chéret",
     "image": "image-Rahan.jpg",
-    "year": 1969
+    "year": 1969,
+    "link": "rahan"
   },
   {
     "number": "234",
     "title": "Tex",
     "author": "Gian Luigi Bonelli & Aurelio Galleppini",
     "image": "image-Tex.jpg",
-    "year": 1969
+    "year": 1969,
+    "link": "tex"
   },
   {
     "number": "235",
     "title": "Alan Ford",
     "author": "Max Bunker & Magnus",
     "image": "image-Alan_Ford.jpg",
-    "year": 1969
+    "year": 1969,
+    "link": "alan-ford"
   },
   {
     "number": "236",
     "title": "Doraemon: Gadget Cat From the Future",
     "author": "Fujiko Fujio",
-    "image": "image-Doraemon_Gadget_Cat_From_the_Future.jpg"
+    "image": "image-Doraemon_Gadget_Cat_From_the_Future.jpg",
+    "link": "doraemon-gadget-cat-from-the-future"
   },
   {
     "number": "237",
     "title": "King of Spades",
     "author": "Luciano Bottaro",
-    "image": "image-King_of_Spades.jpg"
+    "image": "image-King_of_Spades.jpg",
+    "link": "king-of-spades"
   },
   {
     "number": "238",
     "title": "Golgo 13 Volume 1: Supergun",
     "author": "Takao Saito",
-    "image": "image-Golgo_13_Volume_1_Supergun.jpg"
+    "image": "image-Golgo_13_Volume_1_Supergun.jpg",
+    "link": "golgo-13-volume-1-supergun"
   },
   {
     "number": "239",
     "title": "Janus Stark",
     "author": "Tom Tully & Francisco Solano Lopez",
     "image": "image-Janus_Stark.jpg",
-    "year": 1969
+    "year": 1969,
+    "link": "janus-stark"
   },
   {
     "number": "240",
     "title": "Bogeyman Comics",
     "author": "Rory Hayes",
     "image": "image-Bogeyman_Comics.jpg",
-    "year": 1969
+    "year": 1969,
+    "link": "bogeyman-comics"
   },
   {
     "number": "241",
     "title": "Poem Strip",
     "author": "Dino Buzzati",
     "image": "image-Poem_Strip.jpg",
-    "year": 1969
+    "year": 1969,
+    "link": "poem-strip"
   },
   {
     "number": "242",
     "title": "Oh, Wicked Wanda!",
     "author": "Frederic Mullally",
-    "image": "image-Oh_Wicked_Wanda.jpg"
+    "image": "image-Oh_Wicked_Wanda.jpg",
+    "link": "oh-wicked-wanda"
   },
   {
     "number": "243",
     "title": "Monica's Gang",
     "author": "Mauricio De Sousa",
-    "image": "image-Monicas_Gang.jpg"
+    "image": "image-Monicas_Gang.jpg",
+    "link": "monicas-gang"
   },
   {
     "number": "244",
     "title": "Ashura",
     "author": "George Akiyama",
     "image": "image-Ashura.jpg",
-    "year": 1970
+    "year": 1970,
+    "link": "ashura"
   },
   {
     "number": "245",
     "title": "Yoko Tsuno",
     "author": "Roger Leloup",
     "image": "image-Yoko_Tsuno.jpg",
-    "year": 1970
+    "year": 1970,
+    "link": "yoko-tsuno"
   },
   {
     "number": "246",
     "title": "Ode to Kirihito",
     "author": "Osamu Tezuka",
-    "image": "image-Ode_to_Kirihito.jpg"
+    "image": "image-Ode_to_Kirihito.jpg",
+    "link": "ode-to-kirihito"
   },
   {
     "number": "247",
     "title": "Lucky Luke Tortillas for the Daltons",
     "author": "René Goscinny",
-    "image": "image-Lucky_Luke_Tortillas_for_the_Daltons.jpg"
+    "image": "image-Lucky_Luke_Tortillas_for_the_Daltons.jpg",
+    "link": "lucky-luke-tortillas-for-the-daltons"
   },
   {
     "number": "248",
     "title": "Life in the Open Air",
     "author": "Jean-Marc Reiser",
-    "image": "image-Life_in_the_Open_Air.jpg"
+    "image": "image-Life_in_the_Open_Air.jpg",
+    "link": "life-in-the-open-air"
   },
   {
     "number": "249",
     "title": "Zippy the Pinhead",
     "author": "Bill Griffith",
-    "image": "image-Zippy_the_Pinhead.jpg"
+    "image": "image-Zippy_the_Pinhead.jpg",
+    "link": "zippy-the-pinhead"
   },
   {
     "number": "250",
     "title": "Lone Wolf and Cub: Volume One",
     "author": "Kazuo Koike and Goseki Kojima",
-    "image": "image-Lone_Wolf_and_Cub_Volume_One.jpg"
+    "image": "image-Lone_Wolf_and_Cub_Volume_One.jpg",
+    "link": "lone-wolf-and-cub-volume-one"
   },
   {
     "number": "251",
     "title": "Commissioner Spada",
     "author": "Gianluigi Gonano",
     "image": "image-Commissioner_Spada.jpg",
-    "year": 1970
+    "year": 1970,
+    "link": "commissioner-spada"
   },
   {
     "number": "252",
     "title": "Miyoko Asagawa Kibun",
     "author": "Shin'ichi Abe",
     "image": "image-Miyoko_Asagawa_Kibun.jpg",
-    "year": 1970
+    "year": 1970,
+    "link": "miyoko-asagawa-kibun"
   },
   {
     "number": "253",
     "title": "Red Colored Elegy",
     "author": "Seiichi Hayashi",
     "image": "image-Red_Colored_Elegy.jpg",
-    "year": 1970
+    "year": 1970,
+    "link": "red-colored-elegy"
   },
   {
     "number": "254",
     "title": "Bent",
     "author": "S.Clay Wilson",
     "image": "image-Bent.jpg",
-    "year": 1971
+    "year": 1971,
+    "link": "bent"
   },
   {
     "number": "255",
     "title": "Patty's World",
     "author": "Phillip Douglas",
-    "image": "image-Pattys_World.jpg"
+    "image": "image-Pattys_World.jpg",
+    "link": "pattys-world"
   },
   {
     "number": "256",
     "title": "The Fosdyke Saga",
     "author": "Bill Tidy",
     "image": "image-The_Fosdyke_Saga.jpg",
-    "year": 1971
+    "year": 1971,
+    "link": "the-fosdyke-saga"
   },
   {
     "number": "257",
     "title": "Mickey Mouse Meets the Air Pirates Funnies",
     "author": "Dan O'Neill",
-    "image": "image-Mickey_Mouse_Meets_the_Air_Pirates_Funnies.jpg"
+    "image": "image-Mickey_Mouse_Meets_the_Air_Pirates_Funnies.jpg",
+    "link": "mickey-mouse-meets-the-air-pirates-funnies"
   },
   {
     "number": "258",
     "title": "My Fears",
     "author": "Sló",
     "image": "image-My_Fears.jpg",
-    "year": 1971
+    "year": 1971,
+    "link": "my-fears"
   },
   {
     "number": "259",
     "title": "The Legion of Charlies",
     "author": "Tom Veitch",
-    "image": "image-The_Legion_of_Charlies.jpg"
+    "image": "image-The_Legion_of_Charlies.jpg",
+    "link": "the-legion-of-charlies"
   },
   {
     "number": "260",
     "title": "Achille Talon",
     "author": "Greg",
     "image": "image-Achille_Talon.jpg",
-    "year": 1971
+    "year": 1971,
+    "link": "achille-talon"
   },
   {
     "number": "261",
     "title": "Welcome to Alflolol",
     "author": "Pierre Christin",
-    "image": "image-Welcome_to_Alflolol.jpg"
+    "image": "image-Welcome_to_Alflolol.jpg",
+    "link": "welcome-to-alflolol"
   },
   {
     "number": "262",
     "title": "Lieutenant Blueberry: The Lost Dutchman's Mine",
     "author": "Jean-Michel Charlier & Moebius",
-    "image": "image-Lieutenant_Blueberry_The_Lost_Dutchmans_Mine.jpg"
+    "image": "image-Lieutenant_Blueberry_The_Lost_Dutchmans_Mine.jpg",
+    "link": "lieutenant-blueberry-the-lost-dutchmans-mine"
   },
   {
     "number": "263",
     "title": "The Man-Thing",
     "author": "Steve Gerber and Others",
-    "image": "image-The_ManThing.jpg"
+    "image": "image-The_ManThing.jpg",
+    "link": "the-man-thing"
   },
   {
     "number": "264",
     "title": "Haxtur",
     "author": "Victor De La Fuente",
     "image": "image-Haxtur.jpg",
-    "year": 1971
+    "year": 1971,
+    "link": "haxtur"
   },
   {
     "number": "265",
     "title": "Trots and Bonnie",
     "author": "Shary Flenniken",
-    "image": "image-Trots_and_Bonnie.jpg"
+    "image": "image-Trots_and_Bonnie.jpg",
+    "link": "trots-and-bonnie"
   },
   {
     "number": "266",
     "title": "Ayako",
     "author": "Osamu Tezuka",
     "image": "image-Ayako.jpg",
-    "year": 1972
+    "year": 1972,
+    "link": "ayako"
   },
   {
     "number": "267",
     "title": "Mazinger Z",
     "author": "Go Nagai",
     "image": "image-Mazinger_Z.jpg",
-    "year": 1972
+    "year": 1972,
+    "link": "mazinger-z"
   },
   {
     "number": "268",
     "title": "Amphigorey",
     "author": "Edward Gorey",
     "image": "image-Amphigorey.jpg",
-    "year": 1972
+    "year": 1972,
+    "link": "amphigorey"
   },
   {
     "number": "269",
     "title": "Delirius",
     "author": "Jacques Lob",
     "image": "image-Delirius.jpg",
-    "year": 1972
+    "year": 1972,
+    "link": "delirius"
   },
   {
     "number": "270",
     "title": "The Age of Cohabitation",
     "author": "Kazuo Kamimura",
-    "image": "image-The_Age_of_Cohabitation.jpg"
+    "image": "image-The_Age_of_Cohabitation.jpg",
+    "link": "the-age-of-cohabitation"
   },
   {
     "number": "271",
     "title": "Zil Zelub",
     "author": "Guido Buzzelli",
     "image": "image-Zil_Zelub.jpg",
-    "year": 1972
+    "year": 1972,
+    "link": "zil-zelub"
   },
   {
     "number": "272",
     "title": "Lady Snowblood",
     "author": "Kazuo Koike",
     "image": "image-Lady_Snowblood.jpg",
-    "year": 1972
+    "year": 1972,
+    "link": "lady-snowblood"
   },
   {
     "number": "273",
     "title": "Rose of Versailles",
     "author": "Riyoko Ikeda",
-    "image": "image-Rose_of_Versailles.jpg"
+    "image": "image-Rose_of_Versailles.jpg",
+    "link": "rose-of-versailles"
   },
   {
     "number": "274",
     "title": "Man From Utopia",
     "author": "Rick Griffin",
-    "image": "image-Man_From_Utopia.jpg"
+    "image": "image-Man_From_Utopia.jpg",
+    "link": "man-from-utopia"
   },
   {
     "number": "275",
     "title": "Devilman",
     "author": "Go Nagai",
     "image": "image-Devilman.jpg",
-    "year": 1972
+    "year": 1972,
+    "link": "devilman"
   },
   {
     "number": "276",
     "title": "Giraffes",
     "author": "Mordillo",
     "image": "image-Giraffes.jpg",
-    "year": 1973
+    "year": 1973,
+    "link": "giraffes"
   },
   {
     "number": "277",
     "title": "Barefoot Gen Volume 1: A Cartoon Story of Hiroshima",
     "author": "Keiji Nakazawa",
-    "image": "image-Barefoot_Gen_Volume_1_A_Cartoon_Story_of_Hiroshima.jpg"
+    "image": "image-Barefoot_Gen_Volume_1_A_Cartoon_Story_of_Hiroshima.jpg",
+    "link": "barefoot-gen-volume-1-a-cartoon-story-of-hiroshima"
   },
   {
     "number": "278",
     "title": "Sanpei the Fishing Fanatic",
     "author": "Takao Yaguchi",
-    "image": "image-Sanpei_the_Fishing_Fanatic.jpg"
+    "image": "image-Sanpei_the_Fishing_Fanatic.jpg",
+    "link": "sanpei-the-fishing-fanatic"
   },
   {
     "number": "279",
     "title": "Conan Red Nails",
     "author": "Roy Thomas",
-    "image": "image-Conan_Red_Nails.jpg"
+    "image": "image-Conan_Red_Nails.jpg",
+    "link": "conan-red-nails"
   },
   {
     "number": "280",
     "title": "The Death of Gwen Stacy",
     "author": "Amazing Spider-Man #121-122",
-    "image": "image-The_Death_of_Gwen_Stacy.jpg"
+    "image": "image-The_Death_of_Gwen_Stacy.jpg",
+    "link": "the-death-of-gwen-stacy"
   },
   {
     "number": "281",
     "title": "Manhunter: The Special Edition",
     "author": "Archie Goodwin",
-    "image": "image-Manhunter_The_Special_Edition.jpg"
+    "image": "image-Manhunter_The_Special_Edition.jpg",
+    "link": "manhunter-the-special-edition"
   },
   {
     "number": "282",
     "title": "Hägar the Horrible",
     "author": "Dik Browne",
-    "image": "image-Hgar_the_Horrible.jpg"
+    "image": "image-Hgar_the_Horrible.jpg",
+    "link": "hgar-the-horrible"
   },
   {
     "number": "283",
     "title": "Didi Glitz",
     "author": "Diane Noomin",
     "image": "image-Didi_Glitz.jpg",
-    "year": 1973
+    "year": 1973,
+    "link": "didi-glitz"
   },
   {
     "number": "284",
     "title": "Howard the Duck",
     "author": "Steve Gerber",
-    "image": "image-Howard_the_Duck.jpg"
+    "image": "image-Howard_the_Duck.jpg",
+    "link": "howard-the-duck"
   },
   {
     "number": "285",
     "title": "Bella at the Bar",
     "author": "Various",
-    "image": "image-Bella_at_the_Bar.jpg"
+    "image": "image-Bella_at_the_Bar.jpg",
+    "link": "bella-at-the-bar"
   },
   {
     "number": "286",
     "title": "Jenifer",
     "author": "Bruce Jones and Bernie Wrightson",
-    "image": "image-Jenifer.jpg"
+    "image": "image-Jenifer.jpg",
+    "link": "jenifer"
   },
   {
     "number": "287",
     "title": "Thomas's Heart",
     "author": "Moto Hagio",
-    "image": "image-Thomass_Heart.jpg"
+    "image": "image-Thomass_Heart.jpg",
+    "link": "thomass-heart"
   },
   {
     "number": "288",
     "title": "Alberto the Wolf",
     "author": "Silver",
-    "image": "image-Alberto_the_Wolf.jpg"
+    "image": "image-Alberto_the_Wolf.jpg",
+    "link": "alberto-the-wolf"
   },
   {
     "number": "289",
     "title": "The Arctic Marauder",
     "author": "Jacques Tardi",
     "image": "image-The_Arctic_Marauder.jpg",
-    "year": 1974
+    "year": 1974,
+    "link": "the-arctic-marauder"
   },
   {
     "number": "290",
     "title": "Candy Candy",
     "author": "Yumiko Igarashi",
     "image": "image-Candy_Candy.jpg",
-    "year": 1975
+    "year": 1975,
+    "link": "candy-candy"
   },
   {
     "number": "291",
     "title": "Paracuellos",
     "author": "Carlos Gimenez",
     "image": "image-Paracuellos.jpg",
-    "year": 1975
+    "year": 1975,
+    "link": "paracuellos"
   },
   {
     "number": "292",
     "title": "Polonius",
     "author": "Philippe Picaret",
     "image": "image-Polonius.jpg",
-    "year": 1975
+    "year": 1975,
+    "link": "polonius"
   },
   {
     "number": "293",
     "title": "Alack Sinner",
     "author": "Carlos Sampayo and Jose Munoz",
     "image": "image-Alack_Sinner.jpg",
-    "year": 1975
+    "year": 1975,
+    "link": "alack-sinner"
   },
   {
     "number": "294",
     "title": "Conquering Armies",
     "author": "Jean-Pierre Dionnet",
     "image": "image-Conquering_Armies.jpg",
-    "year": 1975
+    "year": 1975,
+    "link": "conquering-armies"
   },
   {
     "number": "295",
     "title": "Footrot Flats",
     "author": "Murray Ball",
     "image": "image-Footrot_Flats.jpg",
-    "year": 1975
+    "year": 1975,
+    "link": "footrot-flats"
   },
   {
     "number": "296",
     "title": "Frustration",
     "author": "Claire Bretecher",
     "image": "image-Frustration.jpg",
-    "year": 1975
+    "year": 1975,
+    "link": "frustration"
   },
   {
     "number": "297",
     "title": "The Cage",
     "author": "Martin Vaughn James",
     "image": "image-The_Cage.jpg",
-    "year": 1975
+    "year": 1975,
+    "link": "the-cage"
   },
   {
     "number": "298",
     "title": "Defenders",
     "author": "Steve Gerber, Sal Buscema",
     "image": "image-Defenders.jpg",
-    "year": 1975
+    "year": 1975,
+    "link": "defenders"
   },
   {
     "number": "299",
     "title": "The Journey of Saturn",
     "author": "Claus Deleuran",
-    "image": "image-The_Journey_of_Saturn.jpg"
+    "image": "image-The_Journey_of_Saturn.jpg",
+    "link": "the-journey-of-saturn"
   },
   {
     "number": "300",
     "title": "Wild Dogs",
     "author": "Alex Barbier",
     "image": "image-Wild_Dogs.jpg",
-    "year": 1976
+    "year": 1976,
+    "link": "wild-dogs"
   },
   {
     "number": "301",
     "title": "Song of the Wind and Trees",
     "author": "Keiko Takemiya",
-    "image": "image-Song_of_the_Wind_and_Trees.jpg"
+    "image": "image-Song_of_the_Wind_and_Trees.jpg",
+    "link": "song-of-the-wind-and-trees"
   },
   {
     "number": "302",
     "title": "From Eroica With Love",
     "author": "Yasuko Aoike",
     "image": "image-From_Eroica_With_Love.jpg",
-    "year": 1976
+    "year": 1976,
+    "link": "from-eroica-with-love"
   },
   {
     "number": "303",
     "title": "MW",
     "author": "Osamu Tezuka",
     "image": "image-MW.jpg",
-    "year": 1976
+    "year": 1976,
+    "link": "mw"
   },
   {
     "number": "304",
     "title": "Bahdur the Red Bricks House",
     "author": "Aabid Surti",
-    "image": "image-Bahdur_the_Red_Bricks_House.jpg"
+    "image": "image-Bahdur_the_Red_Bricks_House.jpg",
+    "link": "bahdur-the-red-bricks-house"
   },
   {
     "number": "305",
     "title": "Sjef Van Oekel",
     "author": "Wim T. Schippers",
-    "image": "image-Sjef_Van_Oekel.jpg"
+    "image": "image-Sjef_Van_Oekel.jpg",
+    "link": "sjef-van-oekel"
   },
   {
     "number": "306",
     "title": "Swan",
     "author": "Kyolo Ariyoshi",
     "image": "image-Swan.jpg",
-    "year": 1976
+    "year": 1976,
+    "link": "swan"
   },
   {
     "number": "307",
     "title": "Mämmilä",
     "author": "Tarmo Koivisto",
     "image": "image-Mmmil.jpg",
-    "year": 1976
+    "year": 1976,
+    "link": "mmmil"
   },
   {
     "number": "308",
     "title": "Glass Mask",
     "author": "Suzue Miuchi",
-    "image": "image-Glass_Mask.jpg"
+    "image": "image-Glass_Mask.jpg",
+    "link": "glass-mask"
   },
   {
     "number": "309",
     "title": "Dark Thoughts",
     "author": "Andre Franquin",
     "image": "image-Dark_Thoughts.jpg",
-    "year": 1977
+    "year": 1977,
+    "link": "dark-thoughts"
   },
   {
     "number": "310",
     "title": "Yakari and the Beavers",
     "author": "Job",
-    "image": "image-Yakari_and_the_Beavers.jpg"
+    "image": "image-Yakari_and_the_Beavers.jpg",
+    "link": "yakari-and-the-beavers"
   },
   {
     "number": "311",
     "title": "Marie Gabrielle",
     "author": "Georges Pichard",
-    "image": "image-Marie_Gabrielle.jpg"
+    "image": "image-Marie_Gabrielle.jpg",
+    "link": "marie-gabrielle"
   },
   {
     "number": "312",
     "title": "Den Neverwhere",
     "author": "Richard Corben",
-    "image": "image-Den_Neverwhere.jpg"
+    "image": "image-Den_Neverwhere.jpg",
+    "link": "den-neverwhere"
   },
   {
     "number": "313",
     "title": "Adele Blanc-Sec the Mad Scientist",
     "author": "Jacques Tardi",
-    "image": "image-Adele_BlancSec_the_Mad_Scientist.jpg"
+    "image": "image-Adele_BlancSec_the_Mad_Scientist.jpg",
+    "link": "adele-blanc-sec-the-mad-scientist"
   },
   {
     "number": "314",
     "title": "Reid Fleming: World's Toughest Milkman",
     "author": "David Boswell",
-    "image": "image-Reid_Fleming_Worlds_Toughest_Milkman.jpg"
+    "image": "image-Reid_Fleming_Worlds_Toughest_Milkman.jpg",
+    "link": "reid-fleming-worlds-toughest-milkman"
   },
   {
     "number": "315",
     "title": "The Beach Café",
     "author": "Regis Franc",
     "image": "image-The_Beach_Caf.jpg",
-    "year": 1977
+    "year": 1977,
+    "link": "the-beach-caf"
   },
   {
     "number": "316",
     "title": "Lum",
     "author": "Rumiko Takahashi",
     "image": "image-Lum.jpg",
-    "year": 1978
+    "year": 1978,
+    "link": "lum"
   },
   {
     "number": "317",
     "title": "Breakdowns",
     "author": "Art Spiegelman",
     "image": "image-Breakdowns.jpg",
-    "year": 1978
+    "year": 1978,
+    "link": "breakdowns"
   },
   {
     "number": "318",
     "title": "Ranxerox",
     "author": "Stefano Tamburini",
     "image": "image-Ranxerox.jpg",
-    "year": 1978
+    "year": 1978,
+    "link": "ranxerox"
   },
   {
     "number": "319",
     "title": "The Star of Cottonland",
     "author": "Yumiko Oshima",
     "image": "image-The_Star_of_Cottonland.jpg",
-    "year": 1978
+    "year": 1978,
+    "link": "the-star-of-cottonland"
   },
   {
     "number": "320",
     "title": "HP and Giuseppe Bergman",
     "author": "Milo Manara",
-    "image": "image-HP_and_Giuseppe_Bergman.jpg"
+    "image": "image-HP_and_Giuseppe_Bergman.jpg",
+    "link": "hp-and-giuseppe-bergman"
   },
   {
     "number": "321",
     "title": "The Adventure of Luther Arkwright",
     "author": "Bryan Talbot",
-    "image": "image-The_Adventure_of_Luther_Arkwright.jpg"
+    "image": "image-The_Adventure_of_Luther_Arkwright.jpg",
+    "link": "the-adventure-of-luther-arkwright"
   },
   {
     "number": "322",
     "title": "Ken Parker: Ballad of Pat O'shane",
     "author": "Giancarlo Berardi & Ivo Milazzo",
-    "image": "image-Ken_Parker_Ballad_of_Pat_Oshane.jpg"
+    "image": "image-Ken_Parker_Ballad_of_Pat_Oshane.jpg",
+    "link": "ken-parker-ballad-of-pat-oshane"
   },
   {
     "number": "323",
     "title": "Theories of Everything",
     "author": "Roz Chast",
-    "image": "image-Theories_of_Everything.jpg"
+    "image": "image-Theories_of_Everything.jpg",
+    "link": "theories-of-everything"
   },
   {
     "number": "324",
     "title": "Genius",
     "author": "John Glashan",
     "image": "image-Genius.jpg",
-    "year": 1978
+    "year": 1978,
+    "link": "genius"
   },
   {
     "number": "325",
     "title": "Beau Peep",
     "author": "Roger Kettle",
     "image": "image-Beau_Peep.jpg",
-    "year": 1978
+    "year": 1978,
+    "link": "beau-peep"
   },
   {
     "number": "326",
     "title": "The Rocketeer",
     "author": "Dave Stevens",
-    "image": "image-The_Rocketeer.jpg"
+    "image": "image-The_Rocketeer.jpg",
+    "link": "the-rocketeer"
   },
   {
     "number": "327",
     "title": "You Are There",
     "author": "Jean-Claude Forest",
     "image": "image-You_Are_There.jpg",
-    "year": 1978
+    "year": 1978,
+    "link": "you-are-there"
   },
   {
     "number": "328",
     "title": "Spirit of the Mountain Pastures",
     "author": "F'murr",
-    "image": "image-Spirit_of_the_Mountain_Pastures.jpg"
+    "image": "image-Spirit_of_the_Mountain_Pastures.jpg",
+    "link": "spirit-of-the-mountain-pastures"
   },
   {
     "number": "329",
     "title": "Bernard Lermite",
     "author": "Martin Veyron",
     "image": "image-Bernard_Lermite.jpg",
-    "year": 1979
+    "year": 1979,
+    "link": "bernard-lermite"
   },
   {
     "number": "330",
     "title": "Viz",
     "author": "Chris Donald, Simon Donald & Graham Dury",
     "image": "image-Viz.jpg",
-    "year": 1979
+    "year": 1979,
+    "link": "viz"
   },
   {
     "number": "331",
     "title": "Justine",
     "author": "Guido Crepax",
     "image": "image-Justine.jpg",
-    "year": 1979
+    "year": 1979,
+    "link": "justine"
   },
   {
     "number": "332",
     "title": "Ada in the Jungle",
     "author": "Francesco Tullio Altan",
-    "image": "image-Ada_in_the_Jungle.jpg"
+    "image": "image-Ada_in_the_Jungle.jpg",
+    "link": "ada-in-the-jungle"
   },
   {
     "number": "333",
     "title": "Silence",
     "author": "Didier Comès",
     "image": "image-Silence.jpg",
-    "year": 1979
+    "year": 1979,
+    "link": "silence"
   },
   {
     "number": "334",
     "title": "Tantrum",
     "author": "Jules Feiffer",
     "image": "image-Tantrum.jpg",
-    "year": 1979
+    "year": 1979,
+    "link": "tantrum"
   },
   {
     "number": "335",
     "title": "Jeremiah",
     "author": "Hermann",
     "image": "image-Jeremiah.jpg",
-    "year": 1979
+    "year": 1979,
+    "link": "jeremiah"
   },
   {
     "number": "336",
     "title": "The Ranks of the Black Order",
     "author": "Pierre Christin",
-    "image": "image-The_Ranks_of_the_Black_Order.jpg"
+    "image": "image-The_Ranks_of_the_Black_Order.jpg",
+    "link": "the-ranks-of-the-black-order"
   },
   {
     "number": "337",
     "title": "The Bidochons",
     "author": "Christian Binet",
     "image": "image-The_Bidochons.jpg",
-    "year": 1979
+    "year": 1979,
+    "link": "the-bidochons"
   },
   {
     "number": "338",
     "title": "Comanche Moon",
     "author": "Jaxon",
     "image": "image-Comanche_Moon.jpg",
-    "year": 1979
+    "year": 1979,
+    "link": "comanche-moon"
   },
   {
     "number": "339",
     "title": "Ardour",
     "author": "Daniel Varenne",
     "image": "image-Ardour.jpg",
-    "year": 1979
+    "year": 1979,
+    "link": "ardour"
   },
   {
     "number": "340",
     "title": "For Better or for Worse",
     "author": "Lynn Johnson",
-    "image": "image-For_Better_or_for_Worse.jpg"
+    "image": "image-For_Better_or_for_Worse.jpg",
+    "link": "for-better-or-for-worse"
   },
   {
     "number": "341",
     "title": "Mrs. Weber's Diary",
     "author": "Posy Simmonds",
-    "image": "image-Mrs_Webers_Diary.jpg"
+    "image": "image-Mrs_Webers_Diary.jpg",
+    "link": "mrs-webers-diary"
   },
   {
     "number": "342",
     "title": "Iron Man: Demon in a Bottle",
     "author": "David Michelinie",
-    "image": "image-Iron_Man_Demon_in_a_Bottle.jpg"
+    "image": "image-Iron_Man_Demon_in_a_Bottle.jpg",
+    "link": "iron-man-demon-in-a-bottle"
   },
   {
     "number": "343",
     "title": "The Tokyo Drifter",
     "author": "Takashi Fukutani",
     "image": "image-The_Tokyo_Drifter.jpg",
-    "year": 1979
+    "year": 1979,
+    "link": "the-tokyo-drifter"
   },
   {
     "number": "344",
     "title": "Modern Art",
     "author": "Joost Swarte",
     "image": "image-Modern_Art.jpg",
-    "year": 1980
+    "year": 1980,
+    "link": "modern-art"
   },
   {
     "number": "345",
     "title": "The Complete Nemesis the Warlock Volume 1",
     "author": "Pat Mills",
-    "image": "image-The_Complete_Nemesis_the_Warlock_Volume_1.jpg"
+    "image": "image-The_Complete_Nemesis_the_Warlock_Volume_1.jpg",
+    "link": "the-complete-nemesis-the-warlock-volume-1"
   },
   {
     "number": "346",
     "title": "The Nikopol Trilogy",
     "author": "Enki Bilal",
     "image": "image-The_Nikopol_Trilogy.jpg",
-    "year": 1980
+    "year": 1980,
+    "link": "the-nikopol-trilogy"
   },
   {
     "number": "347",
     "title": "Passengers of the Wind",
     "author": "Francois Bourgeon",
-    "image": "image-Passengers_of_the_Wind.jpg"
+    "image": "image-Passengers_of_the_Wind.jpg",
+    "link": "passengers-of-the-wind"
   },
   {
     "number": "348",
     "title": "Emperor of the Land of the Rising Sun",
     "author": "Ryoko Yamagishi",
-    "image": "image-Emperor_of_the_Land_of_the_Rising_Sun.jpg"
+    "image": "image-Emperor_of_the_Land_of_the_Rising_Sun.jpg",
+    "link": "emperor-of-the-land-of-the-rising-sun"
   },
   {
     "number": "349",
     "title": "Life Is Hell",
     "author": "Matt Groening",
-    "image": "image-Life_Is_Hell.jpg"
+    "image": "image-Life_Is_Hell.jpg",
+    "link": "life-is-hell"
   },
   {
     "number": "350",
     "title": "Thorgal: Child of the Stars",
     "author": "Jean Van Hamme",
-    "image": "image-Thorgal_Child_of_the_Stars.jpg"
+    "image": "image-Thorgal_Child_of_the_Stars.jpg",
+    "link": "thorgal-child-of-the-stars"
   },
   {
     "number": "351",
     "title": "Squeak the Mouse",
     "author": "Mattioli",
-    "image": "image-Squeak_the_Mouse.jpg"
+    "image": "image-Squeak_the_Mouse.jpg",
+    "link": "squeak-the-mouse"
   },
   {
     "number": "352",
     "title": "Anarcoma",
     "author": "Nazario",
     "image": "image-Anarcoma.jpg",
-    "year": 1980
+    "year": 1980,
+    "link": "anarcoma"
   },
   {
     "number": "353",
     "title": "Jack Survives",
     "author": "Jerry Moriarty",
     "image": "image-Jack_Survives.jpg",
-    "year": 1980
+    "year": 1980,
+    "link": "jack-survives"
   },
   {
     "number": "354",
     "title": "Touch",
     "author": "Mitsuru Adachi",
     "image": "image-Touch.jpg",
-    "year": 1981
+    "year": 1981,
+    "link": "touch"
   },
   {
     "number": "355",
     "title": "The Hunting Party",
     "author": "Pierre Christin",
     "image": "image-The_Hunting_Party.jpg",
-    "year": 1981
+    "year": 1981,
+    "link": "the-hunting-party"
   },
   {
     "number": "356",
     "title": "Go, Bouzid, Go",
     "author": "SLIM",
     "image": "image-Go_Bouzid_Go.jpg",
-    "year": 1981
+    "year": 1981,
+    "link": "go-bouzid-go"
   },
   {
     "number": "357",
     "title": "Zanardi",
     "author": "Andrea Pazienza",
     "image": "image-Zanardi.jpg",
-    "year": 1981
+    "year": 1981,
+    "link": "zanardi"
   },
   {
     "number": "358",
     "title": "Necron",
     "author": "Mirka Martini",
     "image": "image-Necron.jpg",
-    "year": 1981
+    "year": 1981,
+    "link": "necron"
   },
   {
     "number": "359",
     "title": "Captain Tsubasa",
     "author": "Yoichi Takahashi",
     "image": "image-Captain_Tsubasa.jpg",
-    "year": 1981
+    "year": 1981,
+    "link": "captain-tsubasa"
   },
   {
     "number": "360",
     "title": "If…",
     "author": "Steve Bell",
     "image": "image-If.jpg",
-    "year": 1981
+    "year": 1981,
+    "link": "if"
   },
   {
     "number": "361",
     "title": "Nova-2",
     "author": "Luis Garcia Mozos",
     "image": "image-Nova2.jpg",
-    "year": 1981
+    "year": 1981,
+    "link": "nova-2"
   },
   {
     "number": "362",
     "title": "Cowboy Henk",
     "author": "Kamagurka",
     "image": "image-Cowboy_Henk.jpg",
-    "year": 1981
+    "year": 1981,
+    "link": "cowboy-henk"
   },
   {
     "number": "363",
     "title": "Akira",
     "author": "Katsuhiro Otomo",
     "image": "image-Akira.jpg",
-    "year": 1982
+    "year": 1982,
+    "link": "akira"
   },
   {
     "number": "364",
     "title": "Biff",
     "author": "Mick Kidd",
     "image": "image-Biff.jpg",
-    "year": 1982
+    "year": 1982,
+    "link": "biff"
   },
   {
     "number": "365",
     "title": "The Bluecoats Black Face",
     "author": "Raoul Cauvin",
-    "image": "image-The_Bluecoats_Black_Face.jpg"
+    "image": "image-The_Bluecoats_Black_Face.jpg",
+    "link": "the-bluecoats-black-face"
   },
   {
     "number": "366",
     "title": "Torpedo 1936",
     "author": "Enrique Sánchez Abuli",
     "image": "image-Torpedo_1936.jpg",
-    "year": 1982
+    "year": 1982,
+    "link": "torpedo-1936"
   },
   {
     "number": "367",
     "title": "Judge Dredd the Apocalypse War",
     "author": "John Wagner and Alan Grant",
-    "image": "image-Judge_Dredd_the_Apocalypse_War.jpg"
+    "image": "image-Judge_Dredd_the_Apocalypse_War.jpg",
+    "link": "judge-dredd-the-apocalypse-war"
   },
   {
     "number": "368",
     "title": "Panorama of Hell",
     "author": "Hideshi Hino",
-    "image": "image-Panorama_of_Hell.jpg"
+    "image": "image-Panorama_of_Hell.jpg",
+    "link": "panorama-of-hell"
   },
   {
     "number": "369",
     "title": "Starstruck",
     "author": "Elaine Lee & Mike Kaluta",
     "image": "image-Starstruck.jpg",
-    "year": 1982
+    "year": 1982,
+    "link": "starstruck"
   },
   {
     "number": "370",
     "title": "The Cabbie",
     "author": "Marti",
     "image": "image-The_Cabbie.jpg",
-    "year": 1982
+    "year": 1982,
+    "link": "the-cabbie"
   },
   {
     "number": "371",
     "title": "Martin Mystère",
     "author": "Alfredo Castelli & Giancarlo Alessandrini",
     "image": "image-Martin_Mystre.jpg",
-    "year": 1982
+    "year": 1982,
+    "link": "martin-mystre"
   },
   {
     "number": "372",
     "title": "Click!",
     "author": "Milo",
     "image": "image-Click.jpg",
-    "year": 1982
+    "year": 1982,
+    "link": "click"
   },
   {
     "number": "373",
     "title": "Pioneers of Human Adventure",
     "author": "Francois Boucq",
-    "image": "image-Pioneers_of_Human_Adventure.jpg"
+    "image": "image-Pioneers_of_Human_Adventure.jpg",
+    "link": "pioneers-of-human-adventure"
   },
   {
     "number": "374",
     "title": "Pee Dog",
     "author": "The Shit Genereation",
     "image": "image-Pee_Dog.jpg",
-    "year": 1982
+    "year": 1982,
+    "link": "pee-dog"
   },
   {
     "number": "375",
     "title": "Locas",
     "author": "Jaime Hernandez",
     "image": "image-Locas.jpg",
-    "year": 1982
+    "year": 1982,
+    "link": "locas"
   },
   {
     "number": "376",
     "title": "Carmen Cru",
     "author": "Jean-Marc Lelong",
     "image": "image-Carmen_Cru.jpg",
-    "year": 1982
+    "year": 1982,
+    "link": "carmen-cru"
   },
   {
     "number": "377",
     "title": "The Mercenary Baseball Team",
     "author": "Hyun-Se Lee",
     "image": "image-The_Mercenary_Baseball_Team.jpg",
-    "year": 1982
+    "year": 1982,
+    "link": "the-mercenary-baseball-team"
   },
   {
     "number": "378",
     "title": "Roxanna and the Quest for the Time Bird",
     "author": "Segre Le Tendre",
-    "image": "image-Roxanna_and_the_Quest_for_the_Time_Bird.jpg"
+    "image": "image-Roxanna_and_the_Quest_for_the_Time_Bird.jpg",
+    "link": "roxanna-and-the-quest-for-the-time-bird"
   },
   {
     "number": "379",
     "title": "Fever in Urbicand",
     "author": "Benoit Peeters",
-    "image": "image-Fever_in_Urbicand.jpg"
+    "image": "image-Fever_in_Urbicand.jpg",
+    "link": "fever-in-urbicand"
   },
   {
     "number": "380",
     "title": "Adolf: A Tale of the Twentieth Century",
     "author": "Osamu Tezuka",
-    "image": "image-Adolf_A_Tale_of_the_Twentieth_Century.jpg"
+    "image": "image-Adolf_A_Tale_of_the_Twentieth_Century.jpg",
+    "link": "adolf-a-tale-of-the-twentieth-century"
   },
   {
     "number": "381",
     "title": "Section Chief Kosaku Shima",
     "author": "Kenshi Hirokane",
     "image": "image-Section_Chief_Kosaku_Shima.jpg",
-    "year": 1983
+    "year": 1983,
+    "link": "section-chief-kosaku-shima"
   },
   {
     "number": "382",
     "title": "Indian Summer",
     "author": "Hugo Pratt",
     "image": "image-Indian_Summer.jpg",
-    "year": 1983
+    "year": 1983,
+    "link": "indian-summer"
   },
   {
     "number": "383",
     "title": "Fist of the Northstar",
     "author": "Buronson",
-    "image": "image-Fist_of_the_Northstar.jpg"
+    "image": "image-Fist_of_the_Northstar.jpg",
+    "link": "fist-of-the-northstar"
   },
   {
     "number": "384",
     "title": "Theodore Death Head",
     "author": "Pascal Doury",
     "image": "image-Theodore_Death_Head.jpg",
-    "year": 1983
+    "year": 1983,
+    "link": "theodore-death-head"
   },
   {
     "number": "385",
     "title": "Air Mail",
     "author": "Attilo Micheluzzi",
     "image": "image-Air_Mail.jpg",
-    "year": 1983
+    "year": 1983,
+    "link": "air-mail"
   },
   {
     "number": "386",
     "title": "The Cat",
     "author": "Philippe Geluck",
     "image": "image-The_Cat.jpg",
-    "year": 1983
+    "year": 1983,
+    "link": "the-cat"
   },
   {
     "number": "387",
     "title": "Perramus: Escape From the Past",
     "author": "Juan Sasturain",
-    "image": "image-Perramus_Escape_From_the_Past.jpg"
+    "image": "image-Perramus_Escape_From_the_Past.jpg",
+    "link": "perramus-escape-from-the-past"
   },
   {
     "number": "388",
     "title": "Dragon Ball",
     "author": "Akira Toriyama",
     "image": "image-Dragon_Ball.jpg",
-    "year": 1984
+    "year": 1984,
+    "link": "dragon-ball"
   },
   {
     "number": "389",
     "title": "The Magician's Wife",
     "author": "Jerome Charyn",
-    "image": "image-The_Magicians_Wife.jpg"
+    "image": "image-The_Magicians_Wife.jpg",
+    "link": "the-magicians-wife"
   },
   {
     "number": "390",
     "title": "The Two Guys on the Balcony",
     "author": "Francis Masse",
-    "image": "image-The_Two_Guys_on_the_Balcony.jpg"
+    "image": "image-The_Two_Guys_on_the_Balcony.jpg",
+    "link": "the-two-guys-on-the-balcony"
   },
   {
     "number": "391",
     "title": "The Towers of Bois-Maury Volume 1: Babette",
     "author": "The Towers of Bois-Maury Volume 1: Babette",
-    "image": "image-The_Towers_of_BoisMaury_Volume_1_Babette.jpg"
+    "image": "image-The_Towers_of_BoisMaury_Volume_1_Babette.jpg",
+    "link": "the-towers-of-bois-maury-volume-1-babette"
   },
   {
     "number": "392",
     "title": "Rocco Vargas: Triton",
     "author": "Daniel Torres",
     "image": "image-Rocco_Vargas_Triton.jpg",
-    "year": 1984
+    "year": 1984,
+    "link": "rocco-vargas-triton"
   },
   {
     "number": "393",
     "title": "Zot!",
     "author": "Scott McCloud",
     "image": "image-Zot.jpg",
-    "year": 1984
+    "year": 1984,
+    "link": "zot"
   },
   {
     "number": "394",
     "title": "2001 Nights",
     "author": "Yukinobu Hoshino",
     "image": "image-2001_Nights.jpg",
-    "year": 1984
+    "year": 1984,
+    "link": "2001-nights"
   },
   {
     "number": "395",
     "title": "Odile & the Crocodiles",
     "author": "Chantal Montellier",
-    "image": "image-Odile__the_Crocodiles.jpg"
+    "image": "image-Odile__the_Crocodiles.jpg",
+    "link": "odile--the-crocodiles"
   },
   {
     "number": "396",
     "title": "XIII: The Day of the Black Sun",
     "author": "Jean Van Hamme",
-    "image": "image-XIII_The_Day_of_the_Black_Sun.jpg"
+    "image": "image-XIII_The_Day_of_the_Black_Sun.jpg",
+    "link": "xiii-the-day-of-the-black-sun"
   },
   {
     "number": "397",
     "title": "The Collector",
     "author": "Sergio Toppi",
     "image": "image-The_Collector.jpg",
-    "year": 1984
+    "year": 1984,
+    "link": "the-collector"
   },
   {
     "number": "398",
     "title": "Entresol",
     "author": "Tadeusz Baranowski",
     "image": "image-Entresol.jpg",
-    "year": 1985
+    "year": 1985,
+    "link": "entresol"
   },
   {
     "number": "399",
     "title": "Socker Conny",
     "author": "Joakim Pirinen",
-    "image": "image-Socker_Conny.jpg"
+    "image": "image-Socker_Conny.jpg",
+    "link": "socker-conny"
   },
   {
     "number": "400",
     "title": "Wind of the Gods Volume 1: Blood From the Moon",
     "author": "Patrick Cothias",
-    "image": "image-Wind_of_the_Gods_Volume_1_Blood_From_the_Moon.jpg"
+    "image": "image-Wind_of_the_Gods_Volume_1_Blood_From_the_Moon.jpg",
+    "link": "wind-of-the-gods-volume-1-blood-from-the-moon"
   },
   {
     "number": "401",
     "title": "Bell's Theorem",
     "author": "Matthias Schultheiss",
-    "image": "image-Bells_Theorem.jpg"
+    "image": "image-Bells_Theorem.jpg",
+    "link": "bells-theorem"
   },
   {
     "number": "402",
     "title": "The Confessions of Julius Antoine",
     "author": "Derge Le Tendre",
-    "image": "image-The_Confessions_of_Julius_Antoine.jpg"
+    "image": "image-The_Confessions_of_Julius_Antoine.jpg",
+    "link": "the-confessions-of-julius-antoine"
   },
   {
     "number": "403",
     "title": "Mort Drucker's MAD Show-Stoppers",
     "author": "Various",
-    "image": "image-Mort_Druckers_MAD_ShowStoppers.jpg"
+    "image": "image-Mort_Druckers_MAD_ShowStoppers.jpg",
+    "link": "mort-druckers-mad-show-stoppers"
   },
   {
     "number": "404",
     "title": "Sambre",
     "author": "Blac",
     "image": "image-Sambre.jpg",
-    "year": 1985
+    "year": 1985,
+    "link": "sambre"
   },
   {
     "number": "405",
     "title": "Comixtlán",
     "author": "Luis Fernando",
     "image": "image-Comixtln.jpg",
-    "year": 1985
+    "year": 1985,
+    "link": "comixtln"
   },
   {
     "number": "406",
     "title": "The Useless Man",
     "author": "Yoshiharu Tsuge",
     "image": "image-The_Useless_Man.jpg",
-    "year": 1985
+    "year": 1985,
+    "link": "the-useless-man"
   },
   {
     "number": "407",
     "title": "The Survivor",
     "author": "Paul Gillon",
     "image": "image-The_Survivor.jpg",
-    "year": 1985
+    "year": 1985,
+    "link": "the-survivor"
   },
   {
     "number": "408",
     "title": "Morbus Gravis I: Druuna",
     "author": "Paulo Eleuteri Serpieri",
-    "image": "image-Morbus_Gravis_I_Druuna.jpg"
+    "image": "image-Morbus_Gravis_I_Druuna.jpg",
+    "link": "morbus-gravis-i-druuna"
   },
   {
     "number": "409",
     "title": "City Hunter",
     "author": "Tsukasa Hojo",
     "image": "image-City_Hunter.jpg",
-    "year": 1985
+    "year": 1985,
+    "link": "city-hunter"
   },
   {
     "number": "410",
     "title": "110 Pills",
     "author": "Magnus",
     "image": "image-110_Pills.jpg",
-    "year": 1985
+    "year": 1985,
+    "link": "110-pills"
   },
   {
     "number": "411",
     "title": "Bonobono",
     "author": "Milkio Igarashi",
-    "image": "image-Bonobono.jpg"
+    "image": "image-Bonobono.jpg",
+    "link": "bonobono"
   },
   {
     "number": "412",
     "title": "Nestor Burma 120, Rue De La Gare",
     "author": "Leo Malet",
-    "image": "image-Nestor_Burma_120_Rue_De_La_Gare.jpg"
+    "image": "image-Nestor_Burma_120_Rue_De_La_Gare.jpg",
+    "link": "nestor-burma-120-rue-de-la-gare"
   },
   {
     "number": "413",
     "title": "Dori Stories: The Complete Dori Seda",
     "author": "Dori Seda",
-    "image": "image-Dori_Stories_The_Complete_Dori_Seda.jpg"
+    "image": "image-Dori_Stories_The_Complete_Dori_Seda.jpg",
+    "link": "dori-stories-the-complete-dori-seda"
   },
   {
     "number": "414",
     "title": "Concrete",
     "author": "Paul Chadwick",
     "image": "image-Concrete.jpg",
-    "year": 1986
+    "year": 1986,
+    "link": "concrete"
   },
   {
     "number": "415",
     "title": "Barney and the Blue Note",
     "author": "Philippe Paringaux",
-    "image": "image-Barney_and_the_Blue_Note.jpg"
+    "image": "image-Barney_and_the_Blue_Note.jpg",
+    "link": "barney-and-the-blue-note"
   },
   {
     "number": "416",
     "title": "Cities of the Fantastic the Tower",
     "author": "Benoit Peeters",
-    "image": "image-Cities_of_the_Fantastic_the_Tower.jpg"
+    "image": "image-Cities_of_the_Fantastic_the_Tower.jpg",
+    "link": "cities-of-the-fantastic-the-tower"
   },
   {
     "number": "417",
     "title": "Cromwell Stone",
     "author": "Andreas",
     "image": "image-Cromwell_Stone.jpg",
-    "year": 1984
+    "year": 1984,
+    "link": "cromwell-stone"
   },
   {
     "number": "418",
     "title": "Freddy Lombard the Comet of Carthage",
     "author": "Yves Chaland and Yann",
-    "image": "image-Freddy_Lombard_the_Comet_of_Carthage.jpg"
+    "image": "image-Freddy_Lombard_the_Comet_of_Carthage.jpg",
+    "link": "freddy-lombard-the-comet-of-carthage"
   },
   {
     "number": "419",
     "title": "High Society",
     "author": "Cerebus #26-50",
-    "image": "image-High_Society.jpg"
+    "image": "image-High_Society.jpg",
+    "link": "high-society"
   },
   {
     "number": "420",
     "title": "Five Star Stories",
     "author": "Mamoru Nagano",
     "image": "image-Five_Star_Stories.jpg",
-    "year": 1986
+    "year": 1986,
+    "link": "five-star-stories"
   },
   {
     "number": "421",
     "title": "Dylan Dog",
     "author": "Tiziano Sciavi",
     "image": "image-Dylan_Dog.jpg",
-    "year": 1986
+    "year": 1986,
+    "link": "dylan-dog"
   },
   {
     "number": "422",
     "title": "Alex",
     "author": "Russel Taylor",
     "image": "image-Alex.jpg",
-    "year": 1987
+    "year": 1987,
+    "link": "alex"
   },
   {
     "number": "423",
     "title": "Jojo's Bizarre Adventure",
     "author": "Araki",
-    "image": "image-Jojos_Bizarre_Adventure.jpg"
+    "image": "image-Jojos_Bizarre_Adventure.jpg",
+    "link": "jojos-bizarre-adventure"
   },
   {
     "number": "424",
     "title": "The Encyclopedia of Babies",
     "author": "Daniel Goosens",
-    "image": "image-The_Encyclopedia_of_Babies.jpg"
+    "image": "image-The_Encyclopedia_of_Babies.jpg",
+    "link": "the-encyclopedia-of-babies"
   },
   {
     "number": "425",
     "title": "Heinz",
     "author": "René Winfig and Eddie De Jong",
     "image": "image-Heinz.jpg",
-    "year": 1987
+    "year": 1987,
+    "link": "heinz"
   },
   {
     "number": "426",
     "title": "Maybe...Maybe Not",
     "author": "Ralf König",
-    "image": "image-MaybeMaybe_Not.jpg"
+    "image": "image-MaybeMaybe_Not.jpg",
+    "link": "maybemaybe-not"
   },
   {
     "number": "427",
     "title": "Oriental Sketchbooks",
     "author": "Jacques Ferrandez",
     "image": "image-Oriental_Sketchbooks.jpg",
-    "year": 1987
+    "year": 1987,
+    "link": "oriental-sketchbooks"
   },
   {
     "number": "428",
     "title": "Daily Delirium",
     "author": "Miguelanxio Prado",
     "image": "image-Daily_Delirium.jpg",
-    "year": 1987
+    "year": 1987,
+    "link": "daily-delirium"
   },
   {
     "number": "429",
     "title": "Sensa Senso",
     "author": "Franco Matticchio",
     "image": "image-Sensa_Senso.jpg",
-    "year": 1987
+    "year": 1987,
+    "link": "sensa-senso"
   },
   {
     "number": "430",
     "title": "The Angriest Dog in the World",
     "author": "David Lynch",
-    "image": "image-The_Angriest_Dog_in_the_World.jpg"
+    "image": "image-The_Angriest_Dog_in_the_World.jpg",
+    "link": "the-angriest-dog-in-the-world"
   },
   {
     "number": "431",
     "title": "Justice League International",
     "author": "Justice League #1-6, Justice League International #7-24) (Keith Giffen, J.M. Dematteis & Kevin Maguire",
     "image": "image-Justice_League_International.jpg",
-    "year": 1987
+    "year": 1987,
+    "link": "justice-league-international"
   },
   {
     "number": "432",
     "title": "A Treasury of Victorian Murder",
     "author": "Rick Geary",
-    "image": "image-A_Treasury_of_Victorian_Murder.jpg"
+    "image": "image-A_Treasury_of_Victorian_Murder.jpg",
+    "link": "a-treasury-of-victorian-murder"
   },
   {
     "number": "433",
     "title": "Marshal Law: Fear and Loathing",
     "author": "Pat Mills",
-    "image": "image-Marshal_Law_Fear_and_Loathing.jpg"
+    "image": "image-Marshal_Law_Fear_and_Loathing.jpg",
+    "link": "marshal-law-fear-and-loathing"
   },
   {
     "number": "434",
     "title": "Aquablue",
     "author": "Thierry Cailletou",
     "image": "image-Aquablue.jpg",
-    "year": 1988
+    "year": 1988,
+    "link": "aquablue"
   },
   {
     "number": "435",
     "title": "In Search of Shirley",
     "author": "Cosey",
-    "image": "image-In_Search_of_Shirley.jpg"
+    "image": "image-In_Search_of_Shirley.jpg",
+    "link": "in-search-of-shirley"
   },
   {
     "number": "436",
     "title": "Spiral Cage",
     "author": "Al Davison",
-    "image": "image-Spiral_Cage.jpg"
+    "image": "image-Spiral_Cage.jpg",
+    "link": "spiral-cage"
   },
   {
     "number": "437",
     "title": "A Hundred Tales",
     "author": "Hinako Sugiura",
     "image": "image-A_Hundred_Tales.jpg",
-    "year": 1988
+    "year": 1988,
+    "link": "a-hundred-tales"
   },
   {
     "number": "438",
     "title": "Jimbo in Paradise",
     "author": "Gary Panter",
-    "image": "image-Jimbo_in_Paradise.jpg"
+    "image": "image-Jimbo_in_Paradise.jpg",
+    "link": "jimbo-in-paradise"
   },
   {
     "number": "439",
     "title": "Tank Girl",
     "author": "Alan C. Martin, Jamie Hewlett",
     "image": "image-Tank_Girl.jpg",
-    "year": 1988
+    "year": 1988,
+    "link": "tank-girl"
   },
   {
     "number": "440",
     "title": "My Years of Youth",
     "author": "He Youzhi",
     "image": "image-My_Years_of_Youth.jpg",
-    "year": 1988
+    "year": 1988,
+    "link": "my-years-of-youth"
   },
   {
     "number": "441",
     "title": "The Cowboy Wally Show",
     "author": "Kyle Baker",
     "image": "image-The_Cowboy_Wally_Show.jpg",
-    "year": 1988
+    "year": 1988,
+    "link": "the-cowboy-wally-show"
   },
   {
     "number": "442",
     "title": "Agrippine",
     "author": "Claire Betecher",
     "image": "image-Agrippine.jpg",
-    "year": 1988
+    "year": 1988,
+    "link": "agrippine"
   },
   {
     "number": "443",
     "title": "Here",
     "author": "Richard McGuire",
     "image": "image-Here.jpg",
-    "year": 1989
+    "year": 1989,
+    "link": "here"
   },
   {
     "number": "444",
     "title": "Julius Knipl, Real Estate Photographer: Stories",
     "author": "Ben Katchor",
-    "image": "image-Julius_Knipl_Real_Estate_Photographer_Stories.jpg"
+    "image": "image-Julius_Knipl_Real_Estate_Photographer_Stories.jpg",
+    "link": "julius-knipl-real-estate-photographer-stories"
   },
   {
     "number": "445",
     "title": "Ghost in the Shell Volume 1",
     "author": "Masamune Shirow",
-    "image": "image-Ghost_in_the_Shell_Volume_1.jpg"
+    "image": "image-Ghost_in_the_Shell_Volume_1.jpg",
+    "link": "ghost-in-the-shell-volume-1"
   },
   {
     "number": "446",
     "title": "Mark of the Dog",
     "author": "Silvio Cadelo",
-    "image": "image-Mark_of_the_Dog.jpg"
+    "image": "image-Mark_of_the_Dog.jpg",
+    "link": "mark-of-the-dog"
   },
   {
     "number": "447",
     "title": "Heartthrobs",
     "author": "Max Cabanes",
     "image": "image-Heartthrobs.jpg",
-    "year": 1989
+    "year": 1989,
+    "link": "heartthrobs"
   },
   {
     "number": "448",
     "title": "Julien Boisvert Neekibo",
     "author": "Dieter",
-    "image": "image-Julien_Boisvert_Neekibo.jpg"
+    "image": "image-Julien_Boisvert_Neekibo.jpg",
+    "link": "julien-boisvert-neekibo"
   },
   {
     "number": "449",
     "title": "Sláine: Books of Invasions Volume 1",
     "author": "Pat Mills",
-    "image": "image-Sline_Books_of_Invasions_Volume_1.jpg"
+    "image": "image-Sline_Books_of_Invasions_Volume_1.jpg",
+    "link": "sline-books-of-invasions-volume-1"
   },
   {
     "number": "450",
     "title": "Get a Life",
     "author": "Phillipe Dupuy and Charles Berberian",
-    "image": "image-Get_a_Life.jpg"
+    "image": "image-Get_a_Life.jpg",
+    "link": "get-a-life"
   },
   {
     "number": "451",
     "title": "The Forever War",
     "author": "Joe Haldeman",
     "image": "image-The_Forever_War.jpg",
-    "year": 1989
+    "year": 1989,
+    "link": "the-forever-war"
   },
   {
     "number": "452",
     "title": "Berserk",
     "author": "Kentaro Miura",
     "image": "image-Berserk.jpg",
-    "year": 1989
+    "year": 1989,
+    "link": "berserk"
   },
   {
     "number": "453",
     "title": "Paradise Town",
     "author": "Masahiro Nikaido",
     "image": "image-Paradise_Town.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "paradise-town"
   },
   {
     "number": "454",
     "title": "Sanctuary",
     "author": "Sho Fumimura",
     "image": "image-Sanctuary.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "sanctuary"
   },
   {
     "number": "455",
     "title": "Madman: The Oddity Odyssey",
     "author": "Michael Allred",
-    "image": "image-Madman_The_Oddity_Odyssey.jpg"
+    "image": "image-Madman_The_Oddity_Odyssey.jpg",
+    "link": "madman-the-oddity-odyssey"
   },
   {
     "number": "456",
     "title": "Big Numbers",
     "author": "Comics",
     "image": "image-Big_Numbers.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "big-numbers"
   },
   {
     "number": "457",
     "title": "Peter Pan",
     "author": "Régis Loisel",
     "image": "image-Peter_Pan.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "peter-pan"
   },
   {
     "number": "458",
     "title": "Road to America",
     "author": "Baru and Jean-Marc Thevenet",
-    "image": "image-Road_to_America.jpg"
+    "image": "image-Road_to_America.jpg",
+    "link": "road-to-america"
   },
   {
     "number": "459",
     "title": "Judge Dredd: America",
     "author": "John Wagner and Colin Macneil",
     "image": "image-Judge_Dredd_America.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "judge-dredd-america"
   },
   {
     "number": "460",
     "title": "Baby Blues",
     "author": "Rick Kirkman and Jerry Scott",
     "image": "image-Baby_Blues.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "baby-blues"
   },
   {
     "number": "461",
     "title": "The Last American",
     "author": "John Wagner and Alan Grant",
     "image": "image-The_Last_American.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "the-last-american"
   },
   {
     "number": "462",
     "title": "Five Seasons:Autumn",
     "author": "Django",
-    "image": "image-Five_SeasonsAutumn.jpg"
+    "image": "image-Five_SeasonsAutumn.jpg",
+    "link": "five-seasonsautumn"
   },
   {
     "number": "463",
     "title": "Why I Hate Saturn",
     "author": "Kyle Baker",
     "image": "image-Why_I_Hate_Saturn.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "why-i-hate-saturn"
   },
   {
     "number": "464",
     "title": "Largo Winch: The Heir & the W Group",
     "author": "Jean Van Hamme",
-    "image": "image-Largo_Winch_The_Heir__the_W_Group.jpg"
+    "image": "image-Largo_Winch_The_Heir__the_W_Group.jpg",
+    "link": "largo-winch-the-heir--the-w-group"
   },
   {
     "number": "465",
     "title": "Rogan Gosh",
     "author": "Peter Milligan",
     "image": "image-Rogan_Gosh.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "rogan-gosh"
   },
   {
     "number": "466",
     "title": "Mauretania",
     "author": "Chris Reynolds",
     "image": "image-Mauretania.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "mauretania"
   },
   {
     "number": "467",
     "title": "Frank",
     "author": "Jim Woodring",
     "image": "image-Frank.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "frank"
   },
   {
     "number": "468",
     "title": "Rhythm of the Heart",
     "author": "Danjiel Zezelj",
-    "image": "image-Rhythm_of_the_Heart.jpg"
+    "image": "image-Rhythm_of_the_Heart.jpg",
+    "link": "rhythm-of-the-heart"
   },
   {
     "number": "469",
     "title": "Love That Bunch",
     "author": "Aline Kominsky Crumb",
     "image": "image-Love_That_Bunch.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "love-that-bunch"
   },
   {
     "number": "470",
     "title": "Battle Angel Alita",
     "author": "統夢 GUNNM",
-    "image": "image-Battle_Angel_Alita.jpg"
+    "image": "image-Battle_Angel_Alita.jpg",
+    "link": "battle-angel-alita"
   },
   {
     "number": "471",
     "title": "Shade, the Changing Man: The American Scream",
     "author": "Peter Milligan",
-    "image": "image-Shade_the_Changing_Man_The_American_Scream.jpg"
+    "image": "image-Shade_the_Changing_Man_The_American_Scream.jpg",
+    "link": "shade-the-changing-man-the-american-scream"
   },
   {
     "number": "472",
     "title": "Crayon Shinchan",
     "author": "Usui Yoshito",
     "image": "image-Crayon_Shinchan.jpg",
-    "year": 1990
+    "year": 1990,
+    "link": "crayon-shinchan"
   },
   {
     "number": "473",
     "title": "Bone",
     "author": "Jeff Smith",
     "image": "image-Bone.jpg",
-    "year": 1991
+    "year": 1991,
+    "link": "bone"
   },
   {
     "number": "474",
     "title": "Gon: Volume 1",
     "author": "Masashi Tanaka",
-    "image": "image-Gon_Volume_1.jpg"
+    "image": "image-Gon_Volume_1.jpg",
+    "link": "gon-volume-1"
   },
   {
     "number": "475",
     "title": "Lost Girls",
     "author": "Alan Moore",
     "image": "image-Lost_Girls.jpg",
-    "year": 1991
+    "year": 1991,
+    "link": "lost-girls"
   },
   {
     "number": "476",
     "title": "Jonas Fink",
     "author": "Vittorio Giardino",
     "image": "image-Jonas_Fink.jpg",
-    "year": 1991
+    "year": 1991,
+    "link": "jonas-fink"
   },
   {
     "number": "477",
     "title": "Weapon X",
     "author": "Barry Windsor-Smith",
     "image": "image-Weapon_X.jpg",
-    "year": 1991
+    "year": 1991,
+    "link": "weapon-x"
   },
   {
     "number": "478",
     "title": "Metropol",
     "author": "Ted McKeever",
     "image": "image-Metropol.jpg",
-    "year": 1991
+    "year": 1991,
+    "link": "metropol"
   },
   {
     "number": "479",
     "title": "Madam and Eve",
     "author": "Stephen Francis",
-    "image": "image-Madam_and_Eve.jpg"
+    "image": "image-Madam_and_Eve.jpg",
+    "link": "madam-and-eve"
   },
   {
     "number": "480",
     "title": "Nonnonba",
     "author": "Shigeru Mizuki",
-    "image": "image-Nonnonba.jpg"
+    "image": "image-Nonnonba.jpg",
+    "link": "nonnonba"
   },
   {
     "number": "481",
     "title": "Sof Boy",
     "author": "Archer Prewitt",
-    "image": "image-Sof_Boy.jpg"
+    "image": "image-Sof_Boy.jpg",
+    "link": "sof-boy"
   },
   {
     "number": "482",
     "title": "Button Man the Killing Game",
     "author": "John Wagner",
-    "image": "image-Button_Man_the_Killing_Game.jpg"
+    "image": "image-Button_Man_the_Killing_Game.jpg",
+    "link": "button-man-the-killing-game"
   },
   {
     "number": "483",
     "title": "Streak of Chalk",
     "author": "Miguelanxo Prado",
-    "image": "image-Streak_of_Chalk.jpg"
+    "image": "image-Streak_of_Chalk.jpg",
+    "link": "streak-of-chalk"
   },
   {
     "number": "484",
     "title": "My Troubles With Women",
     "author": "Robert Crumb",
     "image": "image-My_Troubles_With_Women.jpg",
-    "year": 1992
+    "year": 1992,
+    "link": "my-troubles-with-women"
   },
   {
     "number": "485",
     "title": "Flood! a Novel in Pictures",
     "author": "Eric Drooker",
-    "image": "image-Flood_a_Novel_in_Pictures.jpg"
+    "image": "image-Flood_a_Novel_in_Pictures.jpg",
+    "link": "flood-a-novel-in-pictures"
   },
   {
     "number": "486",
     "title": "King",
     "author": "Ho Che Anderson",
     "image": "image-King.jpg",
-    "year": 1992
+    "year": 1992,
+    "link": "king"
   },
   {
     "number": "487",
     "title": "Sailor Moon",
     "author": "Naoko Takeuchi",
     "image": "image-Sailor_Moon.jpg",
-    "year": 1992
+    "year": 1992,
+    "link": "sailor-moon"
   },
   {
     "number": "488",
     "title": "Underworld",
     "author": "Kaz",
     "image": "image-Underworld.jpg",
-    "year": 1992
+    "year": 1992,
+    "link": "underworld"
   },
   {
     "number": "489",
     "title": "Rock'n Roll Zoo Necronomicon",
     "author": "Savage Pencil",
-    "image": "image-Rockn_Roll_Zoo_Necronomicon.jpg"
+    "image": "image-Rockn_Roll_Zoo_Necronomicon.jpg",
+    "link": "rockn-roll-zoo-necronomicon"
   },
   {
     "number": "490",
     "title": "Leviathan",
     "author": "Peter Blegvad",
     "image": "image-Leviathan.jpg",
-    "year": 1992
+    "year": 1992,
+    "link": "leviathan"
   },
   {
     "number": "491",
     "title": "Now, Endsville",
     "author": "Carol Lay",
     "image": "image-Now_Endsville.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "now-endsville"
   },
   {
     "number": "492",
     "title": "The Marat/Sade Journals",
     "author": "Barron Storey",
     "image": "image-The_MaratSade_Journals.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "the-maratsade-journals"
   },
   {
     "number": "493",
     "title": "Kane",
     "author": "Paul Grist",
     "image": "image-Kane.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "kane"
   },
   {
     "number": "494",
     "title": "Leon the Stuff",
     "author": "Sylvain Chomet",
-    "image": "image-Leon_the_Stuff.jpg"
+    "image": "image-Leon_the_Stuff.jpg",
+    "link": "leon-the-stuff"
   },
   {
     "number": "495",
     "title": "The Blue Notebook",
     "author": "Andre Juillard",
     "image": "image-The_Blue_Notebook.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "the-blue-notebook"
   },
   {
     "number": "496",
     "title": "Strange Embrace",
     "author": "David Hine",
     "image": "image-Strange_Embrace.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "strange-embrace"
   },
   {
     "number": "497",
     "title": "Casanova'S Last Stand",
     "author": "Hunt Emerson",
-    "image": "image-CasanovaS_Last_Stand.jpg"
+    "image": "image-CasanovaS_Last_Stand.jpg",
+    "link": "casanovas-last-stand"
   },
   {
     "number": "498",
     "title": "Enigma",
     "author": "Peter Milligan",
     "image": "image-Enigma.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "enigma"
   },
   {
     "number": "499",
     "title": "Ghost World",
     "author": "Daniel Clowes",
     "image": "image-Ghost_World.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "ghost-world"
   },
   {
     "number": "500",
     "title": "McConey",
     "author": "Lewis Trondheim",
     "image": "image-McConey.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "mcconey"
   },
   {
     "number": "501",
     "title": "Ikkyu",
     "author": "Hisashi Sakaguchi",
     "image": "image-Ikkyu.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "ikkyu"
   },
   {
     "number": "502",
     "title": "Tokyo University Story",
     "author": "Tatsuya Egawa",
     "image": "image-Tokyo_University_Story.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "tokyo-university-story"
   },
   {
     "number": "503",
     "title": "Onmyoji",
     "author": "Reiko Okano",
     "image": "image-Onmyoji.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "onmyoji"
   },
   {
     "number": "504",
     "title": "The Maxx",
     "author": "Sam Kieth",
     "image": "image-The_Maxx.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "the-maxx"
   },
   {
     "number": "505",
     "title": "Space Dog",
     "author": "Hendrik Dorghaten",
     "image": "image-Space_Dog.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "space-dog"
   },
   {
     "number": "506",
     "title": "The K Chronicles",
     "author": "Keith Knight",
     "image": "image-The_K_Chronicles.jpg",
-    "year": 1993
+    "year": 1993,
+    "link": "the-k-chronicles"
   },
   {
     "number": "507",
     "title": "The Silence of Malka",
     "author": "Jorge Zentner",
-    "image": "image-The_Silence_of_Malka.jpg"
+    "image": "image-The_Silence_of_Malka.jpg",
+    "link": "the-silence-of-malka"
   },
   {
     "number": "508",
     "title": "Pirates of the Tiete and Other Barbarians",
     "author": "Laerte Coutinho",
-    "image": "image-Pirates_of_the_Tiete_and_Other_Barbarians.jpg"
+    "image": "image-Pirates_of_the_Tiete_and_Other_Barbarians.jpg",
+    "link": "pirates-of-the-tiete-and-other-barbarians"
   },
   {
     "number": "509",
     "title": "City of Glass",
     "author": "David Mazzucchelli and Paul Auster",
-    "image": "image-City_of_Glass.jpg"
+    "image": "image-City_of_Glass.jpg",
+    "link": "city-of-glass"
   },
   {
     "number": "510",
     "title": "Highway of the Sun",
     "author": "Baru",
-    "image": "image-Highway_of_the_Sun.jpg"
+    "image": "image-Highway_of_the_Sun.jpg",
+    "link": "highway-of-the-sun"
   },
   {
     "number": "511",
     "title": "Lanfeust De Troy - L'ivoire Du Magohamoth",
     "author": "Arleston-Tarquin",
-    "image": "image-Lanfeust_De_Troy__Livoire_Du_Magohamoth.jpg"
+    "image": "image-Lanfeust_De_Troy__Livoire_Du_Magohamoth.jpg",
+    "link": "lanfeust-de-troy---livoire-du-magohamoth"
   },
   {
     "number": "512",
     "title": "Marvels",
     "author": "Alex Ross & Kurt Busiek",
     "image": "image-Marvels.jpg",
-    "year": 1994
+    "year": 1994,
+    "link": "marvels"
   },
   {
     "number": "513",
     "title": "Yellow Negroes",
     "author": "Yvan Alagbe",
     "image": "image-Yellow_Negroes.jpg",
-    "year": 1994
+    "year": 1994,
+    "link": "yellow-negroes"
   },
   {
     "number": "514",
     "title": "Brooklyn Dreams",
     "author": "J.M. Dematteis",
     "image": "image-Brooklyn_Dreams.jpg",
-    "year": 1994
+    "year": 1994,
+    "link": "brooklyn-dreams"
   },
   {
     "number": "515",
     "title": "Hate: Buddy Does Seattle",
     "author": "Peter Bagge",
-    "image": "image-Hate_Buddy_Does_Seattle.jpg"
+    "image": "image-Hate_Buddy_Does_Seattle.jpg",
+    "link": "hate-buddy-does-seattle"
   },
   {
     "number": "516",
     "title": "Maakies",
     "author": "Tony Millionaire",
     "image": "image-Maakies.jpg",
-    "year": 1994
+    "year": 1994,
+    "link": "maakies"
   },
   {
     "number": "517",
     "title": "Starman",
     "author": "Vol. 2 #0-80) (James Robinson, Tony Harris & Peter Snejberg",
     "image": "image-Starman.jpg",
-    "year": 1994
+    "year": 1994,
+    "link": "starman"
   },
   {
     "number": "518",
     "title": "The River of Stories",
     "author": "Orijit Sen",
-    "image": "image-The_River_of_Stories.jpg"
+    "image": "image-The_River_of_Stories.jpg",
+    "link": "the-river-of-stories"
   },
   {
     "number": "519",
     "title": "We Are Reproducing",
     "author": "Shungicu Uchida",
     "image": "image-We_Are_Reproducing.jpg",
-    "year": 1994
+    "year": 1994,
+    "link": "we-are-reproducing"
   },
   {
     "number": "520",
     "title": "I Pity You: A Cartoonist Diary",
     "author": "Phillipe Dupuy and Charles Berbérian",
-    "image": "image-I_Pity_You_A_Cartoonist_Diary.jpg"
+    "image": "image-I_Pity_You_A_Cartoonist_Diary.jpg",
+    "link": "i-pity-you-a-cartoonist-diary"
   },
   {
     "number": "521",
     "title": "From Inside",
     "author": "John Bergin",
     "image": "image-From_Inside.jpg",
-    "year": 1994
+    "year": 1994,
+    "link": "from-inside"
   },
   {
     "number": "522",
     "title": "Mutts",
     "author": "Patcik Mcdonell",
     "image": "image-Mutts.jpg",
-    "year": 1994
+    "year": 1994,
+    "link": "mutts"
   },
   {
     "number": "523",
     "title": "Homo Metropolis",
     "author": "Nikoline Werdelin",
     "image": "image-Homo_Metropolis.jpg",
-    "year": 1994
+    "year": 1994,
+    "link": "homo-metropolis"
   },
   {
     "number": "524",
     "title": "Palepoli",
     "author": "Usamura Furuya",
     "image": "image-Palepoli.jpg",
-    "year": 1994
+    "year": 1994,
+    "link": "palepoli"
   },
   {
     "number": "525",
     "title": "Tekkon Kinkreet Black & White",
     "author": "Taiyo Matsumoto",
-    "image": "image-Tekkon_Kinkreet_Black__White.jpg"
+    "image": "image-Tekkon_Kinkreet_Black__White.jpg",
+    "link": "tekkon-kinkreet-black--white"
   },
   {
     "number": "526",
     "title": "Blade of the Immortal",
     "author": "Hiroaki Samura",
-    "image": "image-Blade_of_the_Immortal.jpg"
+    "image": "image-Blade_of_the_Immortal.jpg",
+    "link": "blade-of-the-immortal"
   },
   {
     "number": "527",
     "title": "Johnny the Homicidal Maniac",
     "author": "Jhonen Vasquez",
-    "image": "image-Johnny_the_Homicidal_Maniac.jpg"
+    "image": "image-Johnny_the_Homicidal_Maniac.jpg",
+    "link": "johnny-the-homicidal-maniac"
   },
   {
     "number": "528",
     "title": "Misery Loves Comedy",
     "author": "Ivan Brunetti",
     "image": "image-Misery_Loves_Comedy.jpg",
-    "year": 1995
+    "year": 1995,
+    "link": "misery-loves-comedy"
   },
   {
     "number": "529",
     "title": "Nudl Nude",
     "author": "Youngsoon Yang",
     "image": "image-Nudl_Nude.jpg",
-    "year": 1995
+    "year": 1995,
+    "link": "nudl-nude"
   },
   {
     "number": "530",
     "title": "Ragmop",
     "author": "Rob Walton",
     "image": "image-Ragmop.jpg",
-    "year": 1995
+    "year": 1995,
+    "link": "ragmop"
   },
   {
     "number": "531",
     "title": "Approximately",
     "author": "Lewis Trondheim",
     "image": "image-Approximately.jpg",
-    "year": 1995
+    "year": 1995,
+    "link": "approximately"
   },
   {
     "number": "532",
     "title": "Storeyville",
     "author": "Frank Satoro",
     "image": "image-Storeyville.jpg",
-    "year": 1995
+    "year": 1995,
+    "link": "storeyville"
   },
   {
     "number": "533",
     "title": "Dragon Head",
     "author": "Minetaro Mochizuki",
     "image": "image-Dragon_Head.jpg",
-    "year": 1995
+    "year": 1995,
+    "link": "dragon-head"
   },
   {
     "number": "534",
     "title": "Black Hole",
     "author": "Charles Burns",
     "image": "image-Black_Hole.jpg",
-    "year": 1995
+    "year": 1995,
+    "link": "black-hole"
   },
   {
     "number": "535",
     "title": "Beg the Question",
     "author": "Bob Fingerman",
-    "image": "image-Beg_the_Question.jpg"
+    "image": "image-Beg_the_Question.jpg",
+    "link": "beg-the-question"
   },
   {
     "number": "536",
     "title": "Hotel Africa",
     "author": "Hee Jung Park",
     "image": "image-Hotel_Africa.jpg",
-    "year": 1995
+    "year": 1995,
+    "link": "hotel-africa"
   },
   {
     "number": "537",
     "title": "Neon Genesis Evangelion",
     "author": "Yoshiyuki Sadamoto",
     "image": "image-Neon_Genesis_Evangelion.jpg",
-    "year": 1995
+    "year": 1995,
+    "link": "neon-genesis-evangelion"
   },
   {
     "number": "538",
     "title": "The Boondocks",
     "author": "Aaron McGruder",
-    "image": "image-The_Boondocks.jpg"
+    "image": "image-The_Boondocks.jpg",
+    "link": "the-boondocks"
   },
   {
     "number": "539",
     "title": "The System",
     "author": "Peter Kuper",
     "image": "image-The_System.jpg",
-    "year": 1996
+    "year": 1996,
+    "link": "the-system"
   },
   {
     "number": "540",
     "title": "W the Whore",
     "author": "Anke Feuchtenberger",
-    "image": "image-W_the_Whore.jpg"
+    "image": "image-W_the_Whore.jpg",
+    "link": "w-the-whore"
   },
   {
     "number": "541",
     "title": "Journal",
     "author": "Fabrice Neaud",
     "image": "image-Journal.jpg",
-    "year": 1996
+    "year": 1996,
+    "link": "journal"
   },
   {
     "number": "542",
     "title": "Happy Mania",
     "author": "Moyocco Anno",
     "image": "image-Happy_Mania.jpg",
-    "year": 1996
+    "year": 1996,
+    "link": "happy-mania"
   },
   {
     "number": "543",
     "title": "Yongbi the Invincible",
     "author": "Junghoo Moon",
-    "image": "image-Yongbi_the_Invincible.jpg"
+    "image": "image-Yongbi_the_Invincible.jpg",
+    "link": "yongbi-the-invincible"
   },
   {
     "number": "544",
     "title": "The Zabime Sisters",
     "author": "Aristophane",
     "image": "image-The_Zabime_Sisters.jpg",
-    "year": 1996
+    "year": 1996,
+    "link": "the-zabime-sisters"
   },
   {
     "number": "545",
     "title": "Blue",
     "author": "Kiriko Nananan",
     "image": "image-Blue.jpg",
-    "year": 1996
+    "year": 1996,
+    "link": "blue"
   },
   {
     "number": "546",
     "title": "Seven Miles a Second",
     "author": "David Wojnarowicz",
-    "image": "image-Seven_Miles_a_Second.jpg"
+    "image": "image-Seven_Miles_a_Second.jpg",
+    "link": "seven-miles-a-second"
   },
   {
     "number": "547",
     "title": "Daddy's Girl",
     "author": "Debbie Drechsler",
-    "image": "image-Daddys_Girl.jpg"
+    "image": "image-Daddys_Girl.jpg",
+    "link": "daddys-girl"
   },
   {
     "number": "548",
     "title": "Great Teacher Onizuka",
     "author": "Toru Fujisawa",
     "image": "image-Great_Teacher_Onizuka.jpg",
-    "year": 1997
+    "year": 1997,
+    "link": "great-teacher-onizuka"
   },
   {
     "number": "549",
     "title": "A History of Violence",
     "author": "John Wagner",
-    "image": "image-A_History_of_Violence.jpg"
+    "image": "image-A_History_of_Violence.jpg",
+    "link": "a-history-of-violence"
   },
   {
     "number": "550",
     "title": "Eagle",
     "author": "Kaji Kawaguchi",
     "image": "image-Eagle.jpg",
-    "year": 1997
+    "year": 1997,
+    "link": "eagle"
   },
   {
     "number": "551",
     "title": "One Hundred Views of the Speicherstadt",
     "author": "Martin Tom Dieck",
-    "image": "image-One_Hundred_Views_of_the_Speicherstadt.jpg"
+    "image": "image-One_Hundred_Views_of_the_Speicherstadt.jpg",
+    "link": "one-hundred-views-of-the-speicherstadt"
   },
   {
     "number": "552",
     "title": "Swords of Rome",
     "author": "Jean Dufaux & Philippe Delaby",
-    "image": "image-Swords_of_Rome.jpg"
+    "image": "image-Swords_of_Rome.jpg",
+    "link": "swords-of-rome"
   },
   {
     "number": "553",
     "title": "Vellevision",
     "author": "Maurice Vellekoop",
     "image": "image-Vellevision.jpg",
-    "year": 1997
+    "year": 1997,
+    "link": "vellevision"
   },
   {
     "number": "554",
     "title": "Bardin the Superrealist",
     "author": "Max",
-    "image": "image-Bardin_the_Superrealist.jpg"
+    "image": "image-Bardin_the_Superrealist.jpg",
+    "link": "bardin-the-superrealist"
   },
   {
     "number": "555",
     "title": "The Sojourn",
     "author": "Jean-Pierre Gibrat",
     "image": "image-The_Sojourn.jpg",
-    "year": 1997
+    "year": 1997,
+    "link": "the-sojourn"
   },
   {
     "number": "556",
     "title": "Eiland",
     "author": "Stefan Van Dinther and Tobias Tycho Schalken",
     "image": "image-Eiland.jpg",
-    "year": 1997
+    "year": 1997,
+    "link": "eiland"
   },
   {
     "number": "557",
     "title": "MPD Psycho",
     "author": "Eiji Otsuka",
     "image": "image-MPD_Psycho.jpg",
-    "year": 1997
+    "year": 1997,
+    "link": "mpd-psycho"
   },
   {
     "number": "558",
     "title": "The World Is Mine",
     "author": "Hideki Arai",
     "image": "image-The_World_Is_Mine.jpg",
-    "year": 1997
+    "year": 1997,
+    "link": "the-world-is-mine"
   },
   {
     "number": "559",
     "title": "The Killer",
     "author": "Matz",
     "image": "image-The_Killer.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "the-killer"
   },
   {
     "number": "560",
     "title": "Stigmata",
     "author": "Claudio Piersanti",
     "image": "image-Stigmata.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "stigmata"
   },
   {
     "number": "561",
     "title": "Vagabond",
     "author": "Tekehiko Inoue",
     "image": "image-Vagabond.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "vagabond"
   },
   {
     "number": "562",
     "title": "Torso",
     "author": "Brian Michael Bendis",
     "image": "image-Torso.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "torso"
   },
   {
     "number": "563",
     "title": "Pure Trance",
     "author": "Junko Mizuno",
     "image": "image-Pure_Trance.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "pure-trance"
   },
   {
     "number": "564",
     "title": "Best of Bitterkomix",
     "author": "Conrad Botes and Anton Kannemeyer",
-    "image": "image-Best_of_Bitterkomix.jpg"
+    "image": "image-Best_of_Bitterkomix.jpg",
+    "link": "best-of-bitterkomix"
   },
   {
     "number": "565",
     "title": "Dungeon",
     "author": "Joann Sfae and Lewis Trondheim",
     "image": "image-Dungeon.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "dungeon"
   },
   {
     "number": "566",
     "title": "The Jew of New York",
     "author": "Ben Katchor",
     "image": "image-The_Jew_of_New_York.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "the-jew-of-new-york"
   },
   {
     "number": "567",
     "title": "The Trumpets They Play!",
     "author": "Al Columbia",
     "image": "image-The_Trumpets_They_Play.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "the-trumpets-they-play"
   },
   {
     "number": "568",
     "title": "Pastil",
     "author": "Francesca Ghermandi",
     "image": "image-Pastil.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "pastil"
   },
   {
     "number": "569",
     "title": "Uzumaki",
     "author": "Junji Ito",
     "image": "image-Uzumaki.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "uzumaki"
   },
   {
     "number": "570",
     "title": "White Death",
     "author": "Robbie Morrison",
     "image": "image-White_Death.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "white-death"
   },
   {
     "number": "571",
     "title": "Age of Bronze",
     "author": "Eric Shanower",
-    "image": "image-Age_of_Bronze.jpg"
+    "image": "image-Age_of_Bronze.jpg",
+    "link": "age-of-bronze"
   },
   {
     "number": "572",
     "title": "A Distant Neighbourhood",
     "author": "Jiro Taniguchi",
-    "image": "image-A_Distant_Neighbourhood.jpg"
+    "image": "image-A_Distant_Neighbourhood.jpg",
+    "link": "a-distant-neighbourhood"
   },
   {
     "number": "573",
     "title": "Apocalypse Meow",
     "author": "Motofumi Kobayashi",
     "image": "image-Apocalypse_Meow.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "apocalypse-meow"
   },
   {
     "number": "574",
     "title": "Bosnian Fables",
     "author": "TBC",
     "image": "image-Bosnian_Fables.jpg",
-    "year": 1998
+    "year": 1998,
+    "link": "bosnian-fables"
   },
   {
     "number": "575",
     "title": "Wake Fire & Ash",
     "author": "Jean-David Morvan",
-    "image": "image-Wake_Fire__Ash.jpg"
+    "image": "image-Wake_Fire__Ash.jpg",
+    "link": "wake-fire--ash"
   },
   {
     "number": "576",
     "title": "Tokyo Zombie",
     "author": "Yusaku Hanakuma",
     "image": "image-Tokyo_Zombie.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "tokyo-zombie"
   },
   {
     "number": "577",
     "title": "Comix 2000",
     "author": "Edited by Jean-Christophe Menu",
     "image": "image-Comix_2000.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "comix-2000"
   },
   {
     "number": "578",
     "title": "Big Questions",
     "author": "Anders Nilsen",
     "image": "image-Big_Questions.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "big-questions"
   },
   {
     "number": "579",
     "title": "Ripple",
     "author": "Dave Cooper",
     "image": "image-Ripple.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "ripple"
   },
   {
     "number": "580",
     "title": "Rocky",
     "author": "Martin Kellerman",
     "image": "image-Rocky.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "rocky"
   },
   {
     "number": "581",
     "title": "Fruits Basket",
     "author": "Natsuki Takaya",
     "image": "image-Fruits_Basket.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "fruits-basket"
   },
   {
     "number": "582",
     "title": "Nana",
     "author": "Ai Yazawa",
     "image": "image-Nana.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "nana"
   },
   {
     "number": "583",
     "title": "Promethea",
     "author": "Alan Moore",
     "image": "image-Promethea.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "promethea"
   },
   {
     "number": "584",
     "title": "Priest",
     "author": "Minwoo Hyung",
     "image": "image-Priest.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "priest"
   },
   {
     "number": "585",
     "title": "Gemma Bovery",
     "author": "Posy Simmonds",
     "image": "image-Gemma_Bovery.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "gemma-bovery"
   },
   {
     "number": "586",
     "title": "The Adventures of Hergé",
     "author": "Bocquet and Formental",
-    "image": "image-The_Adventures_of_Herg.jpg"
+    "image": "image-The_Adventures_of_Herg.jpg",
+    "link": "the-adventures-of-herg"
   },
   {
     "number": "587",
     "title": "Mushishi",
     "author": "Yuki Urushibara",
     "image": "image-Mushishi.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "mushishi"
   },
   {
     "number": "588",
     "title": "Top 10",
     "author": "Alan Moore",
     "image": "image-Top_10.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "top-10"
   },
   {
     "number": "589",
     "title": "Naruto",
     "author": "Masashi Kishimoto",
     "image": "image-Naruto.jpg",
-    "year": 1999
+    "year": 1999,
+    "link": "naruto"
   },
   {
     "number": "590",
     "title": "The Double of Five",
     "author": "Lourenco Mutarelli",
-    "image": "image-The_Double_of_Five.jpg"
+    "image": "image-The_Double_of_Five.jpg",
+    "link": "the-double-of-five"
   },
   {
     "number": "591",
     "title": "The Birth Caul: A Shamanism of Childhood",
     "author": "Alan Moore",
-    "image": "image-The_Birth_Caul_A_Shamanism_of_Childhood.jpg"
+    "image": "image-The_Birth_Caul_A_Shamanism_of_Childhood.jpg",
+    "link": "the-birth-caul-a-shamanism-of-childhood"
   },
   {
     "number": "592",
     "title": "Doing Time",
     "author": "Kazuichi Hanawa",
     "image": "image-Doing_Time.jpg",
-    "year": 2000
+    "year": 2000,
+    "link": "doing-time"
   },
   {
     "number": "593",
     "title": "Kraut",
     "author": "Peter Pontiac",
     "image": "image-Kraut.jpg",
-    "year": 2000
+    "year": 2000,
+    "link": "kraut"
   },
   {
     "number": "594",
     "title": "Skibber Bee-Bye",
     "author": "Ron Regé Jr.",
     "image": "image-Skibber_BeeBye.jpg",
-    "year": 2000
+    "year": 2000,
+    "link": "skibber-bee-bye"
   },
   {
     "number": "595",
     "title": "Kramers Ergot",
     "author": "Edite by Sammy Harkham",
     "image": "image-Kramers_Ergot.jpg",
-    "year": 2000
+    "year": 2000,
+    "link": "kramers-ergot"
   },
   {
     "number": "596",
     "title": "Alan's War: The Memories of G.I. Alan Cope",
     "author": "Emmanuel Guibert",
-    "image": "image-Alans_War_The_Memories_of_GI_Alan_Cope.jpg"
+    "image": "image-Alans_War_The_Memories_of_GI_Alan_Cope.jpg",
+    "link": "alans-war-the-memories-of-gi-alan-cope"
   },
   {
     "number": "597",
     "title": "Louis",
     "author": "John Chalmers",
     "image": "image-Louis.jpg",
-    "year": 2000
+    "year": 2000,
+    "link": "louis"
   },
   {
     "number": "598",
     "title": "Sky Doll",
     "author": "Barbara Canepa",
     "image": "image-Sky_Doll.jpg",
-    "year": 2000
+    "year": 2000,
+    "link": "sky-doll"
   },
   {
     "number": "599",
     "title": "Honey and Clover",
     "author": "Chica Umino",
-    "image": "image-Honey_and_Clover.jpg"
+    "image": "image-Honey_and_Clover.jpg",
+    "link": "honey-and-clover"
   },
   {
     "number": "600",
     "title": "Sexy Voice and Robo",
     "author": "Iou Kuroda",
-    "image": "image-Sexy_Voice_and_Robo.jpg"
+    "image": "image-Sexy_Voice_and_Robo.jpg",
+    "link": "sexy-voice-and-robo"
   },
   {
     "number": "601",
     "title": "I'll Be Back Shortly",
     "author": "Frank Odoi",
-    "image": "image-Ill_Be_Back_Shortly.jpg"
+    "image": "image-Ill_Be_Back_Shortly.jpg",
+    "link": "ill-be-back-shortly"
   },
   {
     "number": "602",
     "title": "La Perdida",
     "author": "Jessica Abel",
     "image": "image-La_Perdida.jpg",
-    "year": 2000
+    "year": 2000,
+    "link": "la-perdida"
   },
   {
     "number": "603",
     "title": "Bételgeuse",
     "author": "Léo",
     "image": "image-Btelgeuse.jpg",
-    "year": 2000
+    "year": 2000,
+    "link": "btelgeuse"
   },
   {
     "number": "604",
     "title": "Gogo Monster",
     "author": "Taiyo Matsumoto",
-    "image": "image-Gogo_Monster.jpg"
+    "image": "image-Gogo_Monster.jpg",
+    "link": "gogo-monster"
   },
   {
     "number": "605",
     "title": "80°C",
     "author": "Yao Fei La",
     "image": "image-80C.jpg",
-    "year": 2000
+    "year": 2000,
+    "link": "80c"
   },
   {
     "number": "606",
     "title": "Yukiko's Spinach",
     "author": "Frédéric Boilet",
-    "image": "image-Yukikos_Spinach.jpg"
+    "image": "image-Yukikos_Spinach.jpg",
+    "link": "yukikos-spinach"
   },
   {
     "number": "607",
     "title": "Deogratias, a Tale of Rwanda",
     "author": "Jean-Philpiie Stassen",
-    "image": "image-Deogratias_a_Tale_of_Rwanda.jpg"
+    "image": "image-Deogratias_a_Tale_of_Rwanda.jpg",
+    "link": "deogratias-a-tale-of-rwanda"
   },
   {
     "number": "608",
     "title": "Berlin: City of Stones",
     "author": "Jason Lutes",
-    "image": "image-Berlin_City_of_Stones.jpg"
+    "image": "image-Berlin_City_of_Stones.jpg",
+    "link": "berlin-city-of-stones"
   },
   {
     "number": "609",
     "title": "Cola Madness",
     "author": "Gary Panter",
     "image": "image-Cola_Madness.jpg",
-    "year": 2000
+    "year": 2000,
+    "link": "cola-madness"
   },
   {
     "number": "610",
     "title": "Cromartie High School",
     "author": "Eji Nonaka",
     "image": "image-Cromartie_High_School.jpg",
-    "year": 2000
+    "year": 2000,
+    "link": "cromartie-high-school"
   },
   {
     "number": "611",
     "title": "The Journal of K.",
     "author": "Raul Brandao",
     "image": "image-The_Journal_of_K.jpg",
-    "year": 2001
+    "year": 2001,
+    "link": "the-journal-of-k"
   },
   {
     "number": "612",
     "title": "Mail Order Bride",
     "author": "Mark Kalesniko",
     "image": "image-Mail_Order_Bride.jpg",
-    "year": 2001
+    "year": 2001,
+    "link": "mail-order-bride"
   },
   {
     "number": "613",
     "title": "Perry Bible Fellowship - Almanakka",
     "author": "Nicholas Gurewitch",
-    "image": "image-Perry_Bible_Fellowship__Almanakka.jpg"
+    "image": "image-Perry_Bible_Fellowship__Almanakka.jpg",
+    "link": "perry-bible-fellowship---almanakka"
   },
   {
     "number": "614",
     "title": "Miss Remarkable & Her Career",
     "author": "Joanna Rubin Dranger",
     "image": "image-Miss_Remarkable__Her_Career.jpg",
-    "year": 2001
+    "year": 2001,
+    "link": "miss-remarkable--her-career"
   },
   {
     "number": "615",
     "title": "Daredevil",
     "author": "Brian Michael Bendis & Alex Maleev",
     "image": "image-Daredevil.jpg",
-    "year": 2001
+    "year": 2001,
+    "link": "daredevil"
   },
   {
     "number": "616",
     "title": "The Brithday Riots",
     "author": "Nabiel Kanan",
-    "image": "image-The_Brithday_Riots.jpg"
+    "image": "image-The_Brithday_Riots.jpg",
+    "link": "the-brithday-riots"
   },
   {
     "number": "617",
     "title": "Get Your War on",
     "author": "David Rees",
-    "image": "image-Get_Your_War_on.jpg"
+    "image": "image-Get_Your_War_on.jpg",
+    "link": "get-your-war-on"
   },
   {
     "number": "618",
     "title": "Fullmetal Alchemist",
     "author": "Hiromu Arakawa",
     "image": "image-Fullmetal_Alchemist.jpg",
-    "year": 2001
+    "year": 2001,
+    "link": "fullmetal-alchemist"
   },
   {
     "number": "619",
     "title": "Bleach",
     "author": "Tite Kubo",
     "image": "image-Bleach.jpg",
-    "year": 2001
+    "year": 2001,
+    "link": "bleach"
   },
   {
     "number": "620",
     "title": "Ultra-Gash Inferno",
     "author": "Suehiro Maruo",
-    "image": "image-UltraGash_Inferno.jpg"
+    "image": "image-UltraGash_Inferno.jpg",
+    "link": "ultra-gash-inferno"
   },
   {
     "number": "621",
     "title": "Blue Pills",
     "author": "Frederik Peeters",
     "image": "image-Blue_Pills.jpg",
-    "year": 2001
+    "year": 2001,
+    "link": "blue-pills"
   },
   {
     "number": "622",
     "title": "Isaac the Pirate",
     "author": "Christophe Blain",
-    "image": "image-Isaac_the_Pirate.jpg"
+    "image": "image-Isaac_the_Pirate.jpg",
+    "link": "isaac-the-pirate"
   },
   {
     "number": "623",
     "title": "Saint Jean's Way",
     "author": "Edmond Baudoin",
-    "image": "image-Saint_Jeans_Way.jpg"
+    "image": "image-Saint_Jeans_Way.jpg",
+    "link": "saint-jeans-way"
   },
   {
     "number": "624",
     "title": "Abe: Wrong for All the Right Reasons",
     "author": "Glenn Dakin",
-    "image": "image-Abe_Wrong_for_All_the_Right_Reasons.jpg"
+    "image": "image-Abe_Wrong_for_All_the_Right_Reasons.jpg",
+    "link": "abe-wrong-for-all-the-right-reasons"
   },
   {
     "number": "625",
     "title": "Nodame Cantabile",
     "author": "Tomoko Ninomiya",
     "image": "image-Nodame_Cantabile.jpg",
-    "year": 2001
+    "year": 2001,
+    "link": "nodame-cantabile"
   },
   {
     "number": "626",
     "title": "Buja's Diary",
     "author": "Seyeong O.",
-    "image": "image-Bujas_Diary.jpg"
+    "image": "image-Bujas_Diary.jpg",
+    "link": "bujas-diary"
   },
   {
     "number": "627",
     "title": "Meanwhile",
     "author": "Jason Shiga",
     "image": "image-Meanwhile.jpg",
-    "year": 2001
+    "year": 2001,
+    "link": "meanwhile"
   },
   {
     "number": "628",
     "title": "The Great Catsby",
     "author": "Kang Do-Ha",
     "image": "image-The_Great_Catsby.jpg",
-    "year": 2001
+    "year": 2001,
+    "link": "the-great-catsby"
   },
   {
     "number": "629",
     "title": "Amelia Rules",
     "author": "Jimmy Gownley",
-    "image": "image-Amelia_Rules.jpg"
+    "image": "image-Amelia_Rules.jpg",
+    "link": "amelia-rules"
   },
   {
     "number": "630",
     "title": "How Blue Was My Valley",
     "author": "Hok Tak Yeung",
     "image": "image-How_Blue_Was_My_Valley.jpg",
-    "year": 2002
+    "year": 2002,
+    "link": "how-blue-was-my-valley"
   },
   {
     "number": "631",
     "title": "Six Hundred and Seventy-Six Apparitions of Killoffer",
     "author": "Patrice Killoffer",
-    "image": "image-Six_Hundred_and_SeventySix_Apparitions_of_Killoffer.jpg"
+    "image": "image-Six_Hundred_and_SeventySix_Apparitions_of_Killoffer.jpg",
+    "link": "six-hundred-and-seventy-six-apparitions-of-killoffer"
   },
   {
     "number": "632",
     "title": "The Secret",
     "author": "Andrzej Klimowski",
     "image": "image-The_Secret.jpg",
-    "year": 2002
+    "year": 2002,
+    "link": "the-secret"
   },
   {
     "number": "633",
     "title": "Good Bye",
     "author": "Yoshihiro Tatsumi",
     "image": "image-Good_Bye.jpg",
-    "year": 2002
+    "year": 2002,
+    "link": "good-bye"
   },
   {
     "number": "634",
     "title": "Scarlet Traces",
     "author": "Ian Edginton",
     "image": "image-Scarlet_Traces.jpg",
-    "year": 2002
+    "year": 2002,
+    "link": "scarlet-traces"
   },
   {
     "number": "635",
     "title": "American Elf",
     "author": "James Kochalka",
     "image": "image-American_Elf.jpg",
-    "year": 2002
+    "year": 2002,
+    "link": "american-elf"
   },
   {
     "number": "636",
     "title": "The Salon",
     "author": "Nick Bertozzi",
     "image": "image-The_Salon.jpg",
-    "year": 2002
+    "year": 2002,
+    "link": "the-salon"
   },
   {
     "number": "637",
     "title": "Genshiken",
     "author": "Kio Shimoku",
     "image": "image-Genshiken.jpg",
-    "year": 2002
+    "year": 2002,
+    "link": "genshiken"
   },
   {
     "number": "638",
     "title": "Prosopopus",
     "author": "Nicolas E Crécis",
     "image": "image-Prosopopus.jpg",
-    "year": 2002
+    "year": 2002,
+    "link": "prosopopus"
   },
   {
     "number": "639",
     "title": "A - Z",
     "author": "Lars Arrhenius",
-    "image": "image-A__Z.jpg"
+    "image": "image-A__Z.jpg",
+    "link": "a---z"
   },
   {
     "number": "640",
     "title": "The Filth",
     "author": "Grant Morrison",
     "image": "image-The_Filth.jpg",
-    "year": 2002
+    "year": 2002,
+    "link": "the-filth"
   },
   {
     "number": "641",
     "title": "The Boulevard of Broken Dreams",
     "author": "Kim Deitch",
-    "image": "image-The_Boulevard_of_Broken_Dreams.jpg"
+    "image": "image-The_Boulevard_of_Broken_Dreams.jpg",
+    "link": "the-boulevard-of-broken-dreams"
   },
   {
     "number": "642",
     "title": "Modern Speed",
     "author": "Blutch",
     "image": "image-Modern_Speed.jpg",
-    "year": 2002
+    "year": 2002,
+    "link": "modern-speed"
   },
   {
     "number": "643",
     "title": "5 Is the Perfect Number",
     "author": "Igort",
-    "image": "image-5_Is_the_Perfect_Number.jpg"
+    "image": "image-5_Is_the_Perfect_Number.jpg",
+    "link": "5-is-the-perfect-number"
   },
   {
     "number": "644",
     "title": "The Color of Earth",
     "author": "Kim Dong Hwa",
-    "image": "image-The_Color_of_Earth.jpg"
+    "image": "image-The_Color_of_Earth.jpg",
+    "link": "the-color-of-earth"
   },
   {
     "number": "645",
     "title": "Death Note",
     "author": "Takeshi Obata, Tsugumi Ohba",
     "image": "image-Death_Note.jpg",
-    "year": 2003
+    "year": 2003,
+    "link": "death-note"
   },
   {
     "number": "646",
     "title": "Derek the Sheep",
     "author": "Gary Northfield",
-    "image": "image-Derek_the_Sheep.jpg"
+    "image": "image-Derek_the_Sheep.jpg",
+    "link": "derek-the-sheep"
   },
   {
     "number": "647",
     "title": "Fluffy",
     "author": "Simone Lia",
     "image": "image-Fluffy.jpg",
-    "year": 2003
+    "year": 2003,
+    "link": "fluffy"
   },
   {
     "number": "648",
     "title": "Lou!",
     "author": "Julien Neel",
     "image": "image-Lou.jpg",
-    "year": 2003
+    "year": 2003,
+    "link": "lou"
   },
   {
     "number": "649",
     "title": "Town of Evening Calm, Country of Cherry Blossom",
     "author": "Fumiyo Kouno",
-    "image": "image-Town_of_Evening_Calm_Country_of_Cherry_Blossom.jpg"
+    "image": "image-Town_of_Evening_Calm_Country_of_Cherry_Blossom.jpg",
+    "link": "town-of-evening-calm-country-of-cherry-blossom"
   },
   {
     "number": "650",
     "title": "The Building Opposite",
     "author": "Vanyda",
     "image": "image-The_Building_Opposite.jpg",
-    "year": 2003
+    "year": 2003,
+    "link": "the-building-opposite"
   },
   {
     "number": "651",
     "title": "Same Difference",
     "author": "Derek Kirk Kim",
     "image": "image-Same_Difference.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "same-difference"
   },
   {
     "number": "652",
     "title": "The Bellybuttons",
     "author": "Dubuc and Delaf",
     "image": "image-The_Bellybuttons.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "the-bellybuttons"
   },
   {
     "number": "653",
     "title": "Cul De Sac",
     "author": "Richard Thompson",
-    "image": "image-Cul_De_Sac.jpg"
+    "image": "image-Cul_De_Sac.jpg",
+    "link": "cul-de-sac"
   },
   {
     "number": "654",
     "title": "Amy and Jordan",
     "author": "Mark Beyer",
-    "image": "image-Amy_and_Jordan.jpg"
+    "image": "image-Amy_and_Jordan.jpg",
+    "link": "amy-and-jordan"
   },
   {
     "number": "655",
     "title": "Kekkonen",
     "author": "Matti Hagelberg",
     "image": "image-Kekkonen.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "kekkonen"
   },
   {
     "number": "656",
     "title": "Bosnian Flat Dog",
     "author": "Max Andersson",
     "image": "image-Bosnian_Flat_Dog.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "bosnian-flat-dog"
   },
   {
     "number": "657",
     "title": "Apartment",
     "author": "Full Kang",
     "image": "image-Apartment.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "apartment"
   },
   {
     "number": "658",
     "title": "Achtung Zelig!",
     "author": "Krystian Rosenberg",
     "image": "image-Achtung_Zelig.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "achtung-zelig"
   },
   {
     "number": "659",
     "title": "Playback",
     "author": "Raymond Chandler",
     "image": "image-Playback.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "playback"
   },
   {
     "number": "660",
     "title": "Macanudo",
     "author": "Ricardo Siri Liniers",
     "image": "image-Macanudo.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "macanudo"
   },
   {
     "number": "661",
     "title": "Chicken With Plums",
     "author": "Marjane Satrapi",
     "image": "image-Chicken_With_Plums.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "chicken-with-plums"
   },
   {
     "number": "662",
     "title": "Dokebi Bride",
     "author": "Marley",
     "image": "image-Dokebi_Bride.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "dokebi-bride"
   },
   {
     "number": "663",
     "title": "Flower",
     "author": "Park Kun-Woong",
     "image": "image-Flower.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "flower"
   },
   {
     "number": "664",
     "title": "Different Ugliness, Diefferent Madness",
     "author": "Marc Malès",
-    "image": "image-Different_Ugliness_Diefferent_Madness.jpg"
+    "image": "image-Different_Ugliness_Diefferent_Madness.jpg",
+    "link": "different-ugliness-diefferent-madness"
   },
   {
     "number": "665",
     "title": "Notes for a War Story",
     "author": "Gipi",
-    "image": "image-Notes_for_a_War_Story.jpg"
+    "image": "image-Notes_for_a_War_Story.jpg",
+    "link": "notes-for-a-war-story"
   },
   {
     "number": "666",
     "title": "Headshot",
     "author": "Matz",
     "image": "image-Headshot.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "headshot"
   },
   {
     "number": "667",
     "title": "Olaf G.",
     "author": "Lars Fiske and Steffen Kverneland",
-    "image": "image-Olaf_G.jpg"
+    "image": "image-Olaf_G.jpg",
+    "link": "olaf-g"
   },
   {
     "number": "668",
     "title": "It's a Bird",
     "author": "Steven T. Seagle",
-    "image": "image-Its_a_Bird.jpg"
+    "image": "image-Its_a_Bird.jpg",
+    "link": "its-a-bird"
   },
   {
     "number": "669",
     "title": "Ordinary Victories",
     "author": "Manu Larcenet",
     "image": "image-Ordinary_Victories.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "ordinary-victories"
   },
   {
     "number": "670",
     "title": "Siberia",
     "author": "Nikolai Maslov",
     "image": "image-Siberia.jpg",
-    "year": 2004
+    "year": 2004,
+    "link": "siberia"
   },
   {
     "number": "671",
     "title": "Moyasimon: Tales of Agriculture",
     "author": "Masayuki Ishikawa",
-    "image": "image-Moyasimon_Tales_of_Agriculture.jpg"
+    "image": "image-Moyasimon_Tales_of_Agriculture.jpg",
+    "link": "moyasimon-tales-of-agriculture"
   },
   {
     "number": "672",
     "title": "Disappearance Diary",
     "author": "Hideo Azuma",
     "image": "image-Disappearance_Diary.jpg",
-    "year": 2005
+    "year": 2005,
+    "link": "disappearance-diary"
   },
   {
     "number": "673",
     "title": "Ikigami: The Ultimate Limit",
     "author": "Motoro Mase",
     "image": "image-Ikigami_The_Ultimate_Limit.jpg",
-    "year": 2005
+    "year": 2005,
+    "link": "ikigami-the-ultimate-limit"
   },
   {
     "number": "674",
     "title": "King of the Flies",
     "author": "Pirus",
-    "image": "image-King_of_the_Flies.jpg"
+    "image": "image-King_of_the_Flies.jpg",
+    "link": "king-of-the-flies"
   },
   {
     "number": "675",
     "title": "Interiorae",
     "author": "Gabriella Giandelli",
     "image": "image-Interiorae.jpg",
-    "year": 2005
+    "year": 2005,
+    "link": "interiorae"
   },
   {
     "number": "676",
     "title": "Toys in the Basement",
     "author": "Stéphane Blanquet",
-    "image": "image-Toys_in_the_Basement.jpg"
+    "image": "image-Toys_in_the_Basement.jpg",
+    "link": "toys-in-the-basement"
   },
   {
     "number": "677",
     "title": "Bad People",
     "author": "Étienne Davodeau",
     "image": "image-Bad_People.jpg",
-    "year": 2005
+    "year": 2005,
+    "link": "bad-people"
   },
   {
     "number": "678",
     "title": "Jacaranda",
     "author": "Kotobuki Shirigari",
     "image": "image-Jacaranda.jpg",
-    "year": 2005
+    "year": 2005,
+    "link": "jacaranda"
   },
   {
     "number": "679",
     "title": "Little Star",
     "author": "Andi Watson",
     "image": "image-Little_Star.jpg",
-    "year": 2005
+    "year": 2005,
+    "link": "little-star"
   },
   {
     "number": "680",
     "title": "DMZ",
     "author": "Brian Wood",
     "image": "image-DMZ.jpg",
-    "year": 2005
+    "year": 2005,
+    "link": "dmz"
   },
   {
     "number": "681",
     "title": "Cinema Panopticum",
     "author": "Thomas Ott",
     "image": "image-Cinema_Panopticum.jpg",
-    "year": 2005
+    "year": 2005,
+    "link": "cinema-panopticum"
   },
   {
     "number": "682",
     "title": "99 Ways to Tell a Story",
     "author": "Matt Madden",
-    "image": "image-99_Ways_to_Tell_a_Story.jpg"
+    "image": "image-99_Ways_to_Tell_a_Story.jpg",
+    "link": "99-ways-to-tell-a-story"
   },
   {
     "number": "683",
     "title": "Detroit Metal City",
     "author": "Kiminori Wakasugi",
     "image": "image-Detroit_Metal_City.jpg",
-    "year": 2005
+    "year": 2005,
+    "link": "detroit-metal-city"
   },
   {
     "number": "684",
     "title": "Ooku: The Inner Chamber",
     "author": "Fumi Yoshinaga",
-    "image": "image-Ooku_The_Inner_Chamber.jpg"
+    "image": "image-Ooku_The_Inner_Chamber.jpg",
+    "link": "ooku-the-inner-chamber"
   },
   {
     "number": "685",
     "title": "Tamara Drewe",
     "author": "Posy Simmonds",
     "image": "image-Tamara_Drewe.jpg",
-    "year": 2005
+    "year": 2005,
+    "link": "tamara-drewe"
   },
   {
     "number": "686",
     "title": "The Boys",
     "author": "Garth Ennis",
     "image": "image-The_Boys.jpg",
-    "year": 2006
+    "year": 2006,
+    "link": "the-boys"
   },
   {
     "number": "687",
     "title": "Ultimate Spider Man Clone Saga",
     "author": "Brian Michael Bendis",
-    "image": "image-Ultimate_Spider_Man_Clone_Saga.jpg"
+    "image": "image-Ultimate_Spider_Man_Clone_Saga.jpg",
+    "link": "ultimate-spider-man-clone-saga"
   },
   {
     "number": "688",
     "title": "Travel",
     "author": "Yuichi Yokoyama",
     "image": "image-Travel.jpg",
-    "year": 2006
+    "year": 2006,
+    "link": "travel"
   },
   {
     "number": "689",
     "title": "The Arrival",
     "author": "Shaun Tan",
     "image": "image-The_Arrival.jpg",
-    "year": 2006
+    "year": 2006,
+    "link": "the-arrival"
   },
   {
     "number": "690",
     "title": "The Museum Vaults",
     "author": "Marc-Antoine Mathieu",
     "image": "image-The_Museum_Vaults.jpg",
-    "year": 2006
+    "year": 2006,
+    "link": "the-museum-vaults"
   },
   {
     "number": "691",
     "title": "We Are on Our Own",
     "author": "Miriam Katin",
-    "image": "image-We_Are_on_Our_Own.jpg"
+    "image": "image-We_Are_on_Our_Own.jpg",
+    "link": "we-are-on-our-own"
   },
   {
     "number": "692",
     "title": "Lucky",
     "author": "Gabrielle Bell<",
     "image": "image-Lucky.jpg",
-    "year": 2006
+    "year": 2006,
+    "link": "lucky"
   },
   {
     "number": "693",
     "title": "My Boy",
     "author": "Olivier Schrauwen",
     "image": "image-My_Boy.jpg",
-    "year": 2006
+    "year": 2006,
+    "link": "my-boy"
   },
   {
     "number": "694",
     "title": "Miss Don't Touch Me",
     "author": "Hubert",
-    "image": "image-Miss_Dont_Touch_Me.jpg"
+    "image": "image-Miss_Dont_Touch_Me.jpg",
+    "link": "miss-dont-touch-me"
   },
   {
     "number": "695",
     "title": "Why I Killed Peter",
     "author": "Olivier Ka",
     "image": "image-Why_I_Killed_Peter.jpg",
-    "year": 2006
+    "year": 2006,
+    "link": "why-i-killed-peter"
   },
   {
     "number": "696",
     "title": "The Snodgrass Conspiracy",
     "author": "Grady Klein",
-    "image": "image-The_Snodgrass_Conspiracy.jpg"
+    "image": "image-The_Snodgrass_Conspiracy.jpg",
+    "link": "the-snodgrass-conspiracy"
   },
   {
     "number": "697",
     "title": "Sardine in Outer Space",
     "author": "Emmanuel Guibert",
-    "image": "image-Sardine_in_Outer_Space.jpg"
+    "image": "image-Sardine_in_Outer_Space.jpg",
+    "link": "sardine-in-outer-space"
   },
   {
     "number": "698",
     "title": "Ristorante Paradiso",
     "author": "Natsume Ono",
     "image": "image-Ristorante_Paradiso.jpg",
-    "year": 2006
+    "year": 2006,
+    "link": "ristorante-paradiso"
   },
   {
     "number": "699",
     "title": "Lucille",
     "author": "Ludovic Debeurme",
     "image": "image-Lucille.jpg",
-    "year": 2006
+    "year": 2006,
+    "link": "lucille"
   },
   {
     "number": "700",
     "title": "Reflections",
     "author": "Marco Corona",
     "image": "image-Reflections.jpg",
-    "year": 2006
+    "year": 2006,
+    "link": "reflections"
   },
   {
     "number": "701",
     "title": "Orange",
     "author": "Benjamin",
     "image": "image-Orange.jpg",
-    "year": 2006
+    "year": 2006,
+    "link": "orange"
   },
   {
     "number": "702",
     "title": "Cash: I See a Darkness",
     "author": "Reinhard Kleist",
-    "image": "image-Cash_I_See_a_Darkness.jpg"
+    "image": "image-Cash_I_See_a_Darkness.jpg",
+    "link": "cash-i-see-a-darkness"
   },
   {
     "number": "703",
     "title": "Yorahop",
     "author": "Ancco",
     "image": "image-Yorahop.jpg",
-    "year": 2007
+    "year": 2007,
+    "link": "yorahop"
   },
   {
     "number": "704",
     "title": "How to Be Everywhere",
     "author": "Warren Craghead III",
-    "image": "image-How_to_Be_Everywhere.jpg"
+    "image": "image-How_to_Be_Everywhere.jpg",
+    "link": "how-to-be-everywhere"
   },
   {
     "number": "705",
     "title": "Three Shadows",
     "author": "Cyril Pedrosa",
     "image": "image-Three_Shadows.jpg",
-    "year": 2007
+    "year": 2007,
+    "link": "three-shadows"
   },
   {
     "number": "706",
     "title": "Regards From Serbia",
     "author": "Aleksandar Zograf",
     "image": "image-Regards_From_Serbia.jpg",
-    "year": 2007
+    "year": 2007,
+    "link": "regards-from-serbia"
   },
   {
     "number": "707",
     "title": "The Chimpanzee Complex",
     "author": "Richard Marazano",
     "image": "image-The_Chimpanzee_Complex.jpg",
-    "year": 2007
+    "year": 2007,
+    "link": "the-chimpanzee-complex"
   },
   {
     "number": "708",
     "title": "Years of the Elephant",
     "author": "Willy Linthout",
-    "image": "image-Years_of_the_Elephant.jpg"
+    "image": "image-Years_of_the_Elephant.jpg",
+    "link": "years-of-the-elephant"
   },
   {
     "number": "709",
     "title": "Faire Semblant C'est Mentir",
     "author": "Dominique Boblet",
-    "image": "image-Faire_Semblant_Cest_Mentir.jpg"
+    "image": "image-Faire_Semblant_Cest_Mentir.jpg",
+    "link": "faire-semblant-cest-mentir"
   },
   {
     "number": "710",
     "title": "Omega the Unknown",
     "author": "Jonathan Letham",
-    "image": "image-Omega_the_Unknown.jpg"
+    "image": "image-Omega_the_Unknown.jpg",
+    "link": "omega-the-unknown"
   },
   {
     "number": "711",
     "title": "Laika",
     "author": "Nick Abadzis",
     "image": "image-Laika.jpg",
-    "year": 2007
+    "year": 2007,
+    "link": "laika"
   },
   {
     "number": "712",
     "title": "Kiki De Montparnasse",
     "author": "José-Louis Bocquet",
-    "image": "image-Kiki_De_Montparnasse.jpg"
+    "image": "image-Kiki_De_Montparnasse.jpg",
+    "link": "kiki-de-montparnasse"
   },
   {
     "number": "713",
     "title": "Body World",
     "author": "Dash Shaw",
     "image": "image-Body_World.jpg",
-    "year": 2007
+    "year": 2007,
+    "link": "body-world"
   },
   {
     "number": "714",
     "title": "Cecil's Quest",
     "author": "Frantisek Skala",
-    "image": "image-Cecils_Quest.jpg"
+    "image": "image-Cecils_Quest.jpg",
+    "link": "cecils-quest"
   },
   {
     "number": "715",
     "title": "Dance by the Light of the Moon",
     "author": "Judith Vanistendael",
-    "image": "image-Dance_by_the_Light_of_the_Moon.jpg"
+    "image": "image-Dance_by_the_Light_of_the_Moon.jpg",
+    "link": "dance-by-the-light-of-the-moon"
   },
   {
     "number": "716",
     "title": "Children of the Sea",
     "author": "Daisuke Igarashi",
-    "image": "image-Children_of_the_Sea.jpg"
+    "image": "image-Children_of_the_Sea.jpg",
+    "link": "children-of-the-sea"
   },
   {
     "number": "717",
     "title": "Nothing Broth",
     "author": "Andrea Bruno",
     "image": "image-Nothing_Broth.jpg",
-    "year": 2007
+    "year": 2007,
+    "link": "nothing-broth"
   },
   {
     "number": "718",
     "title": "Sleepyheads",
     "author": "Randall C",
     "image": "image-Sleepyheads.jpg",
-    "year": 2007
+    "year": 2007,
+    "link": "sleepyheads"
   },
   {
     "number": "719",
     "title": "Maggots",
     "author": "Brian Chippendale",
     "image": "image-Maggots.jpg",
-    "year": 2007
+    "year": 2007,
+    "link": "maggots"
   },
   {
     "number": "720",
     "title": "Kiichi!!",
     "author": "Hideki Arai",
-    "image": "image-Kiichi.jpg"
+    "image": "image-Kiichi.jpg",
+    "link": "kiichi"
   },
   {
     "number": "721",
     "title": "Gus",
     "author": "Christophe Blain",
     "image": "image-Gus.jpg",
-    "year": 2007
+    "year": 2007,
+    "link": "gus"
   },
   {
     "number": "722",
     "title": "The Train",
     "author": "Chi Hoi",
     "image": "image-The_Train.jpg",
-    "year": 2007
+    "year": 2007,
+    "link": "the-train"
   },
   {
     "number": "723",
     "title": "Powr Mastrs",
     "author": "C.F.",
     "image": "image-Powr_Mastrs.jpg",
-    "year": 2007
+    "year": 2007,
+    "link": "powr-mastrs"
   },
   {
     "number": "724",
     "title": "My Mommy Is in America and She Met Buffalo Bill",
     "author": "Jean Regnaud",
-    "image": "image-My_Mommy_Is_in_America_and_She_Met_Buffalo_Bill.jpg"
+    "image": "image-My_Mommy_Is_in_America_and_She_Met_Buffalo_Bill.jpg",
+    "link": "my-mommy-is-in-america-and-she-met-buffalo-bill"
   },
   {
     "number": "725",
     "title": "Metro",
     "author": "Magdy El Shafee",
     "image": "image-Metro.jpg",
-    "year": 2008
+    "year": 2008,
+    "link": "metro"
   },
   {
     "number": "726",
     "title": "Fueye",
     "author": "Jorge González",
     "image": "image-Fueye.jpg",
-    "year": 2008
+    "year": 2008,
+    "link": "fueye"
   },
   {
     "number": "727",
     "title": "Giraffes in My Hair",
     "author": "Bruce Paley",
-    "image": "image-Giraffes_in_My_Hair.jpg"
+    "image": "image-Giraffes_in_My_Hair.jpg",
+    "link": "giraffes-in-my-hair"
   },
   {
     "number": "728",
     "title": "Britten and Brülightly",
     "author": "Hannah Berry",
-    "image": "image-Britten_and_Brlightly.jpg"
+    "image": "image-Britten_and_Brlightly.jpg",
+    "link": "britten-and-brlightly"
   },
   {
     "number": "729",
     "title": "The Sacrifice",
     "author": "Bruce Mutard",
     "image": "image-The_Sacrifice.jpg",
-    "year": 2008
+    "year": 2008,
+    "link": "the-sacrifice"
   },
   {
     "number": "730",
     "title": "Kajaani",
     "author": "Ville Ranta",
     "image": "image-Kajaani.jpg",
-    "year": 2008
+    "year": 2008,
+    "link": "kajaani"
   },
   {
     "number": "731",
     "title": "Kari",
     "author": "Amruta Patil",
     "image": "image-Kari.jpg",
-    "year": 2008
+    "year": 2008,
+    "link": "kari"
   },
   {
     "number": "732",
     "title": "Aitienpäivä",
     "author": "Amanda Vähämäki",
     "image": "image-Aitienpiv.jpg",
-    "year": 2008
+    "year": 2008,
+    "link": "aitienpiv"
   },
   {
     "number": "733",
     "title": "Frances",
     "author": "Joanna Hellgren",
     "image": "image-Frances.jpg",
-    "year": 2008
+    "year": 2008,
+    "link": "frances"
   },
   {
     "number": "734",
     "title": "Monster Men Bureiko Lullaby",
     "author": "Takashi Nemoto",
     "image": "image-Monster_Men_Bureiko_Lullaby.jpg",
-    "year": 2008
+    "year": 2008,
+    "link": "monster-men-bureiko-lullaby"
   },
   {
     "number": "735",
     "title": "Stalin's Spy in Tokyo",
     "author": "Isabel Kreitz",
-    "image": "image-Stalins_Spy_in_Tokyo.jpg"
+    "image": "image-Stalins_Spy_in_Tokyo.jpg",
+    "link": "stalins-spy-in-tokyo"
   },
   {
     "number": "736",
     "title": "Pinocchio",
     "author": "Winshluss",
     "image": "image-Pinocchio.jpg",
-    "year": 2008
+    "year": 2008,
+    "link": "pinocchio"
   },
   {
     "number": "737",
     "title": "No Comment",
     "author": "Ivan Brun",
     "image": "image-No_Comment.jpg",
-    "year": 2008
+    "year": 2008,
+    "link": "no-comment"
   },
   {
     "number": "738",
     "title": "Pushwagners Soft City",
     "author": "Hariton Pushwagner",
     "image": "image-Pushwagners_Soft_City.jpg",
-    "year": 2008
+    "year": 2008,
+    "link": "pushwagners-soft-city"
   },
   {
     "number": "739",
     "title": "Rumble Strip",
     "author": "Woodrow Phoenix",
     "image": "image-Rumble_Strip.jpg",
-    "year": 2008
+    "year": 2008,
+    "link": "rumble-strip"
   },
   {
     "number": "740",
     "title": "A Taste of Chlorine",
     "author": "Bastien Vivès",
-    "image": "image-A_Taste_of_Chlorine.jpg"
+    "image": "image-A_Taste_of_Chlorine.jpg",
+    "link": "a-taste-of-chlorine"
   },
   {
     "number": "741",
     "title": "Van Helsing's Night off",
     "author": "Nicolas Mahler",
-    "image": "image-Van_Helsings_Night_off.jpg"
+    "image": "image-Van_Helsings_Night_off.jpg",
+    "link": "van-helsings-night-off"
   },
   {
     "number": "742",
     "title": "My Dear Saturday",
     "author": "Marcello Quintanhila",
     "image": "image-My_Dear_Saturday.jpg",
-    "year": 2009
+    "year": 2009,
+    "link": "my-dear-saturday"
   },
   {
     "number": "743",
     "title": "Masterpiece Comics",
     "author": "Robert Sikoryak",
     "image": "image-Masterpiece_Comics.jpg",
-    "year": 2009
+    "year": 2009,
+    "link": "masterpiece-comics"
   },
   {
     "number": "744",
     "title": "Attack on Titan",
     "author": "Hajime Isayama",
-    "image": "image-Attack_on_Titan.jpg"
+    "image": "image-Attack_on_Titan.jpg",
+    "link": "attack-on-titan"
   },
   {
     "number": "745",
     "title": "The Wrong Place",
     "author": "Brecht Evens",
     "image": "image-The_Wrong_Place.jpg",
-    "year": 2009
+    "year": 2009,
+    "link": "the-wrong-place"
   },
   {
     "number": "746",
     "title": "Bayou",
     "author": "Jeremy Love",
     "image": "image-Bayou.jpg",
-    "year": 2009
+    "year": 2009,
+    "link": "bayou"
   },
   {
     "number": "747",
     "title": "The Impostor's Daughter",
     "author": "Laurie Sandell",
-    "image": "image-The_Impostors_Daughter.jpg"
+    "image": "image-The_Impostors_Daughter.jpg",
+    "link": "the-impostors-daughter"
   },
   {
     "number": "748",
     "title": "Alpha... Directions",
     "author": "Jens Harder",
-    "image": "image-Alpha_Directions.jpg"
+    "image": "image-Alpha_Directions.jpg",
+    "link": "alpha-directions"
   },
   {
     "number": "749",
     "title": "Eden",
     "author": "Kioskerman",
     "image": "image-Eden.jpg",
-    "year": 2009
+    "year": 2009,
+    "link": "eden"
   },
   {
     "number": "750",
     "title": "Walking the Dog",
     "author": "David Hughes",
-    "image": "image-Walking_the_Dog.jpg"
+    "image": "image-Walking_the_Dog.jpg",
+    "link": "walking-the-dog"
   },
   {
     "number": "751",
     "title": "Footnotes in Gaza",
     "author": "Joe Sacco",
-    "image": "image-Footnotes_in_Gaza.jpg"
+    "image": "image-Footnotes_in_Gaza.jpg",
+    "link": "footnotes-in-gaza"
   },
   {
     "number": "752",
     "title": "Map of My Heart",
     "author": "John Porcellino",
-    "image": "image-Map_of_My_Heart.jpg"
+    "image": "image-Map_of_My_Heart.jpg",
+    "link": "map-of-my-heart"
   },
   {
     "number": "753",
     "title": "The Art of Flying",
     "author": "Antonio Altaririba",
-    "image": "image-The_Art_of_Flying.jpg"
+    "image": "image-The_Art_of_Flying.jpg",
+    "link": "the-art-of-flying"
   },
   {
     "number": "754",
     "title": "Walking With Samuel",
     "author": "Tommi Musturi",
     "image": "image-Walking_With_Samuel.jpg",
-    "year": 2009
+    "year": 2009,
+    "link": "walking-with-samuel"
   },
   {
     "number": "755",
     "title": "Stitches",
     "author": "David Small",
     "image": "image-Stitches.jpg",
-    "year": 2009
+    "year": 2009,
+    "link": "stitches"
   },
   {
     "number": "756",
     "title": "Temperance",
     "author": "Cathy Malkasian",
     "image": "image-Temperance.jpg",
-    "year": 2009
+    "year": 2009,
+    "link": "temperance"
   },
   {
     "number": "757",
     "title": "Special Exits",
     "author": "Joyce Farmer",
     "image": "image-Special_Exits.jpg",
-    "year": 2010
+    "year": 2010,
+    "link": "special-exits"
   },
   {
     "number": "758",
     "title": "Psychiatric Tales",
     "author": "Daryl Cunningham",
     "image": "image-Psychiatric_Tales.jpg",
-    "year": 2010
+    "year": 2010,
+    "link": "psychiatric-tales"
   },
   {
     "number": "759",
     "title": "Hair Shirt",
     "author": "Patrick McEown",
     "image": "image-Hair_Shirt.jpg",
-    "year": 2010
+    "year": 2010,
+    "link": "hair-shirt"
   },
   {
     "number": "760",
     "title": "Market Day",
     "author": "James Sturm",
     "image": "image-Market_Day.jpg",
-    "year": 2010
+    "year": 2010,
+    "link": "market-day"
   },
   {
     "number": "761",
     "title": "Magic Mirror",
     "author": "Ed Pinsent",
     "image": "image-Magic_Mirror.jpg",
-    "year": 2010
+    "year": 2010,
+    "link": "magic-mirror"
   },
   {
     "number": "762",
     "title": "La Faille",
     "author": "Carlos Sampayo",
     "image": "image-La_Faille.jpg",
-    "year": 2010
+    "year": 2010,
+    "link": "la-faille"
   },
   {
     "number": "763",
     "title": "Forget Sorrow: An Ancestral Tale",
     "author": "Belle Yang",
     "image": "image-Forget_Sorrow_An_Ancestral_Tale.jpg",
-    "year": 2010
+    "year": 2010,
+    "link": "forget-sorrow-an-ancestral-tale"
   },
   {
     "number": "764",
     "title": "Mezolith",
     "author": "Ben Haggarty",
-    "image": "image-Mezolith.jpg"
+    "image": "image-Mezolith.jpg",
+    "link": "mezolith"
   },
   {
     "number": "765",
     "title": "A Single Match",
     "author": "Oji Suzuki",
     "image": "image-A_Single_Match.jpg",
-    "year": 2010
+    "year": 2010,
+    "link": "a-single-match"
   },
   {
     "number": "766",
     "title": "Daytripper",
     "author": "Fabio Moon & Gabriel Ba",
     "image": "image-Daytripper.jpg",
-    "year": 2010
+    "year": 2010,
+    "link": "daytripper"
   },
   {
     "number": "767",
     "title": "100 Months",
     "author": "John Hickleton",
     "image": "image-100_Months.jpg",
-    "year": 2010
+    "year": 2010,
+    "link": "100-months"
   },
   {
     "number": "768",
     "title": "The Great Unwashed",
     "author": "Gary Pleece",
     "image": "image-The_Great_Unwashed.jpg",
-    "year": 2011
+    "year": 2011,
+    "link": "the-great-unwashed"
   },
   {
     "number": "769",
     "title": "The Harappa Files",
     "author": "Sanath Banerjee",
     "image": "image-The_Harappa_Files.jpg",
-    "year": 2011
+    "year": 2011,
+    "link": "the-harappa-files"
   },
   {
     "number": "770",
     "title": "Bhimayana",
     "author": "Srividya Natarajan and S. Anand",
     "image": "image-Bhimayana.jpg",
-    "year": 2011
+    "year": 2011,
+    "link": "bhimayana"
   },
   {
     "number": "771",
     "title": "Habibi",
     "author": "Craig Thompson",
     "image": "image-Habibi.jpg",
-    "year": 2011
+    "year": 2011,
+    "link": "habibi"
   }
 ]

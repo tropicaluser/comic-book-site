@@ -1,9 +1,8 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import { ArrowLeftIcon } from "lucide-react";
-import PhotoImage from "./image.jpg";
-import Image from "next/image";
 import Link from "next/link";
+import { data } from "@/data/slice-data";
 
 const CustomButtonDefault = ({ children, ...props }: any) => {
   return (
@@ -29,7 +28,12 @@ const CustomButtonInverse = ({ children, ...props }: any) => {
   );
 };
 
-export default function BookPageLayout() {
+export default async function BookPageLayout({ params }: { slug: string }) {
+  // filter one object from data.json
+  const book = data.find((book: any) => book.link === params.item);
+
+  console.log("book", book);
+
   return (
     <div className="bg-[#F5F6F8]">
       <div className="bg-orange-500 h-[250px]">
@@ -41,20 +45,21 @@ export default function BookPageLayout() {
       </div>
 
       <div className="md:ml-28 -mt-40 md:bg-white md:max-w-2xl rounded">
-        <BookPage />
+        <BookPage data={book} />
       </div>
     </div>
   );
 }
 
-function BookPage() {
+function BookPage({ data }: any) {
+  const { title, image, author, description, link } = data;
   return (
     <>
       <div className="grid md:grid-cols-2">
         <div>
-          <Image
+          <img
             alt="something"
-            src={PhotoImage}
+            src={`${process.env.NEXT_PUBLIC_BASE_URL}/books/images/${image}`}
             width={200}
             style={{
               boxShadow: "4px 4px 10px rgba(0, 0, 0, 0.25)", // Right and bottom shadow
@@ -63,9 +68,9 @@ function BookPage() {
           />
         </div>
         <div className="flex flex-col justify-end gap-4 md:-ml-8 pt-8 md:pt-0">
-          <h1 className="text-4xl font-rubik font-medium">Garis Waktu</h1>
+          <h1 className="text-4xl font-rubik font-medium">{title}</h1>
           <div className="flex gap-4 font-rambla text-gray-500">
-            <p>by Fiersa Besari</p>
+            <p>by {author}</p>
             <p>1 Juli 2024</p>
           </div>
           <div className="flex gap-4 font-rambla  text-gray-500">
