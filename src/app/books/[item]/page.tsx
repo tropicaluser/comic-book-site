@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { ArrowLeftIcon } from "lucide-react";
 import PhotoImage from "./image.jpg";
 import Image from "next/image";
