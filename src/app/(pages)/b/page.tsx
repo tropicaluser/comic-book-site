@@ -1,13 +1,12 @@
 "use client";
 
 import { BookList } from "@/app/(components)/Book";
-import { dataPre1930 } from '@/data/slice-data';
+import { data19301950 } from "@/data/slice-data";
 
-
-export default function Home() {
+export default function PageComics() {
   return (
     <div className="grid bg-white h-full">
-      <BookList data={dataPre1930} />
+      <BookList data={data19301950} />
     </div>
   );
 }
