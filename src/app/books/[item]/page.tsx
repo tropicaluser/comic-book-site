@@ -45,7 +45,7 @@ export default function BookPageLayout() {
         </div>
       </div>
 
-      <div className="ml-28 -mt-40 bg-white max-w-xl rounded">
+      <div className="ml-28 -mt-40 bg-white max-w-2xl rounded">
         <BookPage />
       </div>
     </div>
@@ -87,7 +87,7 @@ function BookPage() {
       </div>
       <div className="pt-10 grid px-8">
         <h1 className="font-rubik text-2xl font-thin">Sinoposis</h1>
-        <p className="max-w-xl font-rambla text-gray-500">
+        <p className="max-w-xl font-rambla text-gray-500 text-md">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Varius nisl
           sed sit aliquet nullam pretium. Velit vel aliquam amet augue. Risus id
           purus dolor dolor. Sagittis at vulputate rhoncus pharetra purus vitae,
