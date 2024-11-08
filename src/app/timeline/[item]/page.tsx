@@ -24,7 +24,7 @@ const groupByYear = (data: any[]) => {
   }, {});
 };
 
-export default function PageComics({ params }: { slug: string }) {
+export default function PageComics({ params }: any) {
   // params
   const { item } = params;
 

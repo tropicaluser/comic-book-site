@@ -28,7 +28,7 @@ const CustomButtonInverse = ({ children, ...props }: any) => {
   );
 };
 
-export default async function BookPageLayout({ params }: { slug: string }) {
+export default async function BookPageLayout({ params }: any) {
   // filter one object from data.json
   const book = data.find((book: any) => book.link === params.item);
 
